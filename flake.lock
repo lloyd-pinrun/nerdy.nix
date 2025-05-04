@@ -18,6 +18,94 @@
         "type": "github"
       }
     },
+    "flake-utils": {
+      "inputs": {
+        "systems": "systems"
+      },
+      "locked": {
+        "lastModified": 1731533236,
+        "narHash": "sha256-l0KFg5HjrsfsO/JpG+r7fRrqm12kzFHyUHqHCVpMMbI=",
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "rev": "11707dc2f618dd54ca8739b309ec4fc024de578b",
+        "type": "github"
+      },
+      "original": {
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "type": "github"
+      }
+    },
+    "gitignore": {
+      "inputs": {
+        "nixpkgs": [
+          "pre-commit",
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "narHash": "sha256-CwDoBfDBhii5sXoiARwwxRrEwWnd0JFfzY7re6GTbnI=",
+        "type": "file",
+        "url": "https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/glyphnames.json"
+      },
+      "original": {
+        "owner": "hercules-ci",
+        "repo": "gitignore.nix",
+        "type": "github"
+      }
+    },
+    "ixx": {
+      "inputs": {
+        "flake-utils": [
+          "search",
+          "flake-utils"
+        ],
+        "nixpkgs": [
+          "search",
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1737371634,
+        "narHash": "sha256-fTVAWzT1UMm1lT+YxHuVPtH+DATrhYfea3B0MxG/cGw=",
+        "owner": "NuschtOS",
+        "repo": "ixx",
+        "rev": "a1176e2a10ce745ff8f63e4af124ece8fe0b1648",
+        "type": "github"
+      },
+      "original": {
+        "owner": "NuschtOS",
+        "ref": "v0.0.7",
+        "repo": "ixx",
+        "type": "github"
+      }
+    },
+    "just": {
+      "inputs": {
+        "flake-parts": [
+          "flake-parts"
+        ],
+        "nixpkgs": [
+          "nixpkgs"
+        ],
+        "pre-commit": [
+          "pre-commit"
+        ]
+      },
+      "locked": {
+        "lastModified": 1746308625,
+        "narHash": "sha256-uA+3G9dOQuHQGJTBsLTwTkDQjsdTK7VDuGbPV4emLHg=",
+        "owner": "lloyd-pinrun",
+        "repo": "just.nix",
+        "rev": "7d480db09d91ab64240ba164a71223188bdd39e1",
+        "type": "github"
+      },
+      "original": {
+        "owner": "lloyd-pinrun",
+        "repo": "just.nix",
+        "type": "github"
+      }
+    },
     "nerd-glyphs": {
       "flake": false,
       "locked": {
@@ -64,9 +152,33 @@
     "root": {
       "inputs": {
         "flake-parts": "flake-parts",
+        "just": "just",
         "nerd-glyphs": "nerd-glyphs",
         "nixpkgs": "nixpkgs",
-        "systems": "systems"
+        "pre-commit": "pre-commit",
+        "search": "search"
+      }
+    },
+    "search": {
+      "inputs": {
+        "flake-utils": "flake-utils",
+        "ixx": "ixx",
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1745046075,
+        "narHash": "sha256-8v4y6k16Ra/fiecb4DxhsoOGtzLKgKlS+9/XJ9z0T2I=",
+        "owner": "nuschtos",
+        "repo": "search",
+        "rev": "066afe8643274470f4a294442aadd988356a478f",
+        "type": "github"
+      },
+      "original": {
+        "owner": "nuschtos",
+        "repo": "search",
+        "type": "github"
       }
     },
     "systems": {
