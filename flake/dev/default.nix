@@ -2,6 +2,8 @@
   imports = [
     inputs.just.flakeModule
     inputs.pre-commit.flakeModule
+
+    ./update-glyphs
   ];
 
   perSystem = {
@@ -43,7 +45,6 @@
               MD013.line_length = 120;
             };
           };
-          typos.enable = true;
 
           # -- Nix --
           alejandra.enable = true;
@@ -58,7 +59,6 @@
 
     devShells.default = pkgs.mkShell {
       name = "just.nix development shell";
-      packages = with pkgs; [alejandra deadnix nixd statix];
       inputsFrom = [just.devShell];
       shellHook = ''
         ${config.pre-commit.installationScript}
