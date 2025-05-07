@@ -58,7 +58,7 @@
     };
 
     devShells.default = pkgs.mkShell {
-      name = "just.nix development shell";
+      name = "nerdy.nix development shell";
       inputsFrom = [just.devShell];
       shellHook = ''
         ${config.pre-commit.installationScript}
