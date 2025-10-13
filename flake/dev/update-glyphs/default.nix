@@ -1,4 +1,4 @@
-{inputs, ...}: {
+{
   perSystem = {
     lib,
     pkgs,
@@ -17,9 +17,9 @@
       flakeIgnore = ["E501"];
       libraries = with python3.pkgs; [rtoml];
     } (readFile ./update-glyphs.py);
-
-    packageExe = getExe package;
   in {
-    just.recipes."update *ARGS" = "${packageExe} ${inputs.nerd-glyphs} {{ ARGS }}";
+    devenv.shells.default.tasks."nerdy:update-glyphs" = {
+      exec = "${getExe package}";
+    };
   };
 }
