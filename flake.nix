@@ -11,11 +11,9 @@
     nerd-glyphs.flake = false;
   };
 
-  outputs = inputs @ {flake-parts, ...}: let
-    systems = import inputs.systems;
-  in
-    flake-parts.lib.mkFlake {inherit inputs;} {
-      inherit systems;
+  outputs = inputs:
+    inputs.flake-parts.lib.mkFlake {inherit inputs;} {
+      systems = import inputs.systems;
 
       imports = [./flake];
     };
