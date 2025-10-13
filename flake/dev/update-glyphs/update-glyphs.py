@@ -22,7 +22,7 @@ def read_json(target):
         return json.loads(file.read())
 
 
-def nest_key(d, key, value):
+def nest_key(d: dict, key: str, value: str):
     acc = d
     parts = key.replace("-", "_").split("_")
 
@@ -38,21 +38,20 @@ def nest_key(d, key, value):
             acc[name] = value
 
 
-def sort_nested(d):
+def sort_nested(d: dict) -> dict:
     sorted_dict = {}
+
     for key in sorted(d.keys()):
         value = d[key]
-        if isinstance(value, dict):
-            sorted_dict[key] = sort_nested(value)
-        else:
-            sorted_dict[key] = value
+        sorted_dict[key] = sort_nested(value) if isinstance(value, dict) else value
+
     return sorted_dict
 
 
 def format_glyphs(raw: dict) -> dict:
     raw.pop("METADATA", None)
-    formatted = {}
 
+    formatted = {}
     for name, info in raw.items():
         if "char" in info:
             nest_key(formatted, name, info["char"])
