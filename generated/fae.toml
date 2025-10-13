@@ -1,0 +1,238 @@
+Atom = ''
+Bacteria = ''
+Banana = ''
+Bath = ''
+Bed = ''
+Benzene = ''
+Bigger = ''
+Biohazard = ''
+Bones = ''
+Brain = ''
+Bread = ''
+Butterfly = ''
+Carot = ''
+Cheese = ''
+Cherry = ''
+Chilli = ''
+Chip = ''
+Cicling = ''
+Cloud = ''
+Cockroach = ''
+Coins = ''
+Comb = ''
+Comet = ''
+Crown = ''
+Dice = ''
+Disco = ''
+Dna = ''
+Donut = ''
+Dress = ''
+Drop = ''
+Ello = ''
+Equal = ''
+Feedly = ''
+Fingerprint = ''
+Floppy = ''
+Footprint = ''
+Freecodecamp = ''
+Galaxy = ''
+Galery = ''
+Glass = ''
+Gps = ''
+Grav = ''
+Guitar = ''
+Gut = ''
+Halter = ''
+Hamburger = ''
+Hat = ''
+Hexagon = ''
+Hotdog = ''
+Imdb = ''
+Infinity = ''
+Injection = ''
+Isle = ''
+Java = ''
+Layers = ''
+Lips = ''
+Lipstick = ''
+Liver = ''
+Lollipop = ''
+Lung = ''
+Maximize = ''
+Meat = ''
+Medicine = ''
+Microscope = ''
+Minimize = ''
+Molecule = ''
+Mountains = ''
+Mushroom = ''
+Mustache = ''
+Mysql = ''
+Nintendo = ''
+Orange = ''
+Peach = ''
+Pear = ''
+Pi = ''
+Pizza = ''
+Planet = ''
+Plant = ''
+Playstation = ''
+Poison = ''
+Popcorn = ''
+Popsicle = ''
+Pulse = ''
+Python = ''
+Radioactive = ''
+Raining = ''
+Refrigerator = ''
+Restore = ''
+Ring = ''
+Ruby = ''
+Ruler = ''
+Shirt = ''
+Slash = ''
+Smaller = ''
+Snowing = ''
+Soda = ''
+Sofa = ''
+Soup = ''
+Spermatozoon = ''
+Stomach = ''
+Storm = ''
+Sushi = ''
+Tacos = ''
+Telegram = ''
+Telescope = ''
+Thermometer = ''
+Toilet = ''
+Tools = ''
+Tooth = ''
+Tree = ''
+Umbrella = ''
+Uterus = ''
+Virus = ''
+W3c = ''
+Walking = ''
+Wallet = ''
+Wind = ''
+Xbox = ''
+
+[apple]
+Fruit = ''
+
+[blogger]
+Circle = ''
+Square = ''
+
+[book]
+Open = ''
+
+[book.open]
+O = ''
+
+[cc]
+By = ''
+Cc = ''
+Nc = ''
+Nd = ''
+Remix = ''
+Sa = ''
+Share = ''
+Zero = ''
+
+[cc.nc]
+Eu = ''
+Jp = ''
+
+[checklist]
+O = ''
+
+[chess]
+Bishop = ''
+Horse = ''
+King = ''
+Pawn = ''
+Queen = ''
+Tower = ''
+
+[chicken]
+Thigh = ''
+
+[coffe]
+Beans = ''
+
+[cup]
+Coffe = ''
+
+[envelope]
+Open = ''
+
+[envelope.open]
+O = ''
+
+[equal]
+Bigger = ''
+
+[file]
+Export = ''
+Import = ''
+
+[gift]
+Card = ''
+
+[google]
+Drive = ''
+Play = ''
+
+[high]
+Heel = ''
+
+[ice]
+Cream = ''
+
+[id]
+Card = ''
+
+[loyalty]
+Card = ''
+
+[makeup]
+Brushes = ''
+
+[milk]
+Bottle = ''
+
+[moon]
+Cloud = ''
+
+[palette]
+Color = ''
+
+[quora]
+Circle = ''
+Square = ''
+
+[real]
+Heart = ''
+
+[ruby]
+O = ''
+
+[spin]
+Double = ''
+
+[sun]
+Cloud = ''
+
+[telegram]
+Circle = ''
+
+[thermometer]
+High = ''
+Low = ''
+
+[thin]
+Close = ''
+
+[triangle]
+Ruler = ''

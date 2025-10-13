@@ -1,0 +1,52 @@
+Ada = ''
+Asm = ''
+Astro = ''
+Bazel = ''
+C = ''
+Chuck = ''
+Cpp = ''
+Crystal = ''
+Css = ''
+Default = ''
+Electron = ''
+Elixir = ''
+Elm = ''
+Emacs = ''
+Fennel = ''
+Firebase = ''
+Folder = ''
+Go = ''
+Home = ''
+Kotlin = ''
+Msdos = ''
+Neovim = ''
+Orgmode = ''
+Prettier = ''
+Puppet = ''
+Purescript = ''
+Ruby = ''
+Scheme = ''
+Toml = ''
+Vim = ''
+Vitruvian = ''
+Windows = ''
+
+[common]
+Lisp = ''
+
+[folder]
+Config = ''
+Git = ''
+Github = ''
+Npm = ''
+Oct = ''
+Open = ''
+
+[folder.git]
+Branch = ''
+
+[play]
+Arrow = ''
+
+[v]
+Lang = ''

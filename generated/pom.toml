@@ -1,0 +1,25 @@
+Away = ''
+
+[clean]
+Code = ''
+
+[external]
+Interruption = ''
+
+[internal]
+Interruption = ''
+
+[long]
+Pause = ''
+
+[pair]
+Programming = ''
+
+[pomodoro]
+Done = ''
+Estimated = ''
+Squashed = ''
+Ticking = ''
+
+[short]
+Pause = ''

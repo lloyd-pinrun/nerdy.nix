@@ -1,0 +1,703 @@
+Account = ''
+Add = ''
+Archive = ''
+Azure = ''
+Beaker = ''
+Bell = ''
+Blank = ''
+Bold = ''
+Book = ''
+Bookmark = ''
+Briefcase = ''
+Broadcast = ''
+Browser = ''
+Bug = ''
+Calendar = ''
+Check = ''
+Checklist = ''
+Chip = ''
+Circle = ''
+Clippy = ''
+Close = ''
+Cloud = ''
+Code = ''
+Coffee = ''
+Combine = ''
+Comment = ''
+Compass = ''
+Copilot = ''
+Copy = ''
+Dash = ''
+Dashboard = ''
+Database = ''
+Debug = ''
+Diff = ''
+Discard = ''
+Edit = ''
+Ellipsis = ''
+Error = ''
+Exclude = ''
+Export = ''
+Extensions = ''
+Eye = ''
+Feedback = ''
+File = ''
+Files = ''
+Filter = ''
+Flame = ''
+Fold = ''
+Folder = ''
+Game = ''
+Gear = ''
+Gift = ''
+Github = ''
+Globe = ''
+Grabber = ''
+Graph = ''
+Gripper = ''
+Heart = ''
+History = ''
+Home = ''
+Hubot = ''
+Inbox = ''
+Indent = ''
+Info = ''
+Insert = ''
+Inspect = ''
+Issues = ''
+Italic = ''
+Jersey = ''
+Json = ''
+Key = ''
+Law = ''
+Layers = ''
+Layout = ''
+Library = ''
+Lightbulb = ''
+Link = ''
+Loading = ''
+Location = ''
+Lock = ''
+Magnet = ''
+Mail = ''
+Map = ''
+Markdown = ''
+Megaphone = ''
+Mention = ''
+Menu = ''
+Merge = ''
+Mic = ''
+Milestone = ''
+Mirror = ''
+Move = ''
+Music = ''
+Mute = ''
+Newline = ''
+Note = ''
+Notebook = ''
+Octoface = ''
+Organization = ''
+Output = ''
+Package = ''
+Paintcan = ''
+Pass = ''
+Person = ''
+Piano = ''
+Pin = ''
+Pinned = ''
+Play = ''
+Plug = ''
+Preview = ''
+Project = ''
+Pulse = ''
+Question = ''
+Quote = ''
+Reactions = ''
+Record = ''
+Redo = ''
+References = ''
+Refresh = ''
+Regex = ''
+Remote = ''
+Remove = ''
+Replace = ''
+Reply = ''
+Repo = ''
+Report = ''
+Rocket = ''
+Rss = ''
+Ruby = ''
+Save = ''
+Search = ''
+Send = ''
+Server = ''
+Settings = ''
+Shield = ''
+Smiley = ''
+Snake = ''
+Sparkle = ''
+Squirrel = ''
+Sync = ''
+Table = ''
+Tag = ''
+Target = ''
+Tasklist = ''
+Telescope = ''
+Terminal = ''
+Thumbsdown = ''
+Thumbsup = ''
+Tools = ''
+Trash = ''
+Twitter = ''
+Unfold = ''
+Unlock = ''
+Unmute = ''
+Unverified = ''
+Verified = ''
+Versions = ''
+Vm = ''
+Vr = ''
+Wand = ''
+Warning = ''
+Watch = ''
+Whitespace = ''
+Window = ''
+
+[activate]
+Breakpoints = ''
+
+[arrow]
+Both = ''
+Down = ''
+Left = ''
+Right = ''
+Swap = ''
+Up = ''
+
+[arrow.circle]
+Down = ''
+Left = ''
+Right = ''
+Up = ''
+
+[arrow.small]
+Down = ''
+Left = ''
+Right = ''
+Up = ''
+
+[azure]
+Devops = ''
+
+[beaker]
+Stop = ''
+
+[bell]
+Dot = ''
+Slash = ''
+
+[bell.slash]
+Dot = ''
+
+[bracket]
+Dot = ''
+Error = ''
+
+[call]
+Incoming = ''
+Outgoing = ''
+
+[case]
+Sensitive = ''
+
+[check]
+All = ''
+
+[chevron]
+Down = ''
+Left = ''
+Right = ''
+Up = ''
+
+[chrome]
+Close = ''
+Maximize = ''
+Minimize = ''
+Restore = ''
+
+[circle]
+Filled = ''
+Large = ''
+Slash = ''
+Small = ''
+
+[circle.large]
+Filled = ''
+
+[circle.small]
+Filled = ''
+
+[circuit]
+Board = ''
+
+[clear]
+All = ''
+
+[close]
+All = ''
+
+[cloud]
+Download = ''
+Upload = ''
+
+[collapse]
+All = ''
+
+[color]
+Mode = ''
+
+[comment]
+Discussion = ''
+Draft = ''
+Unresolved = ''
+
+[compass]
+Active = ''
+Dot = ''
+
+[credit]
+Card = ''
+
+[debug]
+All = ''
+Alt = ''
+Console = ''
+Continue = ''
+Coverage = ''
+Disconnect = ''
+Pause = ''
+Rerun = ''
+Restart = ''
+Stackframe = ''
+Start = ''
+Stop = ''
+
+[debug.alt]
+Small = ''
+
+[debug.breakpoint]
+Conditional = ''
+Data = ''
+Function = ''
+Log = ''
+Unsupported = ''
+
+[debug.breakpoint.conditional]
+Unverified = ''
+
+[debug.breakpoint.data]
+Unverified = ''
+
+[debug.breakpoint.function]
+Unverified = ''
+
+[debug.breakpoint.log]
+Unverified = ''
+
+[debug.continue]
+Small = ''
+[debug.line.by]
+Line = ''
+
+[debug.restart]
+Frame = ''
+
+[debug.reverse]
+Continue = ''
+
+[debug.stackframe]
+Active = ''
+
+[debug.step]
+Back = ''
+Into = ''
+Out = ''
+Over = ''
+
+[desktop]
+Download = ''
+
+[device]
+Camera = ''
+Mobile = ''
+
+[device.camera]
+Video = ''
+
+[diff]
+Added = ''
+Ignored = ''
+Modified = ''
+Removed = ''
+Renamed = ''
+
+[editor]
+Layout = ''
+
+[empty]
+Window = ''
+
+[error]
+Small = ''
+
+[expand]
+All = ''
+
+[eye]
+Closed = ''
+
+[file]
+Binary = ''
+Code = ''
+Media = ''
+Pdf = ''
+Submodule = ''
+Zip = ''
+
+[file.symlink]
+Directory = ''
+File = ''
+
+[filter]
+Filled = ''
+
+[fold]
+Down = ''
+Up = ''
+
+[folder]
+Active = ''
+Library = ''
+Opened = ''
+
+[gist]
+Secret = ''
+
+[git]
+Commit = ''
+Compare = ''
+Fetch = ''
+Merge = ''
+
+[git.pull]
+Request = ''
+
+[git.pull.request]
+Closed = ''
+Create = ''
+Draft = ''
+[git.pull.request.go.to]
+Changes = ''
+
+[git.pull.request.new]
+Changes = ''
+
+[github]
+Action = ''
+Alt = ''
+Inverted = ''
+[go.to]
+File = ''
+
+[graph]
+Left = ''
+Line = ''
+Scatter = ''
+[group.by.ref]
+Type = ''
+
+[heart]
+Filled = ''
+
+[horizontal]
+Rule = ''
+
+[issue]
+Draft = ''
+Reopened = ''
+
+[kebab]
+Vertical = ''
+
+[layers]
+Active = ''
+Dot = ''
+
+[layout]
+Centered = ''
+Menubar = ''
+Panel = ''
+Statusbar = ''
+
+[layout.activitybar]
+Left = ''
+Right = ''
+
+[layout.panel]
+Center = ''
+Justify = ''
+Left = ''
+Off = ''
+Right = ''
+
+[layout.sidebar]
+Left = ''
+Right = ''
+
+[layout.sidebar.left]
+Off = ''
+
+[layout.sidebar.right]
+Off = ''
+
+[lightbulb]
+Autofix = ''
+
+[link]
+External = ''
+
+[list]
+Filter = ''
+Flat = ''
+Ordered = ''
+Selection = ''
+Tree = ''
+Unordered = ''
+
+[live]
+Share = ''
+
+[lock]
+Small = ''
+
+[mail]
+Read = ''
+
+[map]
+Filled = ''
+
+[mic]
+Filled = ''
+
+[mortar]
+Board = ''
+
+[multiple]
+Windows = ''
+
+[new]
+File = ''
+Folder = ''
+
+[no]
+Newline = ''
+
+[notebook]
+Template = ''
+
+[open]
+Preview = ''
+
+[pass]
+Filled = ''
+
+[person]
+Add = ''
+
+[pie]
+Chart = ''
+
+[pinned]
+Dirty = ''
+
+[play]
+Circle = ''
+
+[preserve]
+Case = ''
+
+[primitive]
+Square = ''
+
+[radio]
+Tower = ''
+
+[record]
+Keys = ''
+Small = ''
+
+[remote]
+Explorer = ''
+
+[replace]
+All = ''
+
+[repo]
+Clone = ''
+Forked = ''
+Pull = ''
+Push = ''
+
+[repo.force]
+Push = ''
+
+[request]
+Changes = ''
+
+[root]
+Folder = ''
+
+[root.folder]
+Opened = ''
+
+[run]
+Above = ''
+All = ''
+Below = ''
+Errors = ''
+
+[save]
+All = ''
+As = ''
+
+[screen]
+Full = ''
+Normal = ''
+
+[search]
+Fuzzy = ''
+Stop = ''
+
+[server]
+Environment = ''
+Process = ''
+
+[settings]
+Gear = ''
+
+[sign]
+In = ''
+Out = ''
+
+[sort]
+Precedence = ''
+
+[source]
+Control = ''
+
+[split]
+Horizontal = ''
+Vertical = ''
+
+[star]
+Empty = ''
+Full = ''
+Half = ''
+
+[stop]
+Circle = ''
+
+[symbol]
+Array = ''
+Boolean = ''
+Class = ''
+Color = ''
+Constant = ''
+Enum = ''
+Event = ''
+Field = ''
+File = ''
+Interface = ''
+Key = ''
+Keyword = ''
+Method = ''
+Misc = ''
+Namespace = ''
+Numeric = ''
+Operator = ''
+Parameter = ''
+Property = ''
+Ruler = ''
+Snippet = ''
+String = ''
+Structure = ''
+Variable = ''
+
+[symbol.enum]
+Member = ''
+
+[sync]
+Ignored = ''
+
+[terminal]
+Bash = ''
+Cmd = ''
+Debian = ''
+Linux = ''
+Powershell = ''
+Tmux = ''
+Ubuntu = ''
+
+[text]
+Size = ''
+
+[three]
+Bars = ''
+
+[thumbsdown]
+Filled = ''
+
+[thumbsup]
+Filled = ''
+
+[triangle]
+Down = ''
+Left = ''
+Right = ''
+Up = ''
+
+[type]
+Hierarchy = ''
+
+[type.hierarchy]
+Sub = ''
+Super = ''
+[ungroup.by.ref]
+Type = ''
+
+[variable]
+Group = ''
+
+[verified]
+Filled = ''
+
+[vm]
+Active = ''
+Connect = ''
+Outline = ''
+Running = ''
+
+[whole]
+Word = ''
+
+[word]
+Wrap = ''
+
+[workspace]
+Trusted = ''
+Unknown = ''
+Untrusted = ''
+
+[zoom]
+In = ''
+Out = ''

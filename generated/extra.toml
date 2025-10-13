@@ -1,0 +1,17 @@
+[progress.empty]
+Left = ''
+Mid = ''
+Right = ''
+
+[progress.full]
+Left = ''
+Mid = ''
+Right = ''
+
+[progress.spinner]
+1 = ''
+2 = ''
+3 = ''
+4 = ''
+5 = ''
+6 = ''

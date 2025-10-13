@@ -1,0 +1,82 @@
+Honeycomb = ''
+
+[backslash]
+Separator = ''
+
+[backslash.separator]
+Redundant = ''
+
+[column]
+Number = ''
+
+[current]
+Column = ''
+
+[flame]
+Thick = ''
+Thin = ''
+
+[flame.thick]
+Mirrored = ''
+
+[flame.thin]
+Mirrored = ''
+
+[forwardslash]
+Separator = ''
+
+[forwardslash.separator]
+Redundant = ''
+
+[honeycomb]
+Outline = ''
+
+[ice]
+Waveform = ''
+
+[ice.waveform]
+Mirrored = ''
+[left.half.circle]
+Thick = ''
+Thin = ''
+[left.hard.divider]
+Inverse = ''
+
+[lego]
+Separator = ''
+
+[lego.block]
+Facing = ''
+Sideways = ''
+
+[lego.separator]
+Thin = ''
+[lower.left]
+Triangle = ''
+
+[lower.right]
+Triangle = ''
+[pixelated.squares]
+Big = ''
+Small = ''
+
+[pixelated.squares.big]
+Mirrored = ''
+
+[pixelated.squares.small]
+Mirrored = ''
+[right.half.circle]
+Thick = ''
+Thin = ''
+[right.hard.divider]
+Inverse = ''
+[trapezoid.top]
+Bottom = ''
+
+[trapezoid.top.bottom]
+Mirrored = ''
+[upper.left]
+Triangle = ''
+
+[upper.right]
+Triangle = ''

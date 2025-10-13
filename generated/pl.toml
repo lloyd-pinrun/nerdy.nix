@@ -1,0 +1,19 @@
+Branch = ''
+Hostname = ''
+Readonly = ''
+
+[current]
+Line = ''
+[left.hard]
+Divider = ''
+
+[left.soft]
+Divider = ''
+
+[line]
+Number = ''
+[right.hard]
+Divider = ''
+
+[right.soft]
+Divider = ''

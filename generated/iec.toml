@@ -1,0 +1,11 @@
+Power = '⏻'
+
+[power]
+Off = '⭘'
+On = '⏽'
+
+[sleep]
+Mode = '⏾'
+
+[toggle]
+Power = '⏼'

@@ -1,0 +1,12723 @@
+Abacus = '󱛠'
+Account = '󰀄'
+Adjust = '󰀚'
+Advertisements = '󱤪'
+Airbag = '󰯩'
+Airballoon = '󰀜'
+Airplane = '󰀝'
+Airport = '󰡋'
+Alarm = '󰀠'
+Album = '󰀥'
+Alert = '󰀦'
+Alien = '󰢚'
+Allergy = '󱉘'
+Alpha = '󰀫'
+Alphabetical = '󰀬'
+Altimeter = '󰗗'
+Ambulance = '󰀯'
+Ammunition = '󰳨'
+Ampersand = '󰪍'
+Amplifier = '󰀰'
+Anchor = '󰀱'
+Android = '󰀲'
+Angular = '󰚲'
+Angularjs = '󰚿'
+Animation = '󰗘'
+Ansible = '󱂚'
+Antenna = '󱄙'
+Anvil = '󰢛'
+Api = '󱂛'
+Apple = '󰀵'
+Application = '󰣆'
+Apps = '󰀻'
+Arch = '󰣇'
+Archive = '󰀼'
+Artstation = '󰭛'
+Assistant = '󰁤'
+Asterisk = '󰛄'
+At = '󰁥'
+Atlassian = '󰠄'
+Atm = '󰵇'
+Atom = '󰝨'
+Attachment = '󰁦'
+Autorenew = '󰁪'
+Aws = '󰸏'
+Axe = '󰣈'
+Axis = '󰵈'
+Babel = '󰨥'
+Baby = '󰁬'
+Backburger = '󰁭'
+Backspace = '󰁮'
+Bacteria = '󰻕'
+Badminton = '󰡑'
+Baguette = '󰼾'
+Balcony = '󱠗'
+Balloon = '󰨦'
+Ballot = '󰧉'
+Bandage = '󰶯'
+Bank = '󰁰'
+Barcode = '󰁱'
+Barley = '󰁳'
+Barn = '󰭞'
+Barrel = '󰁴'
+Baseball = '󰡒'
+Bash = '󱆃'
+Basket = '󰁶'
+Basketball = '󰠆'
+Bat = '󰭟'
+Bathtub = '󱠘'
+Battery = '󰁹'
+Beach = '󰂒'
+Beaker = '󰳪'
+Bed = '󰋣'
+Bee = '󰾡'
+Beekeeper = '󱓢'
+Beer = '󰂘'
+Bell = '󰂚'
+Beta = '󰂡'
+Betamax = '󰧋'
+Biathlon = '󰸔'
+Bicycle = '󱂜'
+Bike = '󰂣'
+Billboard = '󱀐'
+Billiards = '󰭡'
+Binoculars = '󰂥'
+Bio = '󰂦'
+Biohazard = '󰂧'
+Bird = '󱗆'
+Bitbucket = '󰂨'
+Bitcoin = '󰠓'
+Blender = '󰳫'
+Blinds = '󰂬'
+Bluetooth = '󰂯'
+Blur = '󰂵'
+Bolt = '󰶳'
+Bomb = '󰚑'
+Bone = '󰂹'
+Book = '󰂺'
+Bookmark = '󰃀'
+Bookshelf = '󱉟'
+Boombox = '󰗜'
+Boomerang = '󱃏'
+Bootstrap = '󰛆'
+Bowl = '󰊎'
+Bowling = '󰃓'
+Box = '󰃔'
+Braille = '󰧐'
+Brain = '󰧑'
+Bridge = '󰘘'
+Briefcase = '󰃖'
+Broadcast = '󱜠'
+Broom = '󰃢'
+Brush = '󰃣'
+Bucket = '󱐕'
+Buffet = '󰕸'
+Bug = '󰃤'
+Bugle = '󰶴'
+Bulldozer = '󰬢'
+Bullet = '󰳳'
+Bullhorn = '󰃦'
+Bullseye = '󰗝'
+Bulma = '󱋧'
+Bus = '󰃧'
+Butterfly = '󱖉'
+Cached = '󰃨'
+Cactus = '󰶵'
+Cake = '󰃩'
+Calculator = '󰃬'
+Calendar = '󰃭'
+Camcorder = '󰃼'
+Camera = '󰄀'
+Campfire = '󰻝'
+Cancel = '󰜺'
+Candelabra = '󱟒'
+Candle = '󰗢'
+Candy = '󱥰'
+Candycane = '󰄊'
+Cannabis = '󰞦'
+Car = '󰄋'
+Carabiner = '󱓀'
+Caravan = '󰞭'
+Card = '󰭯'
+Cards = '󰘸'
+Carrot = '󰄏'
+Cart = '󰄐'
+Cash = '󰄔'
+Cassette = '󰧔'
+Cast = '󰄘'
+Castle = '󰄚'
+Cat = '󰄛'
+Cctv = '󰞮'
+Cellphone = '󰄜'
+Centos = '󱄚'
+Certificate = '󰄤'
+Chandelier = '󱞓'
+Charity = '󰱏'
+Chat = '󰭹'
+Check = '󰄬'
+Checkbook = '󰪝'
+Checkerboard = '󰄺'
+Cheese = '󱊹'
+Chip = '󰘚'
+Church = '󰅄'
+Cigar = '󱆉'
+City = '󰅆'
+Clipboard = '󰅇'
+Clippy = '󰅏'
+Clock = '󰥔'
+Close = '󰅖'
+Cloud = '󰅟'
+Clover = '󰠖'
+Codepen = '󰅵'
+Coffee = '󰅶'
+Coffin = '󰭿'
+Cog = '󰒓'
+Cogs = '󰣖'
+Collage = '󰙀'
+Comma = '󰸣'
+Comment = '󰅺'
+Compare = '󰆊'
+Compass = '󰆋'
+Compost = '󱨸'
+Cone = '󱥌'
+Connection = '󱘖'
+Console = '󰆍'
+Consolidate = '󱃘'
+Contacts = '󰛋'
+Contain = '󰨾'
+Contrast = '󰆕'
+Cookie = '󰆘'
+Copyleft = '󱤹'
+Copyright = '󰗦'
+Cordova = '󰥘'
+Corn = '󰞸'
+Counter = '󰆙'
+Countertop = '󱠜'
+Cow = '󰆚'
+Cradle = '󱦋'
+Crane = '󰡢'
+Creation = '󰙴'
+Cricket = '󰵭'
+Crop = '󰆞'
+Cross = '󰥓'
+Crosshairs = '󰆣'
+Crowd = '󱥵'
+Crown = '󰆥'
+Cryengine = '󰥙'
+Cube = '󰆦'
+Cup = '󰆪'
+Cupboard = '󰽆'
+Cupcake = '󰥚'
+Curling = '󰡣'
+Curtains = '󱡆'
+Cylinder = '󱥎'
+Database = '󰆼'
+Debian = '󰣚'
+Decagram = '󰝬'
+Decimal = '󱂡'
+Delete = '󰆴'
+Delta = '󰇂'
+Desk = '󱈹'
+Deskphone = '󰇃'
+Details = '󰇆'
+Deviantart = '󰇇'
+Devices = '󰾰'
+Dharmachakra = '󰥋'
+Diabetes = '󱄦'
+Dialpad = '󰘜'
+Diameter = '󰱣'
+Diamond = '󰮊'
+Directions = '󰇐'
+Disc = '󰗮'
+Discord = '󰙯'
+Dishwasher = '󰪬'
+Disqus = '󰇒'
+Diversify = '󱡷'
+Diving = '󱥷'
+Division = '󰇔'
+Dlna = '󰩁'
+Dna = '󰚄'
+Dns = '󰇖'
+Docker = '󰡨'
+Doctor = '󰩂'
+Dog = '󰩃'
+Dolby = '󰚳'
+Dolly = '󰺞'
+Dolphin = '󱢴'
+Domain = '󰇗'
+Donkey = '󰟂'
+Door = '󰠚'
+Doorbell = '󱋦'
+Download = '󰇚'
+Drag = '󰇛'
+Draw = '󰽉'
+Drawing = '󰇞'
+Dresser = '󰽊'
+Drone = '󰇢'
+Dropbox = '󰇣'
+Drupal = '󰇤'
+Duck = '󰇥'
+Dumbbell = '󰇦'
+Earbuds = '󱡏'
+Earth = '󰇧'
+Egg = '󰪯'
+Eject = '󰇪'
+Elephant = '󰟆'
+Elevator = '󰇭'
+Ellipse = '󰺠'
+Email = '󰇮'
+Ember = '󰬰'
+Emby = '󰚴'
+Emoticon = '󰱨'
+Engine = '󰇺'
+Epsilon = '󱃠'
+Equal = '󰇼'
+Equalizer = '󰺢'
+Eraser = '󰇾'
+Escalator = '󰇿'
+Eslint = '󰱺'
+Et = '󰪳'
+Ethereum = '󰡪'
+Ethernet = '󰈀'
+Evernote = '󰈄'
+Excavator = '󱀥'
+Exclamation = '󰈅'
+Exponent = '󰥣'
+Export = '󰈇'
+Eye = '󰈈'
+Eyedropper = '󰈊'
+Facebook = '󰈌'
+Factory = '󰈏'
+Fan = '󰈐'
+Fax = '󰈒'
+Feather = '󰛓'
+Fedora = '󰣛'
+Fence = '󱞚'
+Fencing = '󱓁'
+Ferry = '󰈓'
+File = '󰈔'
+Film = '󰈯'
+Filmstrip = '󰈰'
+Filter = '󰈲'
+Finance = '󰠟'
+Fingerprint = '󰈷'
+Fire = '󰈸'
+Firebase = '󰥧'
+Firefox = '󰈹'
+Fireplace = '󰸮'
+Firewire = '󰖾'
+Firework = '󰸰'
+Fish = '󰈺'
+Fishbowl = '󰻳'
+Flag = '󰈻'
+Flare = '󰵲'
+Flash = '󰉁'
+Flashlight = '󰉄'
+Flask = '󰂓'
+Floppy = '󰉉'
+Flower = '󰉊'
+Folder = '󰉋'
+Food = '󰉚'
+Football = '󰉝'
+Forest = '󱢗'
+Forklift = '󰟉'
+Forum = '󰊌'
+Forward = '󰊍'
+Forwardburger = '󰵵'
+Fountain = '󰥫'
+Freebsd = '󰣠'
+Fridge = '󰊐'
+Fuel = '󰟊'
+Fullscreen = '󰊓'
+Function = '󰊕'
+Fuse = '󰲅'
+Gamepad = '󰊖'
+Gamma = '󱃮'
+Garage = '󰛙'
+Gate = '󰊙'
+Gatsby = '󰹃'
+Gauge = '󰊚'
+Gavel = '󰊛'
+Gentoo = '󰣨'
+Gesture = '󰟋'
+Ghost = '󰊠'
+Gift = '󰹄'
+Git = '󰊢'
+Github = '󰊤'
+Gitlab = '󰮠'
+Glasses = '󰊪'
+Gmail = '󰊫'
+Gnome = '󰊬'
+Gog = '󰮡'
+Gold = '󱉏'
+Golf = '󰠣'
+Gondola = '󰚆'
+Goodreads = '󰵻'
+Google = '󰊭'
+Grain = '󰵼'
+Graph = '󱁉'
+Graphql = '󰡷'
+Grass = '󱔐'
+Greenhouse = '󰀭'
+Grid = '󰋁'
+Grill = '󰹅'
+Group = '󰋃'
+Gymnastics = '󱩁'
+Hail = '󰫁'
+Halloween = '󰮣'
+Hamburger = '󰚅'
+Hammer = '󰣪'
+Handball = '󰽓'
+Handcuffs = '󱄾'
+Handshake = '󱈘'
+Hanger = '󰋈'
+Harddisk = '󰋊'
+Hdr = '󰵽'
+Head = '󱍞'
+Headphones = '󰋋'
+Headset = '󰋎'
+Heart = '󰋑'
+Helicopter = '󰫂'
+Help = '󰋖'
+Hexadecimal = '󱊧'
+Hexagon = '󰋘'
+Hexagram = '󰫉'
+Highway = '󰗷'
+Hiking = '󰵿'
+History = '󰋚'
+Hololens = '󰋛'
+Home = '󰋜'
+Hook = '󰛢'
+Hops = '󰋟'
+Horse = '󱖿'
+Horseshoe = '󰩘'
+Hospital = '󰿶'
+Hubspot = '󰴗'
+Hulu = '󰠩'
+Human = '󰋦'
+Hvac = '󱍒'
+Identifier = '󰻾'
+Image = '󰋩'
+Import = '󰋺'
+Inbox = '󰚇'
+Incognito = '󰗹'
+Induction = '󱡌'
+Infinity = '󰛤'
+Information = '󰋼'
+Instagram = '󰋾'
+Iobroker = '󱋨'
+Ip = '󰩟'
+Ipod = '󰲑'
+Iron = '󱠤'
+Island = '󱁏'
+Jabber = '󰷕'
+Jeepney = '󰌂'
+Jellyfish = '󰼁'
+Jira = '󰌃'
+Jquery = '󰡽'
+Jsfiddle = '󰌄'
+Kabaddi = '󰶇'
+Kangaroo = '󱕘'
+Karate = '󰠬'
+Kayaking = '󰢯'
+Keg = '󰌅'
+Kettle = '󰗺'
+Kettlebell = '󱌀'
+Key = '󰌆'
+Keyboard = '󰌌'
+Khanda = '󱃽'
+Kickstarter = '󰝅'
+Kite = '󱦅'
+Kitesurfing = '󱝄'
+Klingon = '󱍛'
+Knife = '󰧻'
+Koala = '󱜿'
+Kodi = '󰌔'
+Kubernetes = '󱃾'
+Label = '󰌕'
+Ladder = '󱖢'
+Ladybug = '󰠭'
+Lambda = '󰘧'
+Lamp = '󰚵'
+Lamps = '󱕶'
+Lan = '󰌗'
+Landslide = '󱩈'
+Laptop = '󰌢'
+Laravel = '󰫐'
+Lasso = '󰼃'
+Lastpass = '󰑆'
+Latitude = '󰽗'
+Launch = '󰌧'
+Layers = '󰌨'
+Leaf = '󰌪'
+Leak = '󰷗'
+Lecturn = '󱫰'
+Leek = '󱅽'
+Library = '󰌱'
+License = '󰿃'
+Lifebuoy = '󰡾'
+Lightbulb = '󰌵'
+Lighthouse = '󰧿'
+Lingerie = '󱑶'
+Link = '󰌷'
+Linkedin = '󰌻'
+Linux = '󰌽'
+Lipstick = '󱎵'
+Liquor = '󱤞'
+Litecoin = '󰩡'
+Loading = '󰝲'
+Lock = '󰌾'
+Locker = '󰟗'
+Login = '󰍂'
+Logout = '󰍃'
+Longitude = '󰽚'
+Looks = '󰍄'
+Lotion = '󱖂'
+Loupe = '󰍅'
+Lumx = '󰍆'
+Lungs = '󱂄'
+Mace = '󱡃'
+Magnet = '󰍇'
+Magnify = '󰍉'
+Mail = '󰺻'
+Mailbox = '󰛮'
+Manjaro = '󱘊'
+Map = '󰍍'
+Mapbox = '󰮪'
+Margin = '󰍓'
+Marker = '󰙒'
+Mastodon = '󰫑'
+Matrix = '󰘨'
+Medal = '󰦇'
+Meditation = '󱅻'
+Memory = '󰍛'
+Menorah = '󱟔'
+Menu = '󰍜'
+Merge = '󰽜'
+Message = '󰍡'
+Meteor = '󰘩'
+Metronome = '󰟚'
+Microphone = '󰍬'
+Microscope = '󰙔'
+Microsoft = '󰍲'
+Microwave = '󰲙'
+Middleware = '󰽝'
+Midi = '󰣱'
+Mine = '󰷚'
+Minecraft = '󰍳'
+Minidisc = '󰨆'
+Minus = '󰍴'
+Mirror = '󱇽'
+Molecule = '󰮬'
+Monitor = '󰍹'
+Moped = '󱂆'
+More = '󰍻'
+Mosque = '󱠧'
+Motion = '󱖲'
+Motorbike = '󰍼'
+Mouse = '󰍽'
+Movie = '󰎁'
+Mower = '󱙯'
+Muffin = '󰦌'
+Multicast = '󱢓'
+Multiplication = '󰎂'
+Mushroom = '󰟟'
+Music = '󰝚'
+Mustache = '󱗞'
+Nail = '󰷟'
+Nas = '󰣳'
+Nativescript = '󰢀'
+Nature = '󰎎'
+Navigation = '󰎐'
+Necklace = '󰼋'
+Needle = '󰎑'
+Netflix = '󰝆'
+Network = '󰛳'
+Newspaper = '󰎕'
+Nfc = '󰎖'
+Ninja = '󰝴'
+Nix = '󱄅'
+Nodejs = '󰎙'
+Noodles = '󱅾'
+Note = '󰎚'
+Notebook = '󰠮'
+Npm = '󰛷'
+Nuke = '󰚤'
+Null = '󰟢'
+Numeric = '󰎠'
+Nut = '󰛸'
+Nutrition = '󰏂'
+Nuxt = '󱄆'
+Oar = '󰙼'
+Ocarina = '󰷠'
+Oci = '󱋩'
+Ocr = '󱄺'
+Octagon = '󰏃'
+Octagram = '󰛹'
+Octahedron = '󱥐'
+Odnoklassniki = '󰏅'
+Offer = '󱈛'
+Oil = '󰏇'
+Om = '󰥳'
+Omega = '󰏉'
+Onepassword = '󰢁'
+Opacity = '󰗌'
+Openid = '󰏍'
+Opera = '󰏎'
+Orbit = '󰀘'
+Origin = '󰭃'
+Ornament = '󰏏'
+Overscan = '󱀅'
+Owl = '󰏒'
+Package = '󰏓'
+Pail = '󱐗'
+Palette = '󰏘'
+Pan = '󰮴'
+Panda = '󰏚'
+Pandora = '󰏛'
+Panorama = '󰏜'
+Paperclip = '󰏢'
+Parachute = '󰲴'
+Paragliding = '󱝅'
+Parking = '󰏣'
+Passport = '󰟣'
+Pasta = '󱅠'
+Patreon = '󰢂'
+Pause = '󰏤'
+Paw = '󰏩'
+Peace = '󰢄'
+Peanut = '󰿼'
+Pen = '󰏪'
+Pencil = '󰏫'
+Penguin = '󰻀'
+Pentagon = '󰜁'
+Pentagram = '󱙧'
+Percent = '󰏰'
+Ph = '󱟅'
+Phone = '󰏲'
+Pi = '󰏿'
+Piano = '󰙽'
+Pickaxe = '󰢷'
+Pier = '󰢇'
+Pig = '󰐁'
+Pill = '󰐂'
+Pillar = '󰜂'
+Pin = '󰐃'
+Pinterest = '󰐇'
+Pinwheel = '󰫕'
+Pipe = '󰟥'
+Pirate = '󰨈'
+Pistol = '󰜃'
+Piston = '󰢊'
+Pitchfork = '󱕓'
+Pizza = '󰐉'
+Play = '󰐊'
+Plex = '󰚺'
+Pliers = '󱦤'
+Plus = '󰐕'
+Podcast = '󰦔'
+Podium = '󰴥'
+Pokeball = '󰐝'
+Polaroid = '󰐞'
+Poll = '󰐟'
+Polo = '󱓃'
+Polymer = '󰐡'
+Pool = '󰘆'
+Popcorn = '󰐢'
+Post = '󱀈'
+Pot = '󰋥'
+Pound = '󰐣'
+Power = '󰐥'
+Powershell = '󰨊'
+Prescription = '󰜆'
+Presentation = '󰐨'
+Pretzel = '󱕢'
+Printer = '󰐪'
+Projector = '󰐮'
+Protocol = '󰿘'
+Publish = '󰚧'
+Pulse = '󰐰'
+Pump = '󱐂'
+Pumpkin = '󰮿'
+Purse = '󰼜'
+Puzzle = '󰐱'
+Pyramid = '󱥒'
+Qi = '󰦙'
+Qqchat = '󰘅'
+Qrcode = '󰐲'
+Quadcopter = '󰐴'
+Quora = '󰴩'
+Rabbit = '󰤇'
+Racquetball = '󰶔'
+Radar = '󰐷'
+Radiator = '󰐸'
+Radio = '󰐹'
+Radioactive = '󰐼'
+Radius = '󰳀'
+Rake = '󱕄'
+Raw = '󱨏'
+React = '󰜈'
+Read = '󰑇'
+Receipt = '󰑉'
+Record = '󰑊'
+Rectangle = '󰹞'
+Recycle = '󰑌'
+Reddit = '󰑍'
+Redhat = '󱄛'
+Redo = '󰑎'
+Refresh = '󰑐'
+Regex = '󰑑'
+Reiterate = '󱖈'
+Reload = '󰑓'
+Reminder = '󰢌'
+Remote = '󰑔'
+Repeat = '󰑖'
+Replay = '󰑙'
+Reply = '󰑚'
+Reproduction = '󰑜'
+Resistor = '󰭄'
+Resize = '󰩨'
+Responsive = '󰑞'
+Restart = '󰜉'
+Restore = '󰦛'
+Rewind = '󰑟'
+Rhombus = '󰜋'
+Ribbon = '󰑠'
+Rice = '󰟪'
+Rickshaw = '󱖻'
+Ring = '󰟫'
+Rivet = '󰹠'
+Road = '󰑡'
+Robber = '󱁘'
+Robot = '󰚩'
+Rocket = '󰑣'
+Rodent = '󱌧'
+Rollerblade = '󰴬'
+Rollupjs = '󰯀'
+Rolodex = '󱪹'
+Router = '󱇢'
+Routes = '󰑪'
+Rowing = '󰘈'
+Rss = '󰑫'
+Rug = '󱑵'
+Rugby = '󰶙'
+Ruler = '󰑭'
+Run = '󰜎'
+Sack = '󰴮'
+Safe = '󰩪'
+Sale = '󰑯'
+Salesforce = '󰢎'
+Sass = '󰟬'
+Satellite = '󰑰'
+Sausage = '󰢺'
+Saxophone = '󰘉'
+Scale = '󰑲'
+Scanner = '󰚫'
+Scent = '󱥘'
+School = '󰑴'
+Scooter = '󱖽'
+Scoreboard = '󱉾'
+Screwdriver = '󰑶'
+Script = '󰯁'
+Sd = '󰑹'
+Seal = '󰑺'
+Seat = '󰳃'
+Seatbelt = '󰳅'
+Security = '󰒃'
+Seed = '󰹢'
+Seesaw = '󱖤'
+Segment = '󰻋'
+Select = '󰒅'
+Selection = '󰒉'
+Send = '󰒊'
+Server = '󰒋'
+Shaker = '󱄎'
+Shape = '󰠱'
+Share = '󰒖'
+Shark = '󱢺'
+Sheep = '󰳆'
+Shield = '󰒘'
+Shimmer = '󱕅'
+Shopping = '󰒚'
+Shore = '󱓹'
+Shovel = '󰜐'
+Shower = '󰦠'
+Shredder = '󰒜'
+Shuffle = '󰒝'
+Shuriken = '󱍿'
+Sickle = '󱣀'
+Sigma = '󰒠'
+Signal = '󰒢'
+Signature = '󰷻'
+Silo = '󰭉'
+Silverware = '󰒣'
+Sim = '󰒧'
+Sitemap = '󰒪'
+Skate = '󰴵'
+Skateboard = '󱓂'
+Skateboarding = '󰔁'
+Ski = '󱌄'
+Skull = '󰚌'
+Skype = '󰒯'
+Slack = '󰒱'
+Sledding = '󰐛'
+Sleep = '󰒲'
+Slide = '󱖥'
+Smog = '󰩱'
+Smoke = '󱞙'
+Smoking = '󰒴'
+Snail = '󱙷'
+Snake = '󱔎'
+Snapchat = '󰒶'
+Snowboard = '󱌇'
+Snowflake = '󰜗'
+Snowman = '󰒷'
+Snowmobile = '󰛝'
+Snowshoeing = '󱩲'
+Soccer = '󰒸'
+Sofa = '󰒹'
+Solid = '󰚍'
+Sort = '󰒺'
+Soundbar = '󱟛'
+Soundcloud = '󰓀'
+Spa = '󰳑'
+Spade = '󰹥'
+Speaker = '󰓃'
+Spear = '󱡅'
+Speedometer = '󰓅'
+Spellcheck = '󰓆'
+Sphere = '󱥔'
+Spider = '󱇪'
+Spotify = '󰓇'
+Spotlight = '󰓈'
+Spray = '󰙥'
+Sprinkler = '󱁟'
+Sprout = '󰹦'
+Square = '󰝤'
+Squeegee = '󰫡'
+Ssh = '󰣀'
+Stackpath = '󰍙'
+Stadium = '󰿹'
+Stairs = '󰓍'
+Stamper = '󰴹'
+Star = '󰓎'
+Steam = '󰓓'
+Steering = '󰓔'
+Stethoscope = '󰓙'
+Sticker = '󱍤'
+Stocking = '󰓚'
+Stomach = '󱂓'
+Stool = '󱥝'
+Stop = '󰓛'
+Store = '󰓜'
+Storefront = '󰟇'
+Stove = '󰓞'
+Strategy = '󱇖'
+Submarine = '󱕬'
+Subtitles = '󰨖'
+Subway = '󰚬'
+Summit = '󰞆'
+Sunglasses = '󰓠'
+Surfing = '󱝆'
+Svg = '󰜡'
+Swim = '󰓣'
+Switch = '󰓤'
+Sword = '󰓥'
+Symbol = '󱔁'
+Symfony = '󰫦'
+Sync = '󰓦'
+Tab = '󰓩'
+Table = '󰓫'
+Tablet = '󰓶'
+Taco = '󰝢'
+Tag = '󰓹'
+Tailwind = '󱏿'
+Tangram = '󰓸'
+Tank = '󰴺'
+Target = '󰓾'
+Taxi = '󰓿'
+Tea = '󰶞'
+Teamviewer = '󰔀'
+Telescope = '󰭎'
+Television = '󰔂'
+Tennis = '󰶠'
+Tent = '󰔈'
+Terraform = '󱁢'
+Text = '󰦨'
+Texture = '󰔌'
+Theater = '󰔍'
+Thermometer = '󰔏'
+Thermostat = '󰎓'
+Ticket = '󰔖'
+Tie = '󰔙'
+Tilde = '󰜥'
+Timelapse = '󰔚'
+Timeline = '󰯑'
+Timer = '󱎫'
+Timetable = '󰔠'
+Tire = '󱢖'
+Toaster = '󱁣'
+Toilet = '󰦫'
+Toolbox = '󰦬'
+Tools = '󱁤'
+Tooltip = '󰔣'
+Tooth = '󰣃'
+Toothbrush = '󱄩'
+Torch = '󱘆'
+Tortoise = '󰴻'
+Toslink = '󱊸'
+Tournament = '󰦮'
+Trackpad = '󰟸'
+Tractor = '󰢒'
+Trademark = '󰩸'
+Train = '󰔬'
+Tram = '󰔭'
+Transcribe = '󰔮'
+Transfer = '󱁥'
+Transition = '󰤕'
+Translate = '󰗊'
+Tray = '󱊔'
+Tree = '󰔱'
+Trello = '󰔲'
+Triangle = '󰔶'
+Triforce = '󰯙'
+Trophy = '󰔸'
+Truck = '󰔽'
+Trumpet = '󱂖'
+Tsunami = '󱪁'
+Tune = '󰘮'
+Tunnel = '󱠽'
+Turbine = '󱪂'
+Turkey = '󱜛'
+Turnstile = '󰳕'
+Turtle = '󰳗'
+Twitch = '󰕃'
+Twitter = '󰕄'
+Typewriter = '󰼭'
+Ubisoft = '󰯚'
+Ubuntu = '󰕈'
+Ufo = '󱃄'
+Umbraco = '󰕉'
+Umbrella = '󰕊'
+Undo = '󰕌'
+Ungroup = '󰕐'
+Unicode = '󰻐'
+Unicorn = '󱗂'
+Unicycle = '󱗥'
+Unity = '󰚯'
+Unreal = '󰦱'
+Update = '󰚰'
+Upload = '󰕒'
+Usb = '󰕓'
+Vacuum = '󱦡'
+Valve = '󱁦'
+Vanish = '󰟼'
+Variable = '󰫧'
+Vhs = '󰨛'
+Vibrate = '󰕦'
+Video = '󰕧'
+Vimeo = '󰕷'
+Violin = '󰘏'
+Virus = '󱎶'
+Vlc = '󰕼'
+Voicemail = '󰕽'
+Volcano = '󱪃'
+Volleyball = '󰦴'
+Vote = '󰨟'
+Vpn = '󰖂'
+Vuejs = '󰡄'
+Vuetify = '󰹭'
+Walk = '󰖃'
+Wall = '󰟾'
+Wallet = '󰖄'
+Wallpaper = '󰸉'
+Wan = '󰖈'
+Wardrobe = '󰾐'
+Warehouse = '󰾁'
+Watch = '󰖉'
+Water = '󰖌'
+Waterfall = '󱡉'
+Watermark = '󰘒'
+Wave = '󰼮'
+Waveform = '󱑽'
+Waves = '󰞍'
+Waze = '󰯞'
+Web = '󰖟'
+Webcam = '󰖠'
+Webhook = '󰘯'
+Webpack = '󰜫'
+Webrtc = '󱉈'
+Wechat = '󰘑'
+Weight = '󰖡'
+Whatsapp = '󰖣'
+Wheelchair = '󱪇'
+Whistle = '󰦶'
+Widgets = '󰜬'
+Wifi = '󰖩'
+Wikipedia = '󰖬'
+Windsock = '󱗺'
+Wiper = '󰫩'
+Wordpress = '󰖴'
+Wrap = '󰖶'
+Wrench = '󰖷'
+Xamarin = '󰡅'
+Xml = '󰗀'
+Xmpp = '󰟿'
+Yahoo = '󰭏'
+Yeast = '󰗁'
+Yoga = '󱅼'
+Youtube = '󰗃'
+Yurt = '󱔖'
+Zend = '󰫫'
+Zigbee = '󰵁'
+
+[ab]
+Testing = '󰇉'
+
+[abjad]
+Arabic = '󱌨'
+Hebrew = '󱌩'
+
+[abugida]
+Devanagari = '󱌪'
+Thai = '󱌫'
+
+[access]
+Point = '󰀃'
+
+[access.point]
+Check = '󱔸'
+Minus = '󱔹'
+Network = '󰀂'
+Off = '󱔑'
+Plus = '󱔺'
+Remove = '󱔻'
+
+[access.point.network]
+Off = '󰯡'
+
+[account]
+Alert = '󰀅'
+Box = '󰀆'
+Cancel = '󱋟'
+Cash = '󱂗'
+Check = '󰀈'
+Child = '󰪉'
+Circle = '󰀉'
+Clock = '󰭖'
+Cog = '󱍰'
+Convert = '󰀊'
+Details = '󰘱'
+Edit = '󰚼'
+Eye = '󰐠'
+Filter = '󰤶'
+Group = '󰡉'
+Heart = '󰢙'
+Injury = '󱠕'
+Key = '󰀋'
+Lock = '󱅞'
+Minus = '󰀍'
+Multiple = '󰀎'
+Music = '󰠃'
+Network = '󰀑'
+Off = '󰀒'
+Outline = '󰀓'
+Plus = '󰀔'
+Question = '󰭙'
+Reactivate = '󱔫'
+Remove = '󰀕'
+School = '󱨠'
+Search = '󰀖'
+Settings = '󰘰'
+Star = '󰀗'
+Supervisor = '󰪋'
+Switch = '󰀙'
+Sync = '󱤛'
+Tie = '󰳣'
+Voice = '󰗋'
+Wrench = '󱢚'
+
+[account.alert]
+Outline = '󰭐'
+
+[account.arrow]
+Down = '󱡨'
+Left = '󰭑'
+Right = '󰭓'
+Up = '󱡧'
+
+[account.arrow.down]
+Outline = '󱡩'
+
+[account.arrow.left]
+Outline = '󰭒'
+
+[account.arrow.right]
+Outline = '󰭔'
+
+[account.arrow.up]
+Outline = '󱡪'
+
+[account.box]
+Multiple = '󰤴'
+Outline = '󰀇'
+
+[account.box.multiple]
+Outline = '󱀊'
+
+[account.cancel]
+Outline = '󱋠'
+
+[account.cash]
+Outline = '󱂘'
+
+[account.check]
+Outline = '󰯢'
+
+[account.child]
+Circle = '󰪊'
+Outline = '󱃈'
+
+[account.circle]
+Outline = '󰭕'
+
+[account.clock]
+Outline = '󰭗'
+
+[account.cog]
+Outline = '󱍱'
+
+[account.convert]
+Outline = '󱌁'
+
+[account.cowboy]
+Hat = '󰺛'
+
+[account.cowboy.hat]
+Outline = '󱟳'
+
+[account.details]
+Outline = '󱍲'
+
+[account.edit]
+Outline = '󰿻'
+
+[account.eye]
+Outline = '󱉻'
+
+[account.filter]
+Outline = '󰾝'
+
+[account.group]
+Outline = '󰭘'
+
+[account.hard]
+Hat = '󰖵'
+
+[account.hard.hat]
+Outline = '󱨟'
+
+[account.heart]
+Outline = '󰯣'
+
+[account.injury]
+Outline = '󱠖'
+
+[account.key]
+Outline = '󰯤'
+
+[account.lock]
+Open = '󱥠'
+Outline = '󱅟'
+
+[account.lock.open]
+Outline = '󱥡'
+
+[account.minus]
+Outline = '󰫬'
+
+[account.multiple]
+Check = '󰣅'
+Minus = '󰗓'
+Outline = '󰀏'
+Plus = '󰀐'
+Remove = '󱈊'
+
+[account.multiple.check]
+Outline = '󱇾'
+
+[account.multiple.minus]
+Outline = '󰯥'
+
+[account.multiple.plus]
+Outline = '󰠀'
+
+[account.multiple.remove]
+Outline = '󱈋'
+
+[account.music]
+Outline = '󰳩'
+
+[account.network]
+Outline = '󰯦'
+
+[account.off]
+Outline = '󰯧'
+
+[account.plus]
+Outline = '󰠁'
+
+[account.question]
+Outline = '󰭚'
+
+[account.reactivate]
+Outline = '󱔬'
+
+[account.remove]
+Outline = '󰫭'
+
+[account.school]
+Outline = '󱨡'
+
+[account.search]
+Outline = '󰤵'
+
+[account.settings]
+Outline = '󱃉'
+
+[account.star]
+Outline = '󰯨'
+
+[account.supervisor]
+Circle = '󰪌'
+Outline = '󱄭'
+
+[account.supervisor.circle]
+Outline = '󱓬'
+
+[account.switch]
+Outline = '󰓋'
+
+[account.sync]
+Outline = '󱤜'
+
+[account.tie]
+Hat = '󱢘'
+Outline = '󱃊'
+Voice = '󱌈'
+Woman = '󱪌'
+
+[account.tie.hat]
+Outline = '󱢙'
+
+[account.tie.voice]
+Off = '󱌊'
+Outline = '󱌉'
+
+[account.tie.voice.off]
+Outline = '󱌋'
+
+[account.voice]
+Off = '󰻔'
+
+[account.wrench]
+Outline = '󱢛'
+
+[advertisements]
+Off = '󱤫'
+
+[air]
+Conditioner = '󰀛'
+Filter = '󰵃'
+Horn = '󰶬'
+Humidifier = '󱂙'
+Purifier = '󰵄'
+
+[air.humidifier]
+Off = '󱑦'
+
+[airballoon]
+Outline = '󱀋'
+
+[airplane]
+Alert = '󱡺'
+Check = '󱡻'
+Clock = '󱡼'
+Cog = '󱡽'
+Edit = '󱡾'
+Landing = '󰗔'
+Marker = '󱡿'
+Minus = '󱢀'
+Off = '󰀞'
+Plus = '󱢁'
+Remove = '󱢂'
+Search = '󱢃'
+Settings = '󱢄'
+Takeoff = '󰗕'
+
+[alarm]
+Bell = '󰞎'
+Check = '󰀡'
+Light = '󰞏'
+Multiple = '󰀢'
+Note = '󰹱'
+Off = '󰀣'
+Panel = '󱗄'
+Plus = '󰀤'
+Snooze = '󰚎'
+
+[alarm.light]
+Off = '󱜞'
+Outline = '󰯪'
+
+[alarm.light.off]
+Outline = '󱜟'
+
+[alarm.note]
+Off = '󰹲'
+
+[alarm.panel]
+Outline = '󱗅'
+
+[alert]
+Box = '󰀧'
+Circle = '󰀨'
+Decagram = '󰚽'
+Minus = '󱒻'
+Octagon = '󰀩'
+Octagram = '󰝧'
+Outline = '󰀪'
+Plus = '󱒺'
+Remove = '󱒼'
+Rhombus = '󱇎'
+
+[alert.box]
+Outline = '󰳤'
+
+[alert.circle]
+Check = '󱇭'
+Outline = '󰗖'
+
+[alert.circle.check]
+Outline = '󱇮'
+
+[alert.decagram]
+Outline = '󰳥'
+
+[alert.minus]
+Outline = '󱒾'
+
+[alert.octagon]
+Outline = '󰳦'
+
+[alert.octagram]
+Outline = '󰳧'
+
+[alert.plus]
+Outline = '󱒽'
+
+[alert.remove]
+Outline = '󱒿'
+
+[alert.rhombus]
+Outline = '󱇏'
+
+[alien]
+Outline = '󱃋'
+[align.horizontal]
+Center = '󱇃'
+Distribute = '󱥢'
+Left = '󱇂'
+Right = '󱇄'
+
+[align.vertical]
+Bottom = '󱇅'
+Center = '󱇆'
+Distribute = '󱥣'
+Top = '󱇇'
+
+[all]
+Inclusive = '󰚾'
+
+[all.inclusive]
+Box = '󱢍'
+
+[all.inclusive.box]
+Outline = '󱢎'
+
+[alpha]
+A = '󰫮'
+B = '󰫯'
+C = '󰫰'
+D = '󰫱'
+E = '󰫲'
+F = '󰫳'
+G = '󰫴'
+H = '󰫵'
+I = '󰫶'
+J = '󰫷'
+K = '󰫸'
+L = '󰫹'
+M = '󰫺'
+N = '󰫻'
+O = '󰫼'
+P = '󰫽'
+Q = '󰫾'
+R = '󰫿'
+S = '󰬀'
+T = '󰬁'
+U = '󰬂'
+V = '󰬃'
+W = '󰬄'
+X = '󰬅'
+Y = '󰬆'
+Z = '󰬇'
+
+[alpha.a]
+Box = '󰬈'
+Circle = '󰯬'
+
+[alpha.a.box]
+Outline = '󰯫'
+
+[alpha.a.circle]
+Outline = '󰯭'
+
+[alpha.b]
+Box = '󰬉'
+Circle = '󰯯'
+
+[alpha.b.box]
+Outline = '󰯮'
+
+[alpha.b.circle]
+Outline = '󰯰'
+
+[alpha.c]
+Box = '󰬊'
+Circle = '󰯲'
+
+[alpha.c.box]
+Outline = '󰯱'
+
+[alpha.c.circle]
+Outline = '󰯳'
+
+[alpha.d]
+Box = '󰬋'
+Circle = '󰯵'
+
+[alpha.d.box]
+Outline = '󰯴'
+
+[alpha.d.circle]
+Outline = '󰯶'
+
+[alpha.e]
+Box = '󰬌'
+Circle = '󰯸'
+
+[alpha.e.box]
+Outline = '󰯷'
+
+[alpha.e.circle]
+Outline = '󰯹'
+
+[alpha.f]
+Box = '󰬍'
+Circle = '󰯻'
+
+[alpha.f.box]
+Outline = '󰯺'
+
+[alpha.f.circle]
+Outline = '󰯼'
+
+[alpha.g]
+Box = '󰬎'
+Circle = '󰯾'
+
+[alpha.g.box]
+Outline = '󰯽'
+
+[alpha.g.circle]
+Outline = '󰯿'
+
+[alpha.h]
+Box = '󰬏'
+Circle = '󰰁'
+
+[alpha.h.box]
+Outline = '󰰀'
+
+[alpha.h.circle]
+Outline = '󰰂'
+
+[alpha.i]
+Box = '󰬐'
+Circle = '󰰄'
+
+[alpha.i.box]
+Outline = '󰰃'
+
+[alpha.i.circle]
+Outline = '󰰅'
+
+[alpha.j]
+Box = '󰬑'
+Circle = '󰰇'
+
+[alpha.j.box]
+Outline = '󰰆'
+
+[alpha.j.circle]
+Outline = '󰰈'
+
+[alpha.k]
+Box = '󰬒'
+Circle = '󰰊'
+
+[alpha.k.box]
+Outline = '󰰉'
+
+[alpha.k.circle]
+Outline = '󰰋'
+
+[alpha.l]
+Box = '󰬓'
+Circle = '󰰍'
+
+[alpha.l.box]
+Outline = '󰰌'
+
+[alpha.l.circle]
+Outline = '󰰎'
+
+[alpha.m]
+Box = '󰬔'
+Circle = '󰰐'
+
+[alpha.m.box]
+Outline = '󰰏'
+
+[alpha.m.circle]
+Outline = '󰰑'
+
+[alpha.n]
+Box = '󰬕'
+Circle = '󰰓'
+
+[alpha.n.box]
+Outline = '󰰒'
+
+[alpha.n.circle]
+Outline = '󰰔'
+
+[alpha.o]
+Box = '󰬖'
+Circle = '󰰖'
+
+[alpha.o.box]
+Outline = '󰰕'
+
+[alpha.o.circle]
+Outline = '󰰗'
+
+[alpha.p]
+Box = '󰬗'
+Circle = '󰰙'
+
+[alpha.p.box]
+Outline = '󰰘'
+
+[alpha.p.circle]
+Outline = '󰰚'
+
+[alpha.q]
+Box = '󰬘'
+Circle = '󰰜'
+
+[alpha.q.box]
+Outline = '󰰛'
+
+[alpha.q.circle]
+Outline = '󰰝'
+
+[alpha.r]
+Box = '󰬙'
+Circle = '󰰟'
+
+[alpha.r.box]
+Outline = '󰰞'
+
+[alpha.r.circle]
+Outline = '󰰠'
+
+[alpha.s]
+Box = '󰬚'
+Circle = '󰰢'
+
+[alpha.s.box]
+Outline = '󰰡'
+
+[alpha.s.circle]
+Outline = '󰰣'
+
+[alpha.t]
+Box = '󰬛'
+Circle = '󰰥'
+
+[alpha.t.box]
+Outline = '󰰤'
+
+[alpha.t.circle]
+Outline = '󰰦'
+
+[alpha.u]
+Box = '󰬜'
+Circle = '󰰨'
+
+[alpha.u.box]
+Outline = '󰰧'
+
+[alpha.u.circle]
+Outline = '󰰩'
+
+[alpha.v]
+Box = '󰬝'
+Circle = '󰰫'
+
+[alpha.v.box]
+Outline = '󰰪'
+
+[alpha.v.circle]
+Outline = '󰰬'
+
+[alpha.w]
+Box = '󰬞'
+Circle = '󰰮'
+
+[alpha.w.box]
+Outline = '󰰭'
+
+[alpha.w.circle]
+Outline = '󰰯'
+
+[alpha.x]
+Box = '󰬟'
+Circle = '󰰱'
+
+[alpha.x.box]
+Outline = '󰰰'
+
+[alpha.x.circle]
+Outline = '󰰲'
+
+[alpha.y]
+Box = '󰬠'
+Circle = '󰰴'
+
+[alpha.y.box]
+Outline = '󰰳'
+
+[alpha.y.circle]
+Outline = '󰰵'
+
+[alpha.z]
+Box = '󰬡'
+Circle = '󰰷'
+
+[alpha.z.box]
+Outline = '󰰶'
+
+[alpha.z.circle]
+Outline = '󰰸'
+
+[alphabet]
+Aurebesh = '󱌬'
+Cyrillic = '󱌭'
+Greek = '󱌮'
+Latin = '󱌯'
+Piqad = '󱌰'
+Tengwar = '󱌷'
+
+[alphabetical]
+Off = '󱀌'
+Variant = '󱀍'
+
+[alphabetical.variant]
+Off = '󱀎'
+
+[amplifier]
+Off = '󱆵'
+
+[android]
+Messages = '󰵅'
+Studio = '󰀴'
+
+[angle]
+Acute = '󰤷'
+Obtuse = '󰤸'
+Right = '󰤹'
+
+[animation]
+Outline = '󰪏'
+Play = '󰤺'
+
+[animation.play]
+Outline = '󰪐'
+
+[apache]
+Kafka = '󱀏'
+
+[api]
+Off = '󱉗'
+
+[apple]
+Finder = '󰀶'
+Icloud = '󰀸'
+Ios = '󰀷'
+Safari = '󰀹'
+
+[apple.keyboard]
+Caps = '󰘲'
+Command = '󰘳'
+Control = '󰘴'
+Option = '󰘵'
+Shift = '󰘶'
+
+[application]
+Array = '󱃵'
+Braces = '󱃷'
+Brackets = '󰲋'
+Cog = '󰙵'
+Edit = '󰂮'
+Export = '󰶭'
+Import = '󰶮'
+Outline = '󰘔'
+Parentheses = '󱃹'
+Settings = '󰭠'
+Variable = '󱃻'
+
+[application.array]
+Outline = '󱃶'
+
+[application.braces]
+Outline = '󱃸'
+
+[application.brackets]
+Outline = '󰲌'
+
+[application.cog]
+Outline = '󱕷'
+
+[application.edit]
+Outline = '󰘙'
+
+[application.parentheses]
+Outline = '󱃺'
+
+[application.settings]
+Outline = '󱕕'
+
+[application.variable]
+Outline = '󱃼'
+
+[approximately]
+Equal = '󰾞'
+
+[approximately.equal]
+Box = '󰾟'
+
+[apps]
+Box = '󰵆'
+
+[archive]
+Alert = '󱓽'
+Cancel = '󱝋'
+Check = '󱝍'
+Clock = '󱝏'
+Cog = '󱝑'
+Edit = '󱝓'
+Eye = '󱝕'
+Lock = '󱝗'
+Marker = '󱝛'
+Minus = '󱝝'
+Music = '󱝟'
+Off = '󱝡'
+Outline = '󱈎'
+Plus = '󱝣'
+Refresh = '󱝥'
+Remove = '󱝧'
+Search = '󱝩'
+Settings = '󱝫'
+Star = '󱝭'
+Sync = '󱝯'
+
+[archive.alert]
+Outline = '󱓾'
+
+[archive.arrow]
+Down = '󱉙'
+Up = '󱉛'
+
+[archive.arrow.down]
+Outline = '󱉚'
+
+[archive.arrow.up]
+Outline = '󱉜'
+
+[archive.cancel]
+Outline = '󱝌'
+
+[archive.check]
+Outline = '󱝎'
+
+[archive.clock]
+Outline = '󱝐'
+
+[archive.cog]
+Outline = '󱝒'
+
+[archive.edit]
+Outline = '󱝔'
+
+[archive.eye]
+Outline = '󱝖'
+
+[archive.lock]
+Open = '󱝘'
+Outline = '󱝚'
+
+[archive.lock.open]
+Outline = '󱝙'
+
+[archive.marker]
+Outline = '󱝜'
+
+[archive.minus]
+Outline = '󱝞'
+
+[archive.music]
+Outline = '󱝠'
+
+[archive.off]
+Outline = '󱝢'
+
+[archive.plus]
+Outline = '󱝤'
+
+[archive.refresh]
+Outline = '󱝦'
+
+[archive.remove]
+Outline = '󱝨'
+
+[archive.search]
+Outline = '󱝪'
+
+[archive.settings]
+Outline = '󱝬'
+
+[archive.star]
+Outline = '󱝮'
+
+[archive.sync]
+Outline = '󱝰'
+
+[arm]
+Flex = '󰿗'
+
+[arm.flex]
+Outline = '󰿖'
+[arrange.bring]
+Forward = '󰀽'
+
+[arrange.bring.to]
+Front = '󰀾'
+
+[arrange.send]
+Backward = '󰀿'
+
+[arrange.send.to]
+Back = '󰁀'
+
+[arrow]
+All = '󰁁'
+Collapse = '󰘕'
+Decision = '󰦻'
+Down = '󰁅'
+Expand = '󰘖'
+Left = '󰁍'
+Projectile = '󱡀'
+Right = '󰁔'
+Up = '󰁝'
+
+[arrow.bottom]
+Left = '󰁂'
+Right = '󰁃'
+
+[arrow.bottom.left]
+Thick = '󰦸'
+Thin = '󱦶'
+
+[arrow.bottom.left.bold]
+Box = '󱥤'
+Outline = '󰦷'
+
+[arrow.bottom.left.bold.box]
+Outline = '󱥥'
+[arrow.bottom.left.thin.circle]
+Outline = '󱖖'
+
+[arrow.bottom.right]
+Thick = '󰦺'
+Thin = '󱦷'
+
+[arrow.bottom.right.bold]
+Box = '󱥦'
+Outline = '󰦹'
+
+[arrow.bottom.right.bold.box]
+Outline = '󱥧'
+[arrow.bottom.right.thin.circle]
+Outline = '󱖕'
+
+[arrow.collapse]
+All = '󰁄'
+Down = '󰞒'
+Horizontal = '󰡌'
+Left = '󰞓'
+Right = '󰞔'
+Up = '󰞕'
+Vertical = '󰡍'
+
+[arrow.decision]
+Auto = '󰦼'
+Outline = '󰦾'
+
+[arrow.decision.auto]
+Outline = '󰦽'
+
+[arrow.down]
+Bold = '󰜮'
+Box = '󰛀'
+Circle = '󰳛'
+Left = '󱞡'
+Right = '󱞣'
+Thick = '󰁆'
+Thin = '󱦳'
+
+[arrow.down.bold]
+Box = '󰜯'
+Circle = '󰁇'
+Outline = '󰦿'
+
+[arrow.down.bold.box]
+Outline = '󰜰'
+
+[arrow.down.bold.circle]
+Outline = '󰁈'
+
+[arrow.down.bold.hexagon]
+Outline = '󰁉'
+
+[arrow.down.circle]
+Outline = '󰳜'
+
+[arrow.down.drop]
+Circle = '󰁊'
+
+[arrow.down.drop.circle]
+Outline = '󰁋'
+
+[arrow.down.left]
+Bold = '󱞢'
+
+[arrow.down.right]
+Bold = '󱞤'
+[arrow.down.thin.circle]
+Outline = '󱖙'
+
+[arrow.expand]
+All = '󰁌'
+Down = '󰞖'
+Horizontal = '󰡎'
+Left = '󰞗'
+Right = '󰞘'
+Up = '󰞙'
+Vertical = '󰡏'
+
+[arrow.horizontal]
+Lock = '󱅛'
+
+[arrow.left]
+Bold = '󰜱'
+Bottom = '󱞥'
+Box = '󰛁'
+Circle = '󰳝'
+Right = '󰹳'
+Thick = '󰁎'
+Thin = '󱦱'
+Top = '󱞧'
+
+[arrow.left.bold]
+Box = '󰜲'
+Circle = '󰁏'
+Outline = '󰧀'
+
+[arrow.left.bold.box]
+Outline = '󰜳'
+
+[arrow.left.bold.circle]
+Outline = '󰁐'
+
+[arrow.left.bold.hexagon]
+Outline = '󰁑'
+
+[arrow.left.bottom]
+Bold = '󱞦'
+
+[arrow.left.circle]
+Outline = '󰳞'
+
+[arrow.left.drop]
+Circle = '󰁒'
+
+[arrow.left.drop.circle]
+Outline = '󰁓'
+
+[arrow.left.right]
+Bold = '󰹴'
+
+[arrow.left.right.bold]
+Outline = '󰧁'
+[arrow.left.thin.circle]
+Outline = '󱖚'
+
+[arrow.left.top]
+Bold = '󱞨'
+
+[arrow.projectile]
+Multiple = '󱠿'
+
+[arrow.right]
+Bold = '󰜴'
+Bottom = '󱞩'
+Box = '󰛂'
+Circle = '󰳟'
+Thick = '󰁕'
+Thin = '󱦰'
+Top = '󱞫'
+
+[arrow.right.bold]
+Box = '󰜵'
+Circle = '󰁖'
+Outline = '󰧂'
+
+[arrow.right.bold.box]
+Outline = '󰜶'
+
+[arrow.right.bold.circle]
+Outline = '󰁗'
+
+[arrow.right.bold.hexagon]
+Outline = '󰁘'
+
+[arrow.right.bottom]
+Bold = '󱞪'
+
+[arrow.right.circle]
+Outline = '󰳠'
+
+[arrow.right.drop]
+Circle = '󰁙'
+
+[arrow.right.drop.circle]
+Outline = '󰁚'
+[arrow.right.thin.circle]
+Outline = '󱖘'
+
+[arrow.right.top]
+Bold = '󱞬'
+
+[arrow.split]
+Horizontal = '󰤻'
+Vertical = '󰤼'
+
+[arrow.top]
+Left = '󰁛'
+Right = '󰁜'
+
+[arrow.top.left]
+Thick = '󰧄'
+Thin = '󱦵'
+
+[arrow.top.left.bold]
+Box = '󱥨'
+Outline = '󰧃'
+
+[arrow.top.left.bold.box]
+Outline = '󱥩'
+
+[arrow.top.left.bottom]
+Right = '󰹵'
+
+[arrow.top.left.bottom.right]
+Bold = '󰹶'
+[arrow.top.left.thin.circle]
+Outline = '󱖓'
+
+[arrow.top.right]
+Thick = '󰧆'
+Thin = '󱦴'
+
+[arrow.top.right.bold]
+Box = '󱥪'
+Outline = '󰧅'
+
+[arrow.top.right.bold.box]
+Outline = '󱥫'
+
+[arrow.top.right.bottom]
+Left = '󰹷'
+
+[arrow.top.right.bottom.left]
+Bold = '󰹸'
+[arrow.top.right.thin.circle]
+Outline = '󱖔'
+[arrow.u.down]
+Left = '󱞭'
+Right = '󱞯'
+
+[arrow.u.down.left]
+Bold = '󱞮'
+
+[arrow.u.down.right]
+Bold = '󱞰'
+
+[arrow.u.left]
+Bottom = '󱞱'
+Top = '󱞳'
+
+[arrow.u.left.bottom]
+Bold = '󱞲'
+
+[arrow.u.left.top]
+Bold = '󱞴'
+
+[arrow.u.right]
+Bottom = '󱞵'
+Top = '󱞷'
+
+[arrow.u.right.bottom]
+Bold = '󱞶'
+
+[arrow.u.right.top]
+Bold = '󱞸'
+
+[arrow.u.up]
+Left = '󱞹'
+Right = '󱞻'
+
+[arrow.u.up.left]
+Bold = '󱞺'
+
+[arrow.u.up.right]
+Bold = '󱞼'
+
+[arrow.up]
+Bold = '󰜷'
+Box = '󰛃'
+Circle = '󰳡'
+Down = '󰹹'
+Left = '󱞽'
+Right = '󱞿'
+Thick = '󰁞'
+Thin = '󱦲'
+
+[arrow.up.bold]
+Box = '󰜸'
+Circle = '󰁟'
+Outline = '󰧇'
+
+[arrow.up.bold.box]
+Outline = '󰜹'
+
+[arrow.up.bold.circle]
+Outline = '󰁠'
+
+[arrow.up.bold.hexagon]
+Outline = '󰁡'
+
+[arrow.up.circle]
+Outline = '󰳢'
+
+[arrow.up.down]
+Bold = '󰹺'
+
+[arrow.up.down.bold]
+Outline = '󰧈'
+
+[arrow.up.drop]
+Circle = '󰁢'
+
+[arrow.up.drop.circle]
+Outline = '󰁣'
+
+[arrow.up.left]
+Bold = '󱞾'
+
+[arrow.up.right]
+Bold = '󱟀'
+[arrow.up.thin.circle]
+Outline = '󱖗'
+
+[arrow.vertical]
+Lock = '󱅜'
+
+[aspect]
+Ratio = '󰨤'
+[asterisk.circle]
+Outline = '󱨧'
+
+[atom]
+Variant = '󰹻'
+
+[attachment]
+Check = '󱫁'
+Lock = '󱧄'
+Minus = '󱫂'
+Off = '󱫃'
+Plus = '󱫄'
+Remove = '󱫅'
+
+[audio]
+Video = '󰤽'
+
+[audio.input]
+Rca = '󱡫'
+Xlr = '󱡭'
+
+[audio.input.stereo]
+Minijack = '󱡬'
+
+[audio.video]
+Off = '󱆶'
+
+[augmented]
+Reality = '󰡐'
+
+[auto]
+Download = '󱍾'
+Fix = '󰁨'
+Upload = '󰁩'
+
+[autorenew]
+Off = '󱧧'
+
+[av]
+Timer = '󰁫'
+
+[axe]
+Battle = '󱡂'
+
+[axis]
+Arrow = '󰵉'
+Lock = '󰵋'
+
+[axis.arrow]
+Info = '󱐎'
+Lock = '󰵊'
+
+[axis.x]
+Arrow = '󰵌'
+
+[axis.x.arrow]
+Lock = '󰵍'
+
+[axis.x.rotate]
+Clockwise = '󰵎'
+Counterclockwise = '󰵏'
+[axis.x.y.arrow]
+Lock = '󰵐'
+
+[axis.y]
+Arrow = '󰵑'
+
+[axis.y.arrow]
+Lock = '󰵒'
+
+[axis.y.rotate]
+Clockwise = '󰵓'
+Counterclockwise = '󰵔'
+
+[axis.z]
+Arrow = '󰵕'
+
+[axis.z.arrow]
+Lock = '󰵖'
+
+[axis.z.rotate]
+Clockwise = '󰵗'
+Counterclockwise = '󰵘'
+
+[baby]
+Bottle = '󰼹'
+Buggy = '󱏠'
+Carriage = '󰚏'
+Face = '󰹼'
+
+[baby.bottle]
+Outline = '󰼺'
+
+[baby.carriage]
+Off = '󰾠'
+
+[baby.face]
+Outline = '󰹽'
+
+[backspace]
+Outline = '󰭜'
+Reverse = '󰹾'
+
+[backspace.reverse]
+Outline = '󰹿'
+
+[backup]
+Restore = '󰁯'
+
+[bacteria]
+Outline = '󰻖'
+
+[badge]
+Account = '󰶧'
+
+[badge.account]
+Alert = '󰶨'
+Horizontal = '󰸍'
+Outline = '󰶪'
+
+[badge.account.alert]
+Outline = '󰶩'
+
+[badge.account.horizontal]
+Outline = '󰸎'
+
+[bag]
+Checked = '󰼽'
+Personal = '󰸐'
+Suitcase = '󱖋'
+
+[bag.carry]
+On = '󰼻'
+
+[bag.carry.on]
+Check = '󰵥'
+Off = '󰼼'
+
+[bag.personal]
+Off = '󰸑'
+Outline = '󰸓'
+
+[bag.personal.off]
+Outline = '󰸒'
+
+[bag.suitcase]
+Off = '󱖍'
+Outline = '󱖌'
+
+[bag.suitcase.off]
+Outline = '󱖎'
+
+[ballot]
+Outline = '󰧊'
+Recount = '󰰹'
+
+[ballot.recount]
+Outline = '󰰺'
+
+[bank]
+Check = '󱙕'
+Minus = '󰶰'
+Off = '󱙖'
+Outline = '󰺀'
+Plus = '󰶱'
+Remove = '󰶲'
+Transfer = '󰨧'
+
+[bank.off]
+Outline = '󱙗'
+
+[bank.transfer]
+In = '󰨨'
+Out = '󰨩'
+
+[barcode]
+Off = '󱈶'
+Scan = '󰁲'
+
+[barley]
+Off = '󰭝'
+
+[barrel]
+Outline = '󱨨'
+
+[baseball]
+Bat = '󰡓'
+Diamond = '󱗬'
+
+[baseball.diamond]
+Outline = '󱗭'
+
+[basket]
+Check = '󱣥'
+Fill = '󰁷'
+Minus = '󱔣'
+Off = '󱔥'
+Outline = '󱆁'
+Plus = '󱔧'
+Remove = '󱔩'
+Unfill = '󰁸'
+
+[basket.check]
+Outline = '󱣦'
+
+[basket.minus]
+Outline = '󱔤'
+
+[basket.off]
+Outline = '󱔦'
+
+[basket.plus]
+Outline = '󱔨'
+
+[basket.remove]
+Outline = '󱔪'
+
+[basketball]
+Hoop = '󰰻'
+
+[basketball.hoop]
+Outline = '󰰼'
+
+[bathtub]
+Outline = '󱠙'
+
+[battery]
+Alert = '󰂃'
+Bluetooth = '󰥈'
+Charging = '󰂄'
+Check = '󱟢'
+Clock = '󱧥'
+Heart = '󱈏'
+High = '󱊣'
+Lock = '󱞜'
+Low = '󱊡'
+Medium = '󱊢'
+Minus = '󱟤'
+Negative = '󰂍'
+Off = '󱉝'
+Outline = '󰂎'
+Plus = '󱟦'
+Positive = '󰂐'
+Remove = '󱟨'
+Sync = '󱠴'
+Unknown = '󰂑'
+
+[battery.10]
+Bluetooth = '󰤾'
+
+[battery.20]
+Bluetooth = '󰤿'
+
+[battery.30]
+Bluetooth = '󰥀'
+
+[battery.40]
+Bluetooth = '󰥁'
+
+[battery.50]
+Bluetooth = '󰥂'
+
+[battery.60]
+Bluetooth = '󰥃'
+
+[battery.70]
+Bluetooth = '󰥄'
+
+[battery.80]
+Bluetooth = '󰥅'
+
+[battery.90]
+Bluetooth = '󰥆'
+
+[battery.alert]
+Bluetooth = '󰥇'
+Variant = '󱃌'
+
+[battery.alert.variant]
+Outline = '󱃍'
+
+[battery.arrow]
+Down = '󱟞'
+Up = '󱟠'
+
+[battery.arrow.down]
+Outline = '󱟟'
+
+[battery.arrow.up]
+Outline = '󱟡'
+
+[battery.bluetooth]
+Variant = '󰥉'
+
+[battery.charging]
+10 = '󰢜'
+100 = '󰂅'
+20 = '󰂆'
+30 = '󰂇'
+40 = '󰂈'
+50 = '󰢝'
+60 = '󰂉'
+70 = '󰢞'
+80 = '󰂊'
+90 = '󰂋'
+High = '󱊦'
+Low = '󱊤'
+Medium = '󱊥'
+Outline = '󰢟'
+Wireless = '󰠇'
+
+[battery.charging.wireless]
+10 = '󰠈'
+20 = '󰠉'
+30 = '󰠊'
+40 = '󰠋'
+50 = '󰠌'
+60 = '󰠍'
+70 = '󰠎'
+80 = '󰠏'
+90 = '󰠐'
+Alert = '󰠑'
+Outline = '󰠒'
+
+[battery.check]
+Outline = '󱟣'
+
+[battery.clock]
+Outline = '󱧦'
+
+[battery.heart]
+Outline = '󱈐'
+Variant = '󱈑'
+
+[battery.lock]
+Open = '󱞝'
+
+[battery.minus]
+Outline = '󱟥'
+Variant = '󰂌'
+
+[battery.off]
+Outline = '󱉞'
+
+[battery.plus]
+Outline = '󱟧'
+Variant = '󰂏'
+
+[battery.remove]
+Outline = '󱟩'
+
+[battery.sync]
+Outline = '󱠵'
+
+[battery.unknown]
+Bluetooth = '󰥊'
+
+[beaker]
+Alert = '󱈩'
+Check = '󱈫'
+Minus = '󱈭'
+Outline = '󰚐'
+Plus = '󱈯'
+Question = '󱈱'
+Remove = '󱈳'
+
+[beaker.alert]
+Outline = '󱈪'
+
+[beaker.check]
+Outline = '󱈬'
+
+[beaker.minus]
+Outline = '󱈮'
+
+[beaker.plus]
+Outline = '󱈰'
+
+[beaker.question]
+Outline = '󱈲'
+
+[beaker.remove]
+Outline = '󱈴'
+
+[bed]
+Double = '󰿔'
+Empty = '󰢠'
+King = '󰿒'
+Outline = '󰂙'
+Queen = '󰿐'
+Single = '󱁭'
+
+[bed.double]
+Outline = '󰿓'
+
+[bed.king]
+Outline = '󰿑'
+
+[bed.queen]
+Outline = '󰿛'
+
+[bed.single]
+Outline = '󱁮'
+
+[bee]
+Flower = '󰾢'
+
+[beehive]
+Outline = '󱃎'
+
+[beehive.off]
+Outline = '󱏭'
+
+[beer]
+Outline = '󱌌'
+
+[bell]
+Alert = '󰵙'
+Badge = '󱅫'
+Cancel = '󱏧'
+Check = '󱇥'
+Circle = '󰵚'
+Cog = '󱨩'
+Minus = '󱏩'
+Off = '󰂛'
+Outline = '󰂜'
+Plus = '󰂝'
+Remove = '󱏫'
+Ring = '󰂞'
+Sleep = '󰂠'
+
+[bell.alert]
+Outline = '󰺁'
+
+[bell.badge]
+Outline = '󰅸'
+
+[bell.cancel]
+Outline = '󱏨'
+
+[bell.check]
+Outline = '󱇦'
+
+[bell.circle]
+Outline = '󰵛'
+
+[bell.cog]
+Outline = '󱨪'
+
+[bell.minus]
+Outline = '󱏪'
+
+[bell.off]
+Outline = '󰪑'
+
+[bell.plus]
+Outline = '󰪒'
+
+[bell.remove]
+Outline = '󱏬'
+
+[bell.ring]
+Outline = '󰂟'
+
+[bell.sleep]
+Outline = '󰪓'
+
+[bicycle]
+Basket = '󱈵'
+Cargo = '󱢜'
+Electric = '󱖴'
+
+[bicycle.penny]
+Farthing = '󱗩'
+
+[bike]
+Fast = '󱄟'
+
+[billiards]
+Rack = '󰭢'
+
+[black]
+Mesa = '󰂩'
+
+[blender]
+Outline = '󱠚'
+Software = '󰂫'
+
+[blinds]
+Horizontal = '󱨫'
+Open = '󱀑'
+Vertical = '󱨭'
+
+[blinds.horizontal]
+Closed = '󱨬'
+
+[blinds.vertical]
+Closed = '󱨮'
+
+[block]
+Helper = '󰂭'
+
+[blood]
+Bag = '󰳬'
+
+[bluetooth]
+Audio = '󰂰'
+Connect = '󰂱'
+Off = '󰂲'
+Settings = '󰂳'
+Transfer = '󰂴'
+
+[blur]
+Linear = '󰂶'
+Off = '󰂷'
+Radial = '󰂸'
+
+[bomb]
+Off = '󰛅'
+
+[bone]
+Off = '󱧠'
+
+[book]
+Account = '󱎭'
+Alert = '󱙼'
+Alphabet = '󰘝'
+Cancel = '󱚆'
+Check = '󱓳'
+Clock = '󱚈'
+Cog = '󱚊'
+Cross = '󰂢'
+Edit = '󱚌'
+Education = '󱛉'
+Heart = '󱨝'
+Lock = '󰞚'
+Marker = '󱚐'
+Minus = '󰗙'
+Multiple = '󰂻'
+Music = '󰁧'
+Off = '󱚔'
+Open = '󰂽'
+Outline = '󰭤'
+Play = '󰺂'
+Plus = '󰗛'
+Refresh = '󱚗'
+Remove = '󰪗'
+Search = '󰺄'
+Settings = '󱚚'
+Sync = '󱚜'
+Variant = '󰂿'
+
+[book.account]
+Outline = '󱎮'
+
+[book.alert]
+Outline = '󱙽'
+
+[book.arrow]
+Down = '󱙾'
+Left = '󱚀'
+Right = '󱚂'
+Up = '󱚄'
+
+[book.arrow.down]
+Outline = '󱙿'
+
+[book.arrow.left]
+Outline = '󱚁'
+
+[book.arrow.right]
+Outline = '󱚃'
+
+[book.arrow.up]
+Outline = '󱚅'
+
+[book.cancel]
+Outline = '󱚇'
+
+[book.check]
+Outline = '󱓴'
+
+[book.clock]
+Outline = '󱚉'
+
+[book.cog]
+Outline = '󱚋'
+
+[book.edit]
+Outline = '󱚍'
+
+[book.education]
+Outline = '󱛊'
+
+[book.heart]
+Outline = '󱨞'
+
+[book.information]
+Variant = '󱁯'
+
+[book.lock]
+Open = '󰞛'
+Outline = '󱚏'
+
+[book.lock.open]
+Outline = '󱚎'
+
+[book.marker]
+Outline = '󱚑'
+
+[book.minus]
+Multiple = '󰪔'
+Outline = '󱚒'
+
+[book.minus.multiple]
+Outline = '󰤋'
+
+[book.multiple]
+Outline = '󰐶'
+
+[book.music]
+Outline = '󱚓'
+
+[book.off]
+Outline = '󱚕'
+
+[book.open]
+Outline = '󰭣'
+Variant = '󱓷'
+
+[book.open.blank]
+Variant = '󰂾'
+
+[book.open.page]
+Variant = '󰗚'
+
+[book.open.page.variant]
+Outline = '󱗖'
+
+[book.play]
+Outline = '󰺃'
+
+[book.plus]
+Multiple = '󰪕'
+Outline = '󱚖'
+
+[book.plus.multiple]
+Outline = '󰫞'
+
+[book.refresh]
+Outline = '󱚘'
+
+[book.remove]
+Multiple = '󰪖'
+Outline = '󱚙'
+
+[book.remove.multiple]
+Outline = '󰓊'
+
+[book.search]
+Outline = '󰺅'
+
+[book.settings]
+Outline = '󱚛'
+
+[book.sync]
+Outline = '󱛈'
+
+[book.variant]
+Multiple = '󰂼'
+
+[bookmark]
+Check = '󰃁'
+Minus = '󰧌'
+Multiple = '󰸕'
+Music = '󰃂'
+Off = '󰧎'
+Outline = '󰃃'
+Plus = '󰃅'
+Remove = '󰃆'
+
+[bookmark.box]
+Multiple = '󱥬'
+
+[bookmark.box.multiple]
+Outline = '󱥭'
+
+[bookmark.check]
+Outline = '󱍻'
+
+[bookmark.minus]
+Outline = '󰧍'
+
+[bookmark.multiple]
+Outline = '󰸖'
+
+[bookmark.music]
+Outline = '󱍹'
+
+[bookmark.off]
+Outline = '󰧏'
+
+[bookmark.plus]
+Outline = '󰃄'
+
+[bookmark.remove]
+Outline = '󱍺'
+
+[boom]
+Gate = '󰺆'
+
+[boom.gate]
+Alert = '󰺇'
+Outline = '󰺋'
+Up = '󱟹'
+
+[boom.gate.alert]
+Outline = '󰺈'
+
+[boom.gate.arrow]
+Down = '󰺉'
+Up = '󰺌'
+
+[boom.gate.arrow.down]
+Outline = '󰺊'
+
+[boom.gate.arrow.up]
+Outline = '󰺍'
+
+[boom.gate.up]
+Outline = '󱟺'
+
+[border]
+All = '󰃇'
+Bottom = '󰃈'
+Color = '󰃉'
+Horizontal = '󰃊'
+Inside = '󰃋'
+Left = '󰃌'
+None = '󰃍'
+Outside = '󰃎'
+Right = '󰃏'
+Style = '󰃐'
+Top = '󰃑'
+Vertical = '󰃒'
+
+[border.all]
+Variant = '󰢡'
+
+[border.bottom]
+Variant = '󰢢'
+
+[border.left]
+Variant = '󰢣'
+
+[border.none]
+Variant = '󰢤'
+
+[border.right]
+Variant = '󰢥'
+
+[border.top]
+Variant = '󰢦'
+
+[bottle]
+Soda = '󱁰'
+Tonic = '󱄮'
+Wine = '󰡔'
+
+[bottle.soda]
+Classic = '󱁱'
+Outline = '󱁲'
+
+[bottle.soda.classic]
+Outline = '󱍣'
+
+[bottle.tonic]
+Outline = '󱄯'
+Plus = '󱄰'
+Skull = '󱄲'
+
+[bottle.tonic.plus]
+Outline = '󱄱'
+
+[bottle.tonic.skull]
+Outline = '󱄳'
+
+[bottle.wine]
+Outline = '󱌐'
+
+[bow]
+Arrow = '󱡁'
+Tie = '󰙸'
+
+[bowl]
+Mix = '󰘗'
+Outline = '󰊩'
+
+[bowl.mix]
+Outline = '󰋤'
+
+[box]
+Cutter = '󰃕'
+Shadow = '󰘷'
+
+[box.cutter]
+Off = '󰭊'
+
+[boxing]
+Glove = '󰭥'
+
+[bread]
+Slice = '󰳮'
+
+[bread.slice]
+Outline = '󰳯'
+
+[briefcase]
+Account = '󰳰'
+Check = '󰃗'
+Clock = '󱃐'
+Download = '󰃘'
+Edit = '󰪘'
+Eye = '󱟙'
+Minus = '󰨪'
+Off = '󱙘'
+Outline = '󰠔'
+Plus = '󰨫'
+Remove = '󰨬'
+Search = '󰨭'
+Upload = '󰃙'
+Variant = '󱒔'
+
+[briefcase.account]
+Outline = '󰳱'
+[briefcase.arrow.left]
+Right = '󱪍'
+
+[briefcase.arrow.left.right]
+Outline = '󱪎'
+
+[briefcase.arrow.up]
+Down = '󱪏'
+
+[briefcase.arrow.up.down]
+Outline = '󱪐'
+
+[briefcase.check]
+Outline = '󱌞'
+
+[briefcase.clock]
+Outline = '󱃑'
+
+[briefcase.download]
+Outline = '󰰽'
+
+[briefcase.edit]
+Outline = '󰰾'
+
+[briefcase.eye]
+Outline = '󱟚'
+
+[briefcase.minus]
+Outline = '󰰿'
+
+[briefcase.off]
+Outline = '󱙙'
+
+[briefcase.plus]
+Outline = '󰱀'
+
+[briefcase.remove]
+Outline = '󰱁'
+
+[briefcase.search]
+Outline = '󰱂'
+
+[briefcase.upload]
+Outline = '󰱃'
+
+[briefcase.variant]
+Off = '󱙚'
+Outline = '󱒕'
+
+[briefcase.variant.off]
+Outline = '󱙛'
+
+[brightness]
+1 = '󰃚'
+2 = '󰃛'
+3 = '󰃜'
+4 = '󰃝'
+5 = '󰃞'
+6 = '󰃟'
+7 = '󰃠'
+Auto = '󰃡'
+Percent = '󰳲'
+
+[broadcast]
+Off = '󱜡'
+
+[brush]
+Off = '󱝱'
+Outline = '󱨍'
+Variant = '󱠓'
+
+[bucket]
+Outline = '󱐖'
+
+[bug]
+Check = '󰨮'
+Outline = '󰨰'
+
+[bug.check]
+Outline = '󰨯'
+
+[bulkhead]
+Light = '󱨯'
+
+[bulletin]
+Board = '󰃥'
+
+[bullhorn]
+Outline = '󰬣'
+Variant = '󱥮'
+
+[bullhorn.variant]
+Outline = '󱥯'
+
+[bullseye]
+Arrow = '󰣉'
+
+[bunk]
+Bed = '󱌂'
+
+[bunk.bed]
+Outline = '󰂗'
+
+[bus]
+Alert = '󰪙'
+Clock = '󰣊'
+Electric = '󱤝'
+Marker = '󱈒'
+Multiple = '󰼿'
+School = '󰞟'
+Side = '󰞠'
+Stop = '󱀒'
+
+[bus.articulated]
+End = '󰞜'
+Front = '󰞝'
+
+[bus.double]
+Decker = '󰞞'
+
+[bus.stop]
+Covered = '󱀓'
+Uncovered = '󱀔'
+
+[butterfly]
+Outline = '󱖊'
+[cabin.a]
+Frame = '󱢌'
+
+[cable]
+Data = '󱎔'
+
+[cake]
+Layered = '󰃪'
+Variant = '󰃫'
+
+[cake.variant]
+Outline = '󱟰'
+
+[calculator]
+Variant = '󰪚'
+
+[calculator.variant]
+Outline = '󱖦'
+
+[calendar]
+Account = '󰻗'
+Alert = '󰨱'
+Blank = '󰃮'
+Check = '󰃯'
+Clock = '󰃰'
+Cursor = '󱕻'
+Edit = '󰢧'
+End = '󱙬'
+Export = '󰬤'
+Heart = '󰧒'
+Import = '󰬥'
+Lock = '󱙁'
+Minus = '󰵜'
+Month = '󰸗'
+Multiple = '󰃱'
+Multiselect = '󰨲'
+Outline = '󰭧'
+Plus = '󰃳'
+Question = '󰚒'
+Range = '󰙹'
+Refresh = '󰇡'
+Remove = '󰃴'
+Search = '󰥌'
+Star = '󰧓'
+Start = '󱙭'
+Sync = '󰺎'
+Text = '󰃵'
+Today = '󰃶'
+Week = '󰨳'
+Weekend = '󰻙'
+
+[calendar.account]
+Outline = '󰻘'
+
+[calendar.arrow]
+Left = '󱄴'
+Right = '󱄵'
+
+[calendar.blank]
+Multiple = '󱁳'
+Outline = '󰭦'
+
+[calendar.check]
+Outline = '󰱄'
+
+[calendar.clock]
+Outline = '󱛡'
+
+[calendar.collapse]
+Horizontal = '󱢝'
+
+[calendar.expand]
+Horizontal = '󱢞'
+
+[calendar.lock]
+Outline = '󱙂'
+
+[calendar.month]
+Outline = '󰸘'
+
+[calendar.multiple]
+Check = '󰃲'
+
+[calendar.range]
+Outline = '󰭨'
+
+[calendar.refresh]
+Outline = '󰈃'
+
+[calendar.remove]
+Outline = '󰱅'
+
+[calendar.sync]
+Outline = '󰺏'
+
+[calendar.text]
+Outline = '󰱆'
+
+[calendar.today]
+Outline = '󱨰'
+
+[calendar.week]
+Begin = '󰨴'
+End = '󱨲'
+Outline = '󱨴'
+
+[calendar.week.begin]
+Outline = '󱨱'
+
+[calendar.week.end]
+Outline = '󱨳'
+
+[calendar.weekend]
+Outline = '󰻚'
+
+[call]
+Made = '󰃷'
+Merge = '󰃸'
+Missed = '󰃹'
+Received = '󰃺'
+Split = '󰃻'
+
+[camcorder]
+Off = '󰃿'
+
+[camera]
+Account = '󰣋'
+Burst = '󰚓'
+Control = '󰭩'
+Document = '󱡱'
+Enhance = '󰄁'
+Flip = '󱗙'
+Front = '󰄂'
+Gopro = '󰞡'
+Image = '󰣌'
+Iris = '󰄄'
+Lock = '󱨔'
+Marker = '󱦧'
+Off = '󰗟'
+Outline = '󰵝'
+Plus = '󰻛'
+Rear = '󰄆'
+Retake = '󰸙'
+Switch = '󰄈'
+Timer = '󰄉'
+Wireless = '󰶶'
+
+[camera.document]
+Off = '󱡲'
+
+[camera.enhance]
+Outline = '󰭪'
+
+[camera.flip]
+Outline = '󱗚'
+
+[camera.front]
+Variant = '󰄃'
+
+[camera.lock]
+Outline = '󱨕'
+
+[camera.marker]
+Outline = '󱦨'
+
+[camera.metering]
+Center = '󰞢'
+Matrix = '󰞣'
+Partial = '󰞤'
+Spot = '󰞥'
+
+[camera.off]
+Outline = '󱦿'
+
+[camera.party]
+Mode = '󰄅'
+
+[camera.plus]
+Outline = '󰻜'
+
+[camera.rear]
+Variant = '󰄇'
+
+[camera.retake]
+Outline = '󰸚'
+
+[camera.switch]
+Outline = '󰡊'
+
+[camera.wireless]
+Outline = '󰶷'
+
+[candelabra]
+Fire = '󱟓'
+
+[candy]
+Off = '󱥱'
+Outline = '󱥳'
+
+[candy.off]
+Outline = '󱥲'
+
+[cannabis]
+Off = '󱙮'
+
+[caps]
+Lock = '󰪛'
+
+[car]
+Back = '󰸛'
+Battery = '󰄌'
+Clock = '󱥴'
+Clutch = '󱀘'
+Cog = '󱏌'
+Connected = '󰄍'
+Convertible = '󰞧'
+Door = '󰭫'
+Electric = '󰭬'
+Emergency = '󱘏'
+Esp = '󰱉'
+Estate = '󰞨'
+Hatchback = '󰞩'
+Info = '󱆾'
+Key = '󰭭'
+Limousine = '󰣍'
+Multiple = '󰭮'
+Off = '󰸜'
+Outline = '󱓭'
+Pickup = '󰞪'
+Seat = '󰾤'
+Select = '󱡹'
+Settings = '󱏍'
+Side = '󰞫'
+Sports = '󰞬'
+Turbocharger = '󱀚'
+Wash = '󰄎'
+Windshield = '󱀛'
+Wireless = '󱡸'
+Wrench = '󱠔'
+
+[car.2]
+Plus = '󱀕'
+
+[car.3]
+Plus = '󱀖'
+
+[car.arrow]
+Left = '󱎲'
+Right = '󱎳'
+
+[car.brake]
+Abs = '󰱇'
+Alert = '󰱈'
+Hold = '󰵞'
+Parking = '󰵟'
+Retarder = '󱀗'
+Temperature = '󱤋'
+
+[car.brake.fluid]
+Level = '󱤉'
+
+[car.brake.low]
+Pressure = '󱤊'
+
+[car.brake.worn]
+Linings = '󱤌'
+
+[car.child]
+Seat = '󰾣'
+
+[car.coolant]
+Level = '󱀙'
+
+[car.cruise]
+Control = '󰵠'
+
+[car.defrost]
+Front = '󰵡'
+Rear = '󰵢'
+
+[car.door]
+Lock = '󱂝'
+
+[car.electric]
+Outline = '󱖵'
+
+[car.lifted]
+Pickup = '󱔭'
+
+[car.light]
+Alert = '󱤍'
+Dimmed = '󰱊'
+Fog = '󰱋'
+High = '󰱌'
+
+[car.parking]
+Lights = '󰵣'
+
+[car.seat]
+Cooler = '󰾥'
+Heater = '󰾦'
+
+[car.shift]
+Pattern = '󰽀'
+
+[car.speed]
+Limiter = '󱤎'
+
+[car.tire]
+Alert = '󰱍'
+
+[car.traction]
+Control = '󰵤'
+
+[car.windshield]
+Outline = '󱀜'
+
+[card]
+Bulleted = '󰭰'
+Minus = '󱘀'
+Multiple = '󱟱'
+Off = '󱘂'
+Outline = '󰭶'
+Plus = '󱇿'
+Remove = '󱘄'
+Search = '󱁴'
+Text = '󰭷'
+
+[card.account]
+Details = '󰗒'
+Mail = '󰆎'
+Phone = '󰺙'
+
+[card.account.details]
+Outline = '󰶫'
+Star = '󰊣'
+
+[card.account.details.star]
+Outline = '󰛛'
+
+[card.account.mail]
+Outline = '󰺘'
+
+[card.account.phone]
+Outline = '󰺚'
+
+[card.bulleted]
+Off = '󰭱'
+Outline = '󰭳'
+Settings = '󰭴'
+
+[card.bulleted.off]
+Outline = '󰭲'
+
+[card.bulleted.settings]
+Outline = '󰭵'
+
+[card.minus]
+Outline = '󱘁'
+
+[card.multiple]
+Outline = '󱟲'
+
+[card.off]
+Outline = '󱘃'
+
+[card.plus]
+Outline = '󱈀'
+
+[card.remove]
+Outline = '󱘅'
+
+[card.search]
+Outline = '󱁵'
+
+[card.text]
+Outline = '󰭸'
+
+[cards]
+Club = '󰣎'
+Diamond = '󰣏'
+Outline = '󰘹'
+Playing = '󱢡'
+Spade = '󰣑'
+Variant = '󰛇'
+
+[cards.club]
+Outline = '󱢟'
+
+[cards.diamond]
+Outline = '󱀝'
+
+[cards.playing]
+Club = '󱢢'
+Diamond = '󱢦'
+Heart = '󱢪'
+Outline = '󰘺'
+Spade = '󱢮'
+
+[cards.playing.club]
+Multiple = '󱢣'
+Outline = '󱢥'
+
+[cards.playing.club.multiple]
+Outline = '󱢤'
+
+[cards.playing.diamond]
+Multiple = '󱢧'
+Outline = '󱢩'
+
+[cards.playing.diamond.multiple]
+Outline = '󱢨'
+
+[cards.playing.heart]
+Multiple = '󱢫'
+Outline = '󱢭'
+
+[cards.playing.heart.multiple]
+Outline = '󱢬'
+
+[cards.playing.spade]
+Multiple = '󱢯'
+Outline = '󱢱'
+
+[cards.playing.spade.multiple]
+Outline = '󱢰'
+
+[cards.spade]
+Outline = '󱢲'
+
+[cart]
+Check = '󱗪'
+Heart = '󱣠'
+Minus = '󰵨'
+Off = '󰙫'
+Outline = '󰄑'
+Plus = '󰄒'
+Remove = '󰵩'
+Variant = '󱗫'
+
+[cart.arrow]
+Down = '󰵦'
+Right = '󰱎'
+Up = '󰵧'
+[case.sensitive]
+Alt = '󰄓'
+
+[cash]
+100 = '󰄕'
+Check = '󱓮'
+Clock = '󱪑'
+Fast = '󱡜'
+Lock = '󱓪'
+Marker = '󰶸'
+Minus = '󱉠'
+Multiple = '󰄖'
+Plus = '󱉡'
+Refund = '󰪜'
+Register = '󰳴'
+Remove = '󱉢'
+Sync = '󱪒'
+
+[cash.lock]
+Open = '󱓫'
+
+[cast]
+Audio = '󱀞'
+Connected = '󰄙'
+Education = '󰸝'
+Off = '󰞊'
+Variant = '󰀟'
+
+[cast.audio]
+Variant = '󱝉'
+
+[cctv]
+Off = '󱡟'
+
+[ceiling]
+Fan = '󱞗'
+Light = '󰝩'
+
+[ceiling.fan]
+Light = '󱞘'
+
+[ceiling.light]
+Multiple = '󱣝'
+Outline = '󱟇'
+
+[ceiling.light.multiple]
+Outline = '󱣞'
+
+[cellphone]
+Basic = '󰄞'
+Charging = '󱎗'
+Check = '󱟽'
+Cog = '󰥑'
+Dock = '󰄟'
+Information = '󰽁'
+Key = '󰥎'
+Link = '󰄡'
+Lock = '󰥏'
+Marker = '󱠺'
+Message = '󰣓'
+Nfc = '󰺐'
+Off = '󰥐'
+Play = '󱀟'
+Remove = '󰥍'
+Screenshot = '󰨵'
+Settings = '󰄣'
+Sound = '󰥒'
+Text = '󰣒'
+Wireless = '󰠕'
+
+[cellphone.arrow]
+Down = '󰧕'
+
+[cellphone.arrow.down]
+Variant = '󱧅'
+
+[cellphone.link]
+Off = '󰄢'
+
+[cellphone.message]
+Off = '󱃒'
+
+[cellphone.nfc]
+Off = '󱋘'
+
+[certificate]
+Outline = '󱆈'
+
+[chair]
+Rolling = '󰽈'
+School = '󰄥'
+
+[chart]
+Arc = '󰄦'
+Areaspline = '󰄧'
+Bar = '󰄨'
+Box = '󱕍'
+Bubble = '󰗣'
+Donut = '󰞯'
+Gantt = '󰙬'
+Histogram = '󰄩'
+Line = '󰄪'
+Multiline = '󰣔'
+Multiple = '󱈓'
+Pie = '󰄫'
+Ppf = '󱎀'
+Sankey = '󱇟'
+Timeline = '󰙮'
+Tree = '󰺔'
+Waterfall = '󱤘'
+
+[chart.areaspline]
+Variant = '󰺑'
+
+[chart.bar]
+Stacked = '󰝪'
+
+[chart.bell]
+Curve = '󰱐'
+
+[chart.bell.curve]
+Cumulative = '󰾧'
+
+[chart.box]
+Outline = '󱕎'
+
+[chart.box.plus]
+Outline = '󱕏'
+
+[chart.donut]
+Variant = '󰞰'
+
+[chart.line]
+Stacked = '󰝫'
+Variant = '󰞱'
+
+[chart.sankey]
+Variant = '󱇠'
+
+[chart.scatter]
+Plot = '󰺒'
+
+[chart.scatter.plot]
+Hexbin = '󰙭'
+
+[chart.timeline]
+Variant = '󰺓'
+
+[chart.timeline.variant]
+Shimmer = '󱖶'
+
+[chat]
+Alert = '󰭺'
+Minus = '󱐐'
+Outline = '󰻞'
+Plus = '󱐏'
+Processing = '󰭻'
+Question = '󱜸'
+Remove = '󱐑'
+Sleep = '󱋑'
+
+[chat.alert]
+Outline = '󱋉'
+
+[chat.minus]
+Outline = '󱐓'
+
+[chat.plus]
+Outline = '󱐒'
+
+[chat.processing]
+Outline = '󱋊'
+
+[chat.question]
+Outline = '󱜹'
+
+[chat.remove]
+Outline = '󱐔'
+
+[chat.sleep]
+Outline = '󱋒'
+
+[check]
+All = '󰄭'
+Bold = '󰸞'
+Circle = '󰗠'
+Decagram = '󰞑'
+Network = '󰱓'
+Outline = '󰡕'
+Underline = '󰸟'
+
+[check.circle]
+Outline = '󰗡'
+
+[check.decagram]
+Outline = '󱝀'
+
+[check.network]
+Outline = '󰱔'
+
+[check.underline]
+Circle = '󰸠'
+
+[check.underline.circle]
+Outline = '󰸡'
+
+[checkbox]
+Blank = '󰄮'
+Intermediate = '󰡖'
+Marked = '󰄲'
+Outline = '󰱒'
+
+[checkbox.blank]
+Badge = '󱅶'
+Circle = '󰄯'
+Off = '󱋬'
+Outline = '󰄱'
+
+[checkbox.blank.badge]
+Outline = '󰄗'
+
+[checkbox.blank.circle]
+Outline = '󰄰'
+
+[checkbox.blank.off]
+Outline = '󱋭'
+
+[checkbox.marked]
+Circle = '󰄳'
+Outline = '󰄵'
+
+[checkbox.marked.circle]
+Outline = '󰄴'
+
+[checkbox.marked.circle.plus]
+Outline = '󱤧'
+
+[checkbox.multiple]
+Blank = '󰄶'
+Marked = '󰄸'
+Outline = '󰱑'
+
+[checkbox.multiple.blank]
+Circle = '󰘻'
+Outline = '󰄷'
+
+[checkbox.multiple.blank.circle]
+Outline = '󰘼'
+
+[checkbox.multiple.marked]
+Circle = '󰘽'
+Outline = '󰄹'
+
+[checkbox.multiple.marked.circle]
+Outline = '󰘾'
+
+[checkerboard]
+Minus = '󱈂'
+Plus = '󱈁'
+Remove = '󱈃'
+
+[cheese]
+Off = '󱏮'
+
+[chef]
+Hat = '󰭼'
+
+[chemical]
+Weapon = '󰄻'
+
+[chess]
+Bishop = '󰡜'
+King = '󰡗'
+Knight = '󰡘'
+Pawn = '󰡙'
+Queen = '󰡚'
+Rook = '󰡛'
+
+[chevron]
+Down = '󰅀'
+Left = '󰅁'
+Right = '󰅂'
+Up = '󰅃'
+
+[chevron.double]
+Down = '󰄼'
+Left = '󰄽'
+Right = '󰄾'
+Up = '󰄿'
+
+[chevron.down]
+Box = '󰧖'
+Circle = '󰬦'
+
+[chevron.down.box]
+Outline = '󰧗'
+
+[chevron.down.circle]
+Outline = '󰬧'
+
+[chevron.left]
+Box = '󰧘'
+Circle = '󰬨'
+
+[chevron.left.box]
+Outline = '󰧙'
+
+[chevron.left.circle]
+Outline = '󰬩'
+
+[chevron.right]
+Box = '󰧚'
+Circle = '󰬪'
+
+[chevron.right.box]
+Outline = '󰧛'
+
+[chevron.right.circle]
+Outline = '󰬫'
+
+[chevron.triple]
+Down = '󰶹'
+Left = '󰶺'
+Right = '󰶻'
+Up = '󰶼'
+
+[chevron.up]
+Box = '󰧜'
+Circle = '󰬬'
+
+[chevron.up.box]
+Outline = '󰧝'
+
+[chevron.up.circle]
+Outline = '󰬭'
+
+[chili]
+Alert = '󱟪'
+Hot = '󰞲'
+Medium = '󰞳'
+Mild = '󰞴'
+Off = '󱑧'
+
+[chili.alert]
+Outline = '󱟫'
+
+[chili.hot]
+Outline = '󱟬'
+
+[chili.medium]
+Outline = '󱟭'
+
+[chili.mild]
+Outline = '󱟮'
+
+[chili.off]
+Outline = '󱟯'
+
+[cigar]
+Off = '󱐛'
+
+[circle]
+Box = '󱗜'
+Double = '󰺕'
+Expand = '󰺖'
+Half = '󱎕'
+Medium = '󰧞'
+Multiple = '󰬸'
+Opacity = '󱡓'
+Small = '󰧟'
+
+[circle.box]
+Outline = '󱗝'
+
+[circle.edit]
+Outline = '󰣕'
+
+[circle.half]
+Full = '󱎖'
+
+[circle.multiple]
+Outline = '󰚕'
+
+[circle.off]
+Outline = '󱃓'
+
+[circle.slice]
+1 = '󰪞'
+2 = '󰪟'
+3 = '󰪠'
+4 = '󰪡'
+5 = '󰪢'
+6 = '󰪣'
+7 = '󰪤'
+8 = '󰪥'
+
+[circular]
+Saw = '󰸢'
+
+[city]
+Variant = '󰨶'
+
+[city.variant]
+Outline = '󰨷'
+
+[clipboard]
+Account = '󰅈'
+Alert = '󰅉'
+Check = '󰅎'
+Clock = '󱛢'
+Edit = '󱓥'
+File = '󱉥'
+Flow = '󰛈'
+List = '󱃔'
+Minus = '󱘘'
+Multiple = '󱉧'
+Off = '󱘚'
+Outline = '󰅌'
+Play = '󰱙'
+Plus = '󰝑'
+Pulse = '󰡝'
+Remove = '󱘜'
+Search = '󱘞'
+Text = '󰅍'
+
+[clipboard.account]
+Outline = '󰱕'
+
+[clipboard.alert]
+Outline = '󰳷'
+
+[clipboard.arrow]
+Down = '󰅊'
+Left = '󰅋'
+Right = '󰳹'
+Up = '󰱗'
+
+[clipboard.arrow.down]
+Outline = '󰱖'
+
+[clipboard.arrow.left]
+Outline = '󰳸'
+
+[clipboard.arrow.right]
+Outline = '󰳺'
+
+[clipboard.arrow.up]
+Outline = '󰱘'
+
+[clipboard.check]
+Multiple = '󱉣'
+Outline = '󰢨'
+
+[clipboard.check.multiple]
+Outline = '󱉤'
+
+[clipboard.clock]
+Outline = '󱛣'
+
+[clipboard.edit]
+Outline = '󱓦'
+
+[clipboard.file]
+Outline = '󱉦'
+
+[clipboard.flow]
+Outline = '󱄗'
+
+[clipboard.list]
+Outline = '󱃕'
+
+[clipboard.minus]
+Outline = '󱘙'
+
+[clipboard.multiple]
+Outline = '󱉨'
+
+[clipboard.off]
+Outline = '󱘛'
+
+[clipboard.play]
+Multiple = '󱉩'
+Outline = '󰱚'
+
+[clipboard.play.multiple]
+Outline = '󱉪'
+
+[clipboard.plus]
+Outline = '󱌟'
+
+[clipboard.pulse]
+Outline = '󰡞'
+
+[clipboard.remove]
+Outline = '󱘝'
+
+[clipboard.search]
+Outline = '󱘟'
+
+[clipboard.text]
+Clock = '󱣹'
+Multiple = '󱉫'
+Off = '󱘠'
+Outline = '󰨸'
+Play = '󰱛'
+Search = '󱘢'
+
+[clipboard.text.clock]
+Outline = '󱣺'
+
+[clipboard.text.multiple]
+Outline = '󱉬'
+
+[clipboard.text.off]
+Outline = '󱘡'
+
+[clipboard.text.play]
+Outline = '󰱜'
+
+[clipboard.text.search]
+Outline = '󱘣'
+
+[clock]
+Alert = '󰥕'
+Check = '󰾨'
+Digital = '󰺗'
+Edit = '󱦺'
+End = '󰅑'
+Fast = '󰅒'
+In = '󰅓'
+Minus = '󱡣'
+Out = '󰅔'
+Outline = '󰅐'
+Plus = '󱡡'
+Remove = '󱡥'
+Start = '󰅕'
+
+[clock.alert]
+Outline = '󰗎'
+
+[clock.check]
+Outline = '󰾩'
+
+[clock.edit]
+Outline = '󱦻'
+
+[clock.minus]
+Outline = '󱡤'
+
+[clock.plus]
+Outline = '󱡢'
+
+[clock.remove]
+Outline = '󱡦'
+
+[clock.time]
+Eight = '󱑆'
+Eleven = '󱑉'
+Five = '󱑃'
+Four = '󱑂'
+Nine = '󱑇'
+One = '󱐿'
+Seven = '󱑅'
+Six = '󱑄'
+Ten = '󱑈'
+Three = '󱑁'
+Twelve = '󱑊'
+Two = '󱑀'
+
+[clock.time.eight]
+Outline = '󱑒'
+
+[clock.time.eleven]
+Outline = '󱑕'
+
+[clock.time.five]
+Outline = '󱑏'
+
+[clock.time.four]
+Outline = '󱑎'
+
+[clock.time.nine]
+Outline = '󱑓'
+
+[clock.time.one]
+Outline = '󱑋'
+
+[clock.time.seven]
+Outline = '󱑑'
+
+[clock.time.six]
+Outline = '󱑐'
+
+[clock.time.ten]
+Outline = '󱑔'
+
+[clock.time.three]
+Outline = '󱑍'
+
+[clock.time.twelve]
+Outline = '󱑖'
+
+[clock.time.two]
+Outline = '󱑌'
+
+[close]
+Box = '󰅗'
+Circle = '󰅙'
+Network = '󰅛'
+Octagon = '󰅜'
+Outline = '󰛉'
+Thick = '󱎘'
+
+[close.box]
+Multiple = '󰱝'
+Outline = '󰅘'
+
+[close.box.multiple]
+Outline = '󰱞'
+
+[close.circle]
+Multiple = '󰘪'
+Outline = '󰅚'
+
+[close.circle.multiple]
+Outline = '󰢃'
+
+[close.network]
+Outline = '󰱟'
+
+[close.octagon]
+Outline = '󰅝'
+
+[closed]
+Caption = '󰅞'
+
+[closed.caption]
+Outline = '󰶽'
+
+[cloud]
+Alert = '󰧠'
+Braces = '󰞵'
+Check = '󰅠'
+Circle = '󰅡'
+Download = '󰅢'
+Lock = '󱇱'
+Outline = '󰅣'
+Percent = '󱨵'
+Print = '󰅥'
+Question = '󰨹'
+Refresh = '󰔪'
+Search = '󰥖'
+Sync = '󰘿'
+Tags = '󰞶'
+Upload = '󰅧'
+
+[cloud.check]
+Outline = '󱋌'
+
+[cloud.download]
+Outline = '󰭽'
+
+[cloud.lock]
+Outline = '󱇲'
+
+[cloud.off]
+Outline = '󰅤'
+
+[cloud.percent]
+Outline = '󱨶'
+
+[cloud.print]
+Outline = '󰅦'
+
+[cloud.search]
+Outline = '󰥗'
+
+[cloud.sync]
+Outline = '󱋖'
+
+[cloud.upload]
+Outline = '󰭾'
+
+[coach]
+Lamp = '󱀠'
+
+[coach.lamp]
+Variant = '󱨷'
+
+[coat]
+Rack = '󱂞'
+
+[code]
+Array = '󰅨'
+Braces = '󰅩'
+Brackets = '󰅪'
+Equal = '󰅫'
+Json = '󰘦'
+Parentheses = '󰅲'
+String = '󰅳'
+Tags = '󰅴'
+
+[code.braces]
+Box = '󱃖'
+
+[code.greater]
+Than = '󰅬'
+[code.greater.than.or]
+Equal = '󰅭'
+
+[code.less]
+Than = '󰅮'
+[code.less.than.or]
+Equal = '󰅯'
+
+[code.not]
+Equal = '󰅰'
+
+[code.not.equal]
+Variant = '󰅱'
+
+[code.parentheses]
+Box = '󱃗'
+
+[code.tags]
+Check = '󰚔'
+
+[coffee]
+Maker = '󱂟'
+Off = '󰾪'
+Outline = '󰛊'
+
+[coffee.maker]
+Check = '󱤱'
+Outline = '󱠛'
+
+[coffee.maker.check]
+Outline = '󱤲'
+
+[coffee.off]
+Outline = '󰾫'
+
+[coffee.to]
+Go = '󰅷'
+
+[coffee.to.go]
+Outline = '󱌎'
+
+[cog]
+Box = '󰒔'
+Clockwise = '󱇝'
+Counterclockwise = '󱇞'
+Off = '󱏎'
+Outline = '󰢻'
+Pause = '󱤳'
+Play = '󱤵'
+Refresh = '󱑞'
+Stop = '󱤷'
+Sync = '󱑠'
+Transfer = '󱁛'
+
+[cog.off]
+Outline = '󱏏'
+
+[cog.pause]
+Outline = '󱤴'
+
+[cog.play]
+Outline = '󱤶'
+
+[cog.refresh]
+Outline = '󱑟'
+
+[cog.stop]
+Outline = '󱤸'
+
+[cog.sync]
+Outline = '󱑡'
+
+[cog.transfer]
+Outline = '󱁜'
+
+[collapse]
+All = '󰪦'
+
+[collapse.all]
+Outline = '󰪧'
+
+[color]
+Helper = '󰅹'
+
+[comma]
+Box = '󰸫'
+Circle = '󰸥'
+
+[comma.box]
+Outline = '󰸤'
+
+[comma.circle]
+Outline = '󰸦'
+
+[comment]
+Account = '󰅻'
+Alert = '󰅽'
+Bookmark = '󱖮'
+Check = '󰅿'
+Edit = '󱆿'
+Eye = '󰨺'
+Flash = '󱖰'
+Minus = '󱗟'
+Multiple = '󰡟'
+Off = '󱗡'
+Outline = '󰆂'
+Plus = '󰧥'
+Processing = '󰆄'
+Question = '󰠗'
+Quote = '󱀡'
+Remove = '󰗞'
+Search = '󰨼'
+Text = '󰆈'
+
+[comment.account]
+Outline = '󰅼'
+
+[comment.alert]
+Outline = '󰅾'
+
+[comment.arrow]
+Left = '󰧡'
+Right = '󰧣'
+
+[comment.arrow.left]
+Outline = '󰧢'
+
+[comment.arrow.right]
+Outline = '󰧤'
+
+[comment.bookmark]
+Outline = '󱖯'
+
+[comment.check]
+Outline = '󰆀'
+
+[comment.edit]
+Outline = '󱋄'
+
+[comment.eye]
+Outline = '󰨻'
+
+[comment.flash]
+Outline = '󱖱'
+
+[comment.minus]
+Outline = '󱗠'
+
+[comment.multiple]
+Outline = '󰆁'
+
+[comment.off]
+Outline = '󱗢'
+
+[comment.plus]
+Outline = '󰆃'
+
+[comment.processing]
+Outline = '󰆅'
+
+[comment.question]
+Outline = '󰆆'
+
+[comment.quote]
+Outline = '󱀢'
+
+[comment.remove]
+Outline = '󰆇'
+
+[comment.search]
+Outline = '󰨽'
+
+[comment.text]
+Multiple = '󰡠'
+Outline = '󰆉'
+
+[comment.text.multiple]
+Outline = '󰡡'
+
+[compare]
+Horizontal = '󱒒'
+Remove = '󱢳'
+Vertical = '󱒓'
+
+[compass]
+Off = '󰮀'
+Outline = '󰆌'
+Rose = '󱎂'
+
+[compass.off]
+Outline = '󰮁'
+
+[cone]
+Off = '󱥍'
+
+[console]
+Line = '󰞷'
+Network = '󰢩'
+
+[console.network]
+Outline = '󰱠'
+
+[contactless]
+Payment = '󰵪'
+
+[contactless.payment]
+Circle = '󰌡'
+
+[contactless.payment.circle]
+Outline = '󰐈'
+
+[contacts]
+Outline = '󰖸'
+
+[contain]
+End = '󰨿'
+Start = '󰩀'
+
+[content]
+Copy = '󰆏'
+Cut = '󰆐'
+Duplicate = '󰆑'
+Paste = '󰆒'
+Save = '󰆓'
+
+[content.save]
+Alert = '󰽂'
+All = '󰆔'
+Check = '󱣪'
+Cog = '󱑛'
+Edit = '󰳻'
+Move = '󰸧'
+Off = '󱙃'
+Outline = '󰠘'
+Settings = '󰘛'
+
+[content.save.alert]
+Outline = '󰽃'
+
+[content.save.all]
+Outline = '󰽄'
+
+[content.save.check]
+Outline = '󱣫'
+
+[content.save.cog]
+Outline = '󱑜'
+
+[content.save.edit]
+Outline = '󰳼'
+
+[content.save.move]
+Outline = '󰸨'
+
+[content.save.off]
+Outline = '󱙄'
+
+[content.save.settings]
+Outline = '󰬮'
+
+[contrast]
+Box = '󰆖'
+Circle = '󰆗'
+
+[controller]
+Classic = '󰮂'
+
+[controller.classic]
+Outline = '󰮃'
+
+[cookie]
+Alert = '󱛐'
+Check = '󱛒'
+Clock = '󱛤'
+Cog = '󱛔'
+Edit = '󱛦'
+Lock = '󱛨'
+Minus = '󱛚'
+Off = '󱛪'
+Outline = '󱛞'
+Plus = '󱛖'
+Refresh = '󱛬'
+Remove = '󱛘'
+Settings = '󱛜'
+
+[cookie.alert]
+Outline = '󱛑'
+
+[cookie.check]
+Outline = '󱛓'
+
+[cookie.clock]
+Outline = '󱛥'
+
+[cookie.cog]
+Outline = '󱛕'
+
+[cookie.edit]
+Outline = '󱛧'
+
+[cookie.lock]
+Outline = '󱛩'
+
+[cookie.minus]
+Outline = '󱛛'
+
+[cookie.off]
+Outline = '󱛫'
+
+[cookie.plus]
+Outline = '󱛗'
+
+[cookie.refresh]
+Outline = '󱛭'
+
+[cookie.remove]
+Outline = '󱛙'
+
+[cookie.settings]
+Outline = '󱛝'
+
+[coolant]
+Temperature = '󰏈'
+
+[corn]
+Off = '󱏯'
+
+[cosine]
+Wave = '󱑹'
+
+[countertop]
+Outline = '󱠝'
+
+[cow]
+Off = '󱣼'
+[cpu.32]
+Bit = '󰻟'
+
+[cpu.64]
+Bit = '󰻠'
+
+[cradle]
+Outline = '󱦑'
+
+[creative]
+Commons = '󰵫'
+
+[credit]
+Card = '󰿯'
+
+[credit.card]
+Check = '󱏐'
+Chip = '󱤏'
+Clock = '󰻡'
+Edit = '󱟗'
+Fast = '󱤑'
+Lock = '󱣧'
+Marker = '󰚨'
+Minus = '󰾬'
+Multiple = '󰿰'
+Off = '󰿱'
+Outline = '󰆛'
+Plus = '󰿲'
+Refresh = '󱙅'
+Refund = '󰿳'
+Remove = '󰾮'
+Scan = '󰿴'
+Search = '󱙇'
+Settings = '󰿵'
+Sync = '󱙉'
+Wireless = '󰠂'
+
+[credit.card.check]
+Outline = '󱏑'
+
+[credit.card.chip]
+Outline = '󱤐'
+
+[credit.card.clock]
+Outline = '󰻢'
+
+[credit.card.edit]
+Outline = '󱟘'
+
+[credit.card.fast]
+Outline = '󱤒'
+
+[credit.card.lock]
+Outline = '󱣨'
+
+[credit.card.marker]
+Outline = '󰶾'
+
+[credit.card.minus]
+Outline = '󰾭'
+
+[credit.card.multiple]
+Outline = '󰆜'
+
+[credit.card.off]
+Outline = '󰗤'
+
+[credit.card.plus]
+Outline = '󰙶'
+
+[credit.card.refresh]
+Outline = '󱙆'
+
+[credit.card.refund]
+Outline = '󰪨'
+
+[credit.card.remove]
+Outline = '󰾯'
+
+[credit.card.scan]
+Outline = '󰆝'
+
+[credit.card.search]
+Outline = '󱙈'
+
+[credit.card.settings]
+Outline = '󰣗'
+
+[credit.card.sync]
+Outline = '󱙊'
+
+[credit.card.wireless]
+Off = '󰕺'
+Outline = '󰵬'
+
+[credit.card.wireless.off]
+Outline = '󰕻'
+
+[crop]
+Free = '󰆟'
+Landscape = '󰆠'
+Portrait = '󰆡'
+Rotate = '󰚖'
+Square = '󰆢'
+
+[cross]
+Bolnisi = '󰳭'
+Celtic = '󰳵'
+Outline = '󰳶'
+
+[crosshairs]
+Gps = '󰆤'
+Off = '󰽅'
+Question = '󱄶'
+
+[crown]
+Circle = '󱟜'
+Outline = '󱇐'
+
+[crown.circle]
+Outline = '󱟝'
+
+[crystal]
+Ball = '󰬯'
+
+[cube]
+Off = '󱐜'
+Outline = '󰆧'
+Scan = '󰮄'
+Send = '󰆨'
+Unfolded = '󰆩'
+
+[cube.off]
+Outline = '󱐝'
+
+[cup]
+Off = '󰗥'
+Outline = '󱌏'
+Water = '󰆫'
+
+[cup.off]
+Outline = '󱍽'
+
+[cupboard]
+Outline = '󰽇'
+
+[currency]
+Bdt = '󰡤'
+Brl = '󰮅'
+Btc = '󰆬'
+Cny = '󰞺'
+Eth = '󰞻'
+Eur = '󰆭'
+Fra = '󱨹'
+Gbp = '󰆮'
+Ils = '󰱡'
+Inr = '󰆯'
+Jpy = '󰞼'
+Krw = '󰞽'
+Kzt = '󰡥'
+Mnt = '󱔒'
+Ngn = '󰆰'
+Php = '󰧦'
+Rial = '󰺜'
+Rub = '󰆱'
+Rupee = '󱥶'
+Sign = '󰞾'
+Try = '󰆲'
+Twd = '󰞿'
+Usd = '󰇁'
+
+[currency.eur]
+Off = '󱌕'
+
+[currency.usd]
+Off = '󰙺'
+
+[current]
+Ac = '󱒀'
+Dc = '󰥜'
+
+[cursor]
+Default = '󰇀'
+Move = '󰆾'
+Pointer = '󰆽'
+Text = '󰗧'
+
+[cursor.default]
+Click = '󰳽'
+Gesture = '󱄧'
+Outline = '󰆿'
+
+[cursor.default.click]
+Outline = '󰳾'
+
+[cursor.default.gesture]
+Outline = '󱄨'
+
+[curtains]
+Closed = '󱡇'
+
+[cylinder]
+Off = '󱥏'
+
+[dance]
+Ballroom = '󱗻'
+Pole = '󱕸'
+
+[data]
+Matrix = '󱔼'
+
+[data.matrix]
+Edit = '󱔽'
+Minus = '󱔾'
+Plus = '󱔿'
+Remove = '󱕀'
+Scan = '󱕁'
+
+[database]
+Alert = '󱘺'
+Check = '󰪩'
+Clock = '󱘿'
+Cog = '󱙋'
+Edit = '󰮆'
+Export = '󰥞'
+Eye = '󱤟'
+Import = '󰥝'
+Lock = '󰪪'
+Marker = '󱋶'
+Minus = '󰆻'
+Off = '󱙀'
+Outline = '󱘲'
+Plus = '󰆺'
+Refresh = '󰗂'
+Remove = '󰴀'
+Search = '󰡦'
+Settings = '󰴁'
+Sync = '󰳿'
+
+[database.alert]
+Outline = '󱘤'
+
+[database.arrow]
+Down = '󱘻'
+Left = '󱘼'
+Right = '󱘽'
+Up = '󱘾'
+
+[database.arrow.down]
+Outline = '󱘥'
+
+[database.arrow.left]
+Outline = '󱘦'
+
+[database.arrow.right]
+Outline = '󱘧'
+
+[database.arrow.up]
+Outline = '󱘨'
+
+[database.check]
+Outline = '󱘩'
+
+[database.clock]
+Outline = '󱘪'
+
+[database.cog]
+Outline = '󱙌'
+
+[database.edit]
+Outline = '󱘫'
+
+[database.export]
+Outline = '󱘬'
+
+[database.eye]
+Off = '󱤠'
+Outline = '󱤢'
+
+[database.eye.off]
+Outline = '󱤡'
+
+[database.import]
+Outline = '󱘭'
+
+[database.lock]
+Outline = '󱘮'
+
+[database.marker]
+Outline = '󱘯'
+
+[database.minus]
+Outline = '󱘰'
+
+[database.off]
+Outline = '󱘱'
+
+[database.plus]
+Outline = '󱘳'
+
+[database.refresh]
+Outline = '󱘴'
+
+[database.remove]
+Outline = '󱘵'
+
+[database.search]
+Outline = '󱘶'
+
+[database.settings]
+Outline = '󱘷'
+
+[database.sync]
+Outline = '󱘸'
+
+[death]
+Star = '󰣘'
+
+[death.star]
+Variant = '󰣙'
+
+[deathly]
+Hallows = '󰮇'
+[debug.step]
+Into = '󰆹'
+Out = '󰆸'
+Over = '󰆷'
+
+[decagram]
+Outline = '󰝭'
+
+[decimal]
+Comma = '󱂢'
+Decrease = '󰆶'
+Increase = '󰆵'
+
+[decimal.comma]
+Decrease = '󱂣'
+Increase = '󱂤'
+
+[delete]
+Alert = '󱂥'
+Circle = '󰚃'
+Clock = '󱕖'
+Empty = '󰛌'
+Forever = '󰗨'
+Off = '󱂧'
+Outline = '󰧧'
+Restore = '󰠙'
+Sweep = '󰗩'
+Variant = '󰆳'
+
+[delete.alert]
+Outline = '󱂦'
+
+[delete.circle]
+Outline = '󰮈'
+
+[delete.clock]
+Outline = '󱕗'
+
+[delete.empty]
+Outline = '󰺝'
+
+[delete.forever]
+Outline = '󰮉'
+
+[delete.off]
+Outline = '󱂨'
+
+[delete.sweep]
+Outline = '󰱢'
+
+[desk]
+Lamp = '󰥟'
+
+[desktop]
+Classic = '󰟀'
+Mac = '󰇄'
+Tower = '󰇅'
+
+[desktop.mac]
+Dashboard = '󰧨'
+
+[desktop.tower]
+Monitor = '󰪫'
+
+[dev]
+To = '󰵮'
+
+[developer]
+Board = '󰚗'
+
+[diameter]
+Outline = '󰱤'
+Variant = '󰱥'
+
+[diamond]
+Outline = '󰮋'
+Stone = '󰇈'
+
+[dice]
+D10 = '󱅓'
+D12 = '󱅔'
+D20 = '󱅕'
+D4 = '󱅐'
+D6 = '󱅑'
+D8 = '󱅒'
+Multiple = '󰝮'
+
+[dice.1]
+Outline = '󱅊'
+
+[dice.2]
+Outline = '󱅋'
+
+[dice.3]
+Outline = '󱅌'
+
+[dice.4]
+Outline = '󱅍'
+
+[dice.5]
+Outline = '󱅎'
+
+[dice.6]
+Outline = '󱅏'
+
+[dice.d10]
+Outline = '󰝯'
+
+[dice.d12]
+Outline = '󰡧'
+
+[dice.d20]
+Outline = '󰗪'
+
+[dice.d4]
+Outline = '󰗫'
+
+[dice.d6]
+Outline = '󰗭'
+
+[dice.d8]
+Outline = '󰗬'
+
+[dice.multiple]
+Outline = '󱅖'
+
+[digital]
+Ocean = '󱈷'
+
+[dip]
+Switch = '󰟁'
+
+[directions]
+Fork = '󰙁'
+
+[disc]
+Alert = '󰇑'
+Player = '󰥠'
+
+[dishwasher]
+Alert = '󱆸'
+Off = '󱆹'
+[distribute.horizontal]
+Center = '󱇉'
+Left = '󱇈'
+Right = '󱇊'
+
+[distribute.vertical]
+Bottom = '󱇋'
+Center = '󱇌'
+Top = '󱇍'
+
+[diving]
+Flippers = '󰶿'
+Helmet = '󰷀'
+Scuba = '󰷁'
+Snorkel = '󰷅'
+
+[diving.scuba]
+Flag = '󰷂'
+Tank = '󰷃'
+
+[diving.scuba.tank]
+Multiple = '󰷄'
+
+[division]
+Box = '󰇕'
+
+[dns]
+Outline = '󰮌'
+
+[dock]
+Bottom = '󱂩'
+Left = '󱂪'
+Right = '󱂫'
+Top = '󱔓'
+Window = '󱂬'
+
+[dog]
+Service = '󰪭'
+Side = '󰩄'
+
+[dog.side]
+Off = '󱛮'
+
+[domain]
+Off = '󰵯'
+Plus = '󱂭'
+Remove = '󱂮'
+
+[dome]
+Light = '󱐞'
+
+[domino]
+Mask = '󱀣'
+
+[door]
+Closed = '󰠛'
+Open = '󰠜'
+Sliding = '󱠞'
+
+[door.closed]
+Lock = '󱂯'
+
+[door.sliding]
+Lock = '󱠟'
+Open = '󱠠'
+
+[doorbell]
+Video = '󰡩'
+
+[dot]
+Net = '󰪮'
+
+[dots]
+Circle = '󱥸'
+Grid = '󱗼'
+Hexagon = '󱗿'
+Horizontal = '󰇘'
+Square = '󱗽'
+Triangle = '󱗾'
+Vertical = '󰇙'
+
+[dots.horizontal]
+Circle = '󰟃'
+
+[dots.horizontal.circle]
+Outline = '󰮍'
+
+[dots.vertical]
+Circle = '󰟄'
+
+[dots.vertical.circle]
+Outline = '󰮎'
+
+[download]
+Box = '󱑢'
+Circle = '󱑤'
+Lock = '󱌠'
+Multiple = '󰧩'
+Network = '󰛴'
+Off = '󱂰'
+Outline = '󰮏'
+
+[download.box]
+Outline = '󱑣'
+
+[download.circle]
+Outline = '󱑥'
+
+[download.lock]
+Outline = '󱌡'
+
+[download.network]
+Outline = '󰱦'
+
+[download.off]
+Outline = '󱂱'
+
+[drag]
+Horizontal = '󰇜'
+Variant = '󰮐'
+Vertical = '󰇝'
+
+[drag.horizontal]
+Variant = '󱋰'
+
+[drag.vertical]
+Variant = '󱋱'
+
+[drama]
+Masks = '󰴂'
+
+[draw]
+Pen = '󱦹'
+
+[drawing]
+Box = '󰇟'
+
+[dresser]
+Outline = '󰽋'
+
+[dump]
+Truck = '󰱧'
+
+[ear]
+Hearing = '󰟅'
+
+[ear.hearing]
+Loop = '󱫮'
+Off = '󰩅'
+
+[earbuds]
+Off = '󱡐'
+Outline = '󱡒'
+
+[earbuds.off]
+Outline = '󱡑'
+
+[earth]
+Box = '󰛍'
+Minus = '󱐄'
+Off = '󰇨'
+Plus = '󱐃'
+Remove = '󱐅'
+
+[earth.arrow]
+Right = '󱌑'
+
+[earth.box]
+Minus = '󱐇'
+Off = '󰛎'
+Plus = '󱐆'
+Remove = '󱐈'
+
+[egg]
+Easter = '󰪰'
+Fried = '󱡊'
+Off = '󱏰'
+Outline = '󱏲'
+
+[egg.off]
+Outline = '󱏱'
+
+[eiffel]
+Tower = '󱕫'
+
+[eight]
+Track = '󰧪'
+
+[eject]
+Outline = '󰮑'
+
+[electric]
+Switch = '󰺟'
+
+[electric.switch]
+Closed = '󱃙'
+
+[electron]
+Framework = '󱀤'
+
+[elevation]
+Decline = '󰇫'
+Rise = '󰇬'
+
+[elevator]
+Down = '󱋂'
+Passenger = '󱎁'
+Up = '󱋁'
+
+[elevator.passenger]
+Off = '󱥹'
+Outline = '󱥻'
+
+[elevator.passenger.off]
+Outline = '󱥺'
+
+[ellipse]
+Outline = '󰺡'
+
+[email]
+Alert = '󰛏'
+Box = '󰴃'
+Check = '󰪱'
+Edit = '󰻣'
+Fast = '󱡯'
+Lock = '󰇱'
+Minus = '󰻥'
+Multiple = '󰻧'
+Newsletter = '󰾱'
+Off = '󱏣'
+Open = '󰇯'
+Outline = '󰇰'
+Plus = '󰧫'
+Receive = '󱃚'
+Remove = '󱙡'
+Seal = '󱥛'
+Search = '󰥡'
+Send = '󱃜'
+Sync = '󱋇'
+Variant = '󰗰'
+
+[email.alert]
+Outline = '󰵂'
+
+[email.check]
+Outline = '󰪲'
+
+[email.edit]
+Outline = '󰻤'
+
+[email.fast]
+Outline = '󱡰'
+[email.mark.as]
+Unread = '󰮒'
+
+[email.minus]
+Outline = '󰻦'
+
+[email.multiple]
+Outline = '󰻨'
+
+[email.off]
+Outline = '󱏤'
+
+[email.open]
+Multiple = '󰻩'
+Outline = '󰗯'
+
+[email.open.multiple]
+Outline = '󰻪'
+
+[email.plus]
+Outline = '󰧬'
+
+[email.receive]
+Outline = '󱃛'
+
+[email.remove]
+Outline = '󱙢'
+
+[email.seal]
+Outline = '󱥜'
+
+[email.search]
+Outline = '󰥢'
+
+[email.send]
+Outline = '󱃝'
+
+[email.sync]
+Outline = '󱋈'
+
+[emoticon]
+Angry = '󰱩'
+Confused = '󱃞'
+Cool = '󰱫'
+Cry = '󰱬'
+Dead = '󰱮'
+Devil = '󰱯'
+Excited = '󰱰'
+Frown = '󰽌'
+Happy = '󰱱'
+Kiss = '󰱲'
+Lol = '󱈔'
+Neutral = '󰱴'
+Outline = '󰇲'
+Poop = '󰇷'
+Sad = '󰱶'
+Sick = '󱕼'
+Tongue = '󰇹'
+Wink = '󰱸'
+
+[emoticon.angry]
+Outline = '󰱪'
+
+[emoticon.confused]
+Outline = '󱃟'
+
+[emoticon.cool]
+Outline = '󰇳'
+
+[emoticon.cry]
+Outline = '󰱭'
+
+[emoticon.dead]
+Outline = '󰚛'
+
+[emoticon.devil]
+Outline = '󰇴'
+
+[emoticon.excited]
+Outline = '󰚜'
+
+[emoticon.frown]
+Outline = '󰽍'
+
+[emoticon.happy]
+Outline = '󰇵'
+
+[emoticon.kiss]
+Outline = '󰱳'
+
+[emoticon.lol]
+Outline = '󱈕'
+
+[emoticon.neutral]
+Outline = '󰇶'
+
+[emoticon.poop]
+Outline = '󰱵'
+
+[emoticon.sad]
+Outline = '󰇸'
+
+[emoticon.sick]
+Outline = '󱕽'
+
+[emoticon.tongue]
+Outline = '󰱷'
+
+[emoticon.wink]
+Outline = '󰱹'
+
+[engine]
+Off = '󰩆'
+Outline = '󰇻'
+
+[engine.off]
+Outline = '󰩇'
+
+[equal]
+Box = '󰇽'
+
+[equalizer]
+Outline = '󰺣'
+
+[eraser]
+Variant = '󰙂'
+
+[escalator]
+Box = '󱎙'
+Down = '󱋀'
+Up = '󱊿'
+
+[ethernet]
+Cable = '󰈁'
+
+[ethernet.cable]
+Off = '󰈂'
+
+[ev]
+Station = '󰗱'
+
+[ev.plug]
+Ccs1 = '󱔙'
+Ccs2 = '󱔚'
+Chademo = '󱔛'
+Tesla = '󱔜'
+Type1 = '󱔝'
+Type2 = '󱔞'
+
+[exclamation]
+Thick = '󱈸'
+
+[exit]
+Run = '󰩈'
+
+[exit.to]
+App = '󰈆'
+
+[expand]
+All = '󰪴'
+
+[expand.all]
+Outline = '󰪵'
+
+[expansion]
+Card = '󰢮'
+
+[expansion.card]
+Variant = '󰾲'
+
+[exponent]
+Box = '󰥤'
+
+[export]
+Variant = '󰮓'
+
+[eye]
+Check = '󰴄'
+Circle = '󰮔'
+Minus = '󱀦'
+Off = '󰈉'
+Outline = '󰛐'
+Plus = '󰡫'
+Refresh = '󱥼'
+Remove = '󱗣'
+Settings = '󰡭'
+
+[eye.arrow]
+Left = '󱣽'
+Right = '󱣿'
+
+[eye.arrow.left]
+Outline = '󱣾'
+
+[eye.arrow.right]
+Outline = '󱤀'
+
+[eye.check]
+Outline = '󰴅'
+
+[eye.circle]
+Outline = '󰮕'
+
+[eye.minus]
+Outline = '󱀧'
+
+[eye.off]
+Outline = '󰛑'
+
+[eye.plus]
+Outline = '󰡬'
+
+[eye.refresh]
+Outline = '󱥽'
+
+[eye.remove]
+Outline = '󱗤'
+
+[eye.settings]
+Outline = '󰡮'
+
+[eyedropper]
+Minus = '󱏝'
+Off = '󱏟'
+Plus = '󱏜'
+Remove = '󱏞'
+Variant = '󰈋'
+
+[face]
+Agent = '󰵰'
+Man = '󰙃'
+Mask = '󱖆'
+Recognition = '󰱻'
+Woman = '󱁷'
+
+[face.man]
+Outline = '󰮖'
+Profile = '󰙄'
+Shimmer = '󱗌'
+
+[face.man.shimmer]
+Outline = '󱗍'
+
+[face.mask]
+Outline = '󱖇'
+
+[face.woman]
+Outline = '󱁸'
+Profile = '󱁶'
+Shimmer = '󱗎'
+
+[face.woman.shimmer]
+Outline = '󱗏'
+
+[facebook]
+Gaming = '󰟝'
+Messenger = '󰈎'
+Workplace = '󰬱'
+
+[family]
+Tree = '󱘎'
+
+[fan]
+Alert = '󱑬'
+Auto = '󱜝'
+Clock = '󱨺'
+Minus = '󱑰'
+Off = '󰠝'
+Plus = '󱑯'
+Remove = '󱑱'
+
+[fan.chevron]
+Down = '󱑭'
+Up = '󱑮'
+
+[fan.speed]
+1 = '󱑲'
+2 = '󱑳'
+3 = '󱑴'
+
+[fast]
+Forward = '󰈑'
+
+[fast.forward]
+10 = '󰵱'
+15 = '󱤺'
+30 = '󰴆'
+5 = '󱇸'
+60 = '󱘋'
+Outline = '󰛒'
+
+[feature]
+Search = '󰩉'
+
+[feature.search]
+Outline = '󰩊'
+
+[fence]
+Electric = '󱟶'
+
+[ferris]
+Wheel = '󰺤'
+
+[file]
+Account = '󰜻'
+Alert = '󰩋'
+Cabinet = '󰪶'
+Cad = '󰻫'
+Cancel = '󰷆'
+Certificate = '󱆆'
+Chart = '󰈕'
+Check = '󰈖'
+Clock = '󱋡'
+Cloud = '󰈗'
+Code = '󰈮'
+Cog = '󱁻'
+Compare = '󰢪'
+Delimited = '󰈘'
+Document = '󰈙'
+Download = '󰥥'
+Edit = '󱇧'
+Excel = '󰈛'
+Export = '󰈝'
+Eye = '󰷊'
+Find = '󰈞'
+Hidden = '󰘓'
+Image = '󰈟'
+Import = '󰈠'
+Key = '󱆄'
+Link = '󱅷'
+Lock = '󰈡'
+Marker = '󱝴'
+Minus = '󱪡'
+Move = '󰪹'
+Multiple = '󰈢'
+Music = '󰈣'
+Outline = '󰈤'
+Percent = '󰠞'
+Phone = '󱅹'
+Plus = '󰝒'
+Powerpoint = '󰈧'
+Question = '󰡯'
+Refresh = '󰤘'
+Remove = '󰮘'
+Replace = '󰬲'
+Restore = '󰙰'
+Search = '󰱼'
+Send = '󰈪'
+Settings = '󱁹'
+Sign = '󱧃'
+Star = '󱀺'
+Swap = '󰾴'
+Sync = '󱈖'
+Table = '󰱾'
+Tree = '󰙅'
+Undo = '󰣜'
+Upload = '󰩍'
+Video = '󰈫'
+Word = '󰈬'
+
+[file.account]
+Outline = '󱀨'
+
+[file.alert]
+Outline = '󰩌'
+[file.arrow.left]
+Right = '󱪓'
+
+[file.arrow.left.right]
+Outline = '󱪔'
+
+[file.arrow.up]
+Down = '󱪕'
+
+[file.arrow.up.down]
+Outline = '󱪖'
+
+[file.cad]
+Box = '󰻬'
+
+[file.cancel]
+Outline = '󰷇'
+
+[file.certificate]
+Outline = '󱆇'
+
+[file.chart]
+Check = '󱧆'
+Outline = '󱀩'
+
+[file.chart.check]
+Outline = '󱧇'
+
+[file.check]
+Outline = '󰸩'
+
+[file.clock]
+Outline = '󱋢'
+
+[file.cloud]
+Outline = '󱀪'
+
+[file.code]
+Outline = '󱀫'
+
+[file.cog]
+Outline = '󱁼'
+
+[file.delimited]
+Outline = '󰺥'
+
+[file.document]
+Alert = '󱪗'
+Check = '󱪙'
+Edit = '󰷈'
+Minus = '󱪛'
+Multiple = '󱔗'
+Outline = '󰧮'
+Plus = '󱪝'
+Remove = '󱪟'
+
+[file.document.alert]
+Outline = '󱪘'
+
+[file.document.check]
+Outline = '󱪚'
+
+[file.document.edit]
+Outline = '󰷉'
+
+[file.document.minus]
+Outline = '󱪜'
+
+[file.document.multiple]
+Outline = '󱔘'
+
+[file.document.plus]
+Outline = '󱪞'
+
+[file.document.remove]
+Outline = '󱪠'
+
+[file.download]
+Outline = '󰥦'
+
+[file.edit]
+Outline = '󱇨'
+
+[file.excel]
+Box = '󰈜'
+Outline = '󱀭'
+
+[file.excel.box]
+Outline = '󱀬'
+
+[file.export]
+Outline = '󱀮'
+
+[file.eye]
+Outline = '󰷋'
+
+[file.find]
+Outline = '󰮗'
+
+[file.gif]
+Box = '󰵸'
+
+[file.image]
+Marker = '󱝲'
+Minus = '󱤻'
+Outline = '󰺰'
+Plus = '󱤽'
+Remove = '󱤿'
+
+[file.image.marker]
+Outline = '󱝳'
+
+[file.image.minus]
+Outline = '󱤼'
+
+[file.image.plus]
+Outline = '󱤾'
+
+[file.image.remove]
+Outline = '󱥀'
+
+[file.import]
+Outline = '󱀯'
+
+[file.jpg]
+Box = '󰈥'
+
+[file.key]
+Outline = '󱆅'
+
+[file.link]
+Outline = '󱅸'
+
+[file.lock]
+Open = '󱧈'
+Outline = '󱀰'
+
+[file.lock.open]
+Outline = '󱧉'
+
+[file.marker]
+Outline = '󱝵'
+
+[file.minus]
+Outline = '󱪢'
+
+[file.move]
+Outline = '󱀱'
+
+[file.multiple]
+Outline = '󱀲'
+
+[file.music]
+Outline = '󰸪'
+
+[file.pdf]
+Box = '󰈦'
+
+[file.percent]
+Outline = '󱀳'
+
+[file.phone]
+Outline = '󱅺'
+
+[file.plus]
+Outline = '󰻭'
+
+[file.png]
+Box = '󰸭'
+
+[file.powerpoint]
+Box = '󰈨'
+Outline = '󱀵'
+
+[file.powerpoint.box]
+Outline = '󱀴'
+
+[file.presentation]
+Box = '󰈩'
+
+[file.question]
+Outline = '󱀶'
+
+[file.refresh]
+Outline = '󰕁'
+
+[file.remove]
+Outline = '󱀷'
+
+[file.replace]
+Outline = '󰬳'
+
+[file.restore]
+Outline = '󱀸'
+
+[file.rotate]
+Left = '󱨻'
+Right = '󱨽'
+
+[file.rotate.left]
+Outline = '󱨼'
+
+[file.rotate.right]
+Outline = '󱨾'
+
+[file.search]
+Outline = '󰱽'
+
+[file.send]
+Outline = '󱀹'
+
+[file.settings]
+Outline = '󱁺'
+
+[file.star]
+Outline = '󱀻'
+
+[file.swap]
+Outline = '󰾵'
+
+[file.sync]
+Outline = '󱈗'
+
+[file.table]
+Box = '󱃡'
+Outline = '󰱿'
+
+[file.table.box]
+Multiple = '󱃢'
+Outline = '󱃤'
+
+[file.table.box.multiple]
+Outline = '󱃣'
+
+[file.tree]
+Outline = '󱏒'
+
+[file.undo]
+Outline = '󱀼'
+
+[file.upload]
+Outline = '󰩎'
+
+[file.video]
+Outline = '󰸬'
+
+[file.word]
+Box = '󰈭'
+Outline = '󱀾'
+
+[file.word.box]
+Outline = '󱀽'
+
+[filmstrip]
+Box = '󰌲'
+Off = '󰈱'
+
+[filmstrip.box]
+Multiple = '󰴘'
+
+[filter]
+Check = '󱣬'
+Cog = '󱪣'
+Menu = '󱃥'
+Minus = '󰻮'
+Multiple = '󱨿'
+Off = '󱓯'
+Outline = '󰈳'
+Plus = '󰻰'
+Remove = '󰈴'
+Settings = '󱪥'
+Variant = '󰈶'
+
+[filter.check]
+Outline = '󱣭'
+
+[filter.cog]
+Outline = '󱪤'
+
+[filter.menu]
+Outline = '󱃦'
+
+[filter.minus]
+Outline = '󰻯'
+
+[filter.multiple]
+Outline = '󱩀'
+
+[filter.off]
+Outline = '󱓰'
+
+[filter.plus]
+Outline = '󰻱'
+
+[filter.remove]
+Outline = '󰈵'
+
+[filter.settings]
+Outline = '󱪦'
+
+[filter.variant]
+Minus = '󱄒'
+Plus = '󱄓'
+Remove = '󱀿'
+
+[find]
+Replace = '󰛔'
+
+[fingerprint]
+Off = '󰺱'
+
+[fire]
+Alert = '󱗗'
+Circle = '󱠇'
+Extinguisher = '󰻲'
+Hydrant = '󱄷'
+Off = '󱜢'
+Truck = '󰢫'
+
+[fire.hydrant]
+Alert = '󱄸'
+Off = '󱄹'
+
+[fireplace]
+Off = '󰸯'
+
+[firework]
+Off = '󱜣'
+
+[fish]
+Off = '󱏳'
+
+[fishbowl]
+Outline = '󰻴'
+[fit.to]
+Page = '󰻵'
+Screen = '󱣴'
+
+[fit.to.page]
+Outline = '󰻶'
+
+[fit.to.screen]
+Outline = '󱣵'
+
+[flag]
+Checkered = '󰈼'
+Minus = '󰮙'
+Off = '󱣮'
+Outline = '󰈽'
+Plus = '󰮚'
+Remove = '󰮛'
+Triangle = '󰈿'
+Variant = '󰉀'
+
+[flag.minus]
+Outline = '󱂲'
+
+[flag.off]
+Outline = '󱣯'
+
+[flag.plus]
+Outline = '󱂳'
+
+[flag.remove]
+Outline = '󱂴'
+
+[flag.variant]
+Outline = '󰈾'
+
+[flash]
+Alert = '󰻷'
+Auto = '󰉂'
+Off = '󰉃'
+Outline = '󰛕'
+
+[flash.alert]
+Outline = '󰻸'
+
+[flash.red]
+Eye = '󰙻'
+
+[flashlight]
+Off = '󰉅'
+
+[flask]
+Empty = '󰂔'
+Minus = '󱉀'
+Off = '󱏶'
+Outline = '󰂖'
+Plus = '󱉂'
+Remove = '󱉄'
+
+[flask.empty]
+Minus = '󱈺'
+Off = '󱏴'
+Outline = '󰂕'
+Plus = '󱈼'
+Remove = '󱈾'
+
+[flask.empty.minus]
+Outline = '󱈻'
+
+[flask.empty.off]
+Outline = '󱏵'
+
+[flask.empty.plus]
+Outline = '󱈽'
+
+[flask.empty.remove]
+Outline = '󱈿'
+
+[flask.minus]
+Outline = '󱉁'
+
+[flask.off]
+Outline = '󱏷'
+
+[flask.plus]
+Outline = '󱉃'
+
+[flask.remove]
+Outline = '󱉅'
+
+[flask.round]
+Bottom = '󱉋'
+
+[flask.round.bottom]
+Empty = '󱉌'
+Outline = '󱉎'
+
+[flask.round.bottom.empty]
+Outline = '󱉍'
+[fleur.de]
+Lis = '󱌃'
+
+[flip]
+Horizontal = '󱃧'
+Vertical = '󱃨'
+
+[flip.to]
+Back = '󰉇'
+Front = '󰉈'
+
+[floor]
+Lamp = '󰣝'
+Plan = '󰠡'
+
+[floor.lamp]
+Dual = '󱁀'
+Outline = '󱟈'
+Torchiere = '󱝇'
+
+[floor.lamp.dual]
+Outline = '󱟎'
+
+[floor.lamp.torchiere]
+Outline = '󱟖'
+Variant = '󱁁'
+
+[floor.lamp.torchiere.variant]
+Outline = '󱟏'
+
+[floppy]
+Variant = '󰧯'
+
+[flower]
+Outline = '󰧰'
+Pollen = '󱢅'
+Poppy = '󰴈'
+Tulip = '󰧱'
+
+[flower.pollen]
+Outline = '󱢆'
+
+[flower.tulip]
+Outline = '󰧲'
+
+[focus]
+Auto = '󰽎'
+Field = '󰽏'
+
+[focus.field]
+Horizontal = '󰽐'
+Vertical = '󰽑'
+
+[folder]
+Account = '󰉌'
+Alert = '󰷌'
+Cancel = '󱧴'
+Check = '󱥾'
+Clock = '󰪺'
+Cog = '󱁿'
+Download = '󰉍'
+Edit = '󰣞'
+Eye = '󱞊'
+File = '󱧶'
+Heart = '󱃪'
+Hidden = '󱞞'
+Home = '󱂵'
+Image = '󰉏'
+Information = '󱂷'
+Key = '󰢬'
+Lock = '󰉐'
+Marker = '󱉭'
+Move = '󰉒'
+Multiple = '󰉓'
+Music = '󱍙'
+Network = '󰡰'
+Off = '󱧸'
+Open = '󰝰'
+Outline = '󰉖'
+Play = '󱧺'
+Plus = '󰉗'
+Pound = '󰴉'
+Question = '󱧊'
+Refresh = '󰝉'
+Remove = '󰉘'
+Search = '󰥨'
+Settings = '󱁽'
+Star = '󰚝'
+Swap = '󰾶'
+Sync = '󰴋'
+Table = '󱋣'
+Text = '󰲂'
+Upload = '󰉙'
+Wrench = '󱧼'
+Zip = '󰛫'
+
+[folder.account]
+Outline = '󰮜'
+
+[folder.alert]
+Outline = '󰷍'
+
+[folder.arrow]
+Down = '󱧨'
+Left = '󱧪'
+Right = '󱧮'
+Up = '󱧰'
+
+[folder.arrow.down]
+Outline = '󱧩'
+
+[folder.arrow.left]
+Outline = '󱧫'
+Right = '󱧬'
+
+[folder.arrow.left.right]
+Outline = '󱧭'
+
+[folder.arrow.right]
+Outline = '󱧯'
+
+[folder.arrow.up]
+Down = '󱧱'
+Outline = '󱧳'
+
+[folder.arrow.up.down]
+Outline = '󱧲'
+
+[folder.cancel]
+Outline = '󱧵'
+
+[folder.check]
+Outline = '󱥿'
+
+[folder.clock]
+Outline = '󰪻'
+
+[folder.cog]
+Outline = '󱂀'
+
+[folder.download]
+Outline = '󱃩'
+
+[folder.edit]
+Outline = '󰷎'
+
+[folder.eye]
+Outline = '󱞋'
+
+[folder.file]
+Outline = '󱧷'
+
+[folder.google]
+Drive = '󰉎'
+
+[folder.heart]
+Outline = '󱃫'
+
+[folder.home]
+Outline = '󱂶'
+
+[folder.information]
+Outline = '󱂸'
+
+[folder.key]
+Network = '󰢭'
+Outline = '󱃬'
+
+[folder.key.network]
+Outline = '󰲀'
+
+[folder.lock]
+Open = '󰉑'
+Outline = '󱪨'
+
+[folder.lock.open]
+Outline = '󱪧'
+
+[folder.marker]
+Outline = '󱉮'
+
+[folder.move]
+Outline = '󱉆'
+
+[folder.multiple]
+Image = '󰉔'
+Outline = '󰉕'
+Plus = '󱑾'
+
+[folder.multiple.plus]
+Outline = '󱑿'
+
+[folder.music]
+Outline = '󱍚'
+
+[folder.network]
+Outline = '󰲁'
+
+[folder.off]
+Outline = '󱧹'
+
+[folder.open]
+Outline = '󰷏'
+
+[folder.play]
+Outline = '󱧻'
+
+[folder.plus]
+Outline = '󰮝'
+
+[folder.pound]
+Outline = '󰴊'
+
+[folder.question]
+Outline = '󱧋'
+
+[folder.refresh]
+Outline = '󰕂'
+
+[folder.remove]
+Outline = '󰮞'
+
+[folder.search]
+Outline = '󰥩'
+
+[folder.settings]
+Outline = '󱁾'
+
+[folder.star]
+Multiple = '󱏓'
+Outline = '󰮟'
+
+[folder.star.multiple]
+Outline = '󱏔'
+
+[folder.swap]
+Outline = '󰾷'
+
+[folder.sync]
+Outline = '󰴌'
+
+[folder.table]
+Outline = '󱋤'
+
+[folder.text]
+Outline = '󰲃'
+
+[folder.upload]
+Outline = '󱃭'
+
+[folder.wrench]
+Outline = '󱧽'
+
+[folder.zip]
+Outline = '󰞹'
+
+[font]
+Awesome = '󰀺'
+
+[food]
+Apple = '󰉛'
+Croissant = '󰟈'
+Drumstick = '󱐟'
+Halal = '󱕲'
+Kosher = '󱕳'
+Off = '󰗳'
+Outline = '󱤖'
+Steak = '󱑪'
+Turkey = '󱜜'
+Variant = '󰉜'
+
+[food.apple]
+Outline = '󰲄'
+
+[food.drumstick]
+Off = '󱑨'
+Outline = '󱐠'
+
+[food.drumstick.off]
+Outline = '󱑩'
+
+[food.fork]
+Drink = '󰗲'
+
+[food.hot]
+Dog = '󱡋'
+
+[food.off]
+Outline = '󱤕'
+
+[food.steak]
+Off = '󱑫'
+
+[food.takeout]
+Box = '󱠶'
+
+[food.takeout.box]
+Outline = '󱠷'
+
+[food.variant]
+Off = '󱏥'
+
+[foot]
+Print = '󰽒'
+
+[football]
+Australian = '󰉞'
+Helmet = '󰉟'
+
+[form]
+Dropdown = '󱐀'
+Select = '󱐁'
+Textarea = '󱂕'
+Textbox = '󰘎'
+
+[form.textbox]
+Lock = '󱍝'
+Password = '󰟵'
+
+[format]
+Bold = '󰉤'
+Clear = '󰉥'
+Columns = '󰣟'
+Font = '󰛖'
+Italic = '󰉷'
+Overline = '󰺳'
+Paint = '󰉼'
+Paragraph = '󰉽'
+Pilcrow = '󰛘'
+Section = '󰚟'
+Size = '󰉿'
+Strikethrough = '󰊀'
+Subscript = '󰊂'
+Superscript = '󰊃'
+Text = '󰊄'
+Textbox = '󰴑'
+Title = '󰗴'
+Underline = '󰊇'
+
+[format.align]
+Bottom = '󰝓'
+Center = '󰉠'
+Justify = '󰉡'
+Left = '󰉢'
+Middle = '󰝔'
+Right = '󰉣'
+Top = '󰝕'
+
+[format.annotation]
+Minus = '󰪼'
+Plus = '󰙆'
+
+[format.color]
+Fill = '󰉦'
+Highlight = '󰸱'
+Text = '󰚞'
+
+[format.color.marker]
+Cancel = '󱌓'
+
+[format.float]
+Center = '󰉧'
+Left = '󰉨'
+None = '󰉩'
+Right = '󰉪'
+[format.font.size]
+Decrease = '󰧳'
+Increase = '󰧴'
+
+[format.header]
+1 = '󰉫'
+2 = '󰉬'
+3 = '󰉭'
+4 = '󰉮'
+5 = '󰉯'
+6 = '󰉰'
+Decrease = '󰉱'
+Equal = '󰉲'
+Increase = '󰉳'
+Pound = '󰉴'
+[format.horizontal.align]
+Center = '󰘞'
+Left = '󰘟'
+Right = '󰘠'
+
+[format.indent]
+Decrease = '󰉵'
+Increase = '󰉶'
+
+[format.letter]
+Case = '󰬴'
+Matches = '󰾹'
+Spacing = '󱥖'
+
+[format.letter.case]
+Lower = '󰬵'
+Upper = '󰬶'
+
+[format.letter.ends]
+With = '󰾸'
+
+[format.letter.starts]
+With = '󰾺'
+
+[format.line]
+Spacing = '󰉸'
+Style = '󰗈'
+Weight = '󰗉'
+
+[format.list]
+Bulleted = '󰉹'
+Checkbox = '󰥪'
+Checks = '󰝖'
+Group = '󱡠'
+Numbered = '󰉻'
+Text = '󱉯'
+
+[format.list.bulleted]
+Square = '󰷐'
+Triangle = '󰺲'
+Type = '󰉺'
+
+[format.list.numbered]
+Rtl = '󰴍'
+
+[format.page]
+Break = '󰛗'
+Split = '󱤗'
+
+[format.quote]
+Close = '󰉾'
+Open = '󰝗'
+
+[format.quote.close]
+Outline = '󱆨'
+
+[format.quote.open]
+Outline = '󱆧'
+
+[format.rotate]
+90 = '󰚪'
+
+[format.strikethrough]
+Variant = '󰊁'
+
+[format.text]
+Variant = '󰸲'
+
+[format.text.rotation]
+Down = '󰵳'
+None = '󰵴'
+Up = '󰾾'
+Vertical = '󰾿'
+
+[format.text.rotation.angle]
+Down = '󰾻'
+Up = '󰾼'
+
+[format.text.rotation.down]
+Vertical = '󰾽'
+
+[format.text.variant]
+Outline = '󱔏'
+
+[format.text.wrapping]
+Clip = '󰴎'
+Overflow = '󰴏'
+Wrap = '󰴐'
+[format.textdirection.l.to]
+R = '󰊅'
+[format.textdirection.r.to]
+L = '󰊆'
+
+[format.underline]
+Wavy = '󱣩'
+[format.vertical.align]
+Bottom = '󰘡'
+Center = '󰘢'
+Top = '󰘣'
+
+[format.wrap]
+Inline = '󰊈'
+Square = '󰊉'
+Tight = '󰊊'
+
+[format.wrap.top]
+Bottom = '󰊋'
+
+[forum]
+Minus = '󱪩'
+Outline = '󰠢'
+Plus = '󱪫'
+Remove = '󱪭'
+
+[forum.minus]
+Outline = '󱪪'
+
+[forum.plus]
+Outline = '󱪬'
+
+[forum.remove]
+Outline = '󱪮'
+
+[fountain]
+Pen = '󰴒'
+
+[fountain.pen]
+Tip = '󰴓'
+[fraction.one]
+Half = '󱦒'
+
+[french]
+Fries = '󱥗'
+[frequently.asked]
+Questions = '󰺴'
+
+[fridge]
+Alert = '󱆱'
+Bottom = '󰊒'
+Industrial = '󱗮'
+Off = '󱆯'
+Outline = '󰊏'
+Top = '󰊑'
+Variant = '󱗴'
+
+[fridge.alert]
+Outline = '󱆲'
+
+[fridge.industrial]
+Alert = '󱗯'
+Off = '󱗱'
+Outline = '󱗳'
+
+[fridge.industrial.alert]
+Outline = '󱗰'
+
+[fridge.industrial.off]
+Outline = '󱗲'
+
+[fridge.off]
+Outline = '󱆰'
+
+[fridge.variant]
+Alert = '󱗵'
+Off = '󱗷'
+Outline = '󱗹'
+
+[fridge.variant.alert]
+Outline = '󱗶'
+
+[fridge.variant.off]
+Outline = '󱗸'
+
+[fruit]
+Cherries = '󱁂'
+Citrus = '󱁃'
+Grapes = '󱁄'
+Pear = '󱨎'
+Pineapple = '󱁆'
+Watermelon = '󱁇'
+
+[fruit.cherries]
+Off = '󱏸'
+
+[fruit.citrus]
+Off = '󱏹'
+
+[fruit.grapes]
+Outline = '󱁅'
+
+[fuel]
+Cell = '󱢵'
+
+[fullscreen]
+Exit = '󰊔'
+
+[function]
+Variant = '󰡱'
+
+[furigana]
+Horizontal = '󱂁'
+Vertical = '󱂂'
+
+[fuse]
+Alert = '󱐭'
+Blade = '󰲆'
+Off = '󱐬'
+
+[gamepad]
+Circle = '󰸳'
+Down = '󰸹'
+Left = '󰸺'
+Outline = '󱤙'
+Right = '󰸻'
+Round = '󰸼'
+Square = '󰺵'
+Up = '󰹂'
+Variant = '󰊗'
+
+[gamepad.circle]
+Down = '󰸴'
+Left = '󰸵'
+Outline = '󰸶'
+Right = '󰸷'
+Up = '󰸸'
+
+[gamepad.round]
+Down = '󰸽'
+Left = '󰸾'
+Outline = '󰸿'
+Right = '󰹀'
+Up = '󰹁'
+
+[gamepad.square]
+Outline = '󰺶'
+
+[gamepad.variant]
+Outline = '󰺷'
+
+[gantry]
+Crane = '󰷑'
+
+[garage]
+Alert = '󰡲'
+Lock = '󱟻'
+Open = '󰛚'
+Variant = '󱋓'
+
+[garage.alert]
+Variant = '󱋕'
+
+[garage.open]
+Variant = '󱋔'
+
+[garage.variant]
+Lock = '󱟼'
+
+[gas]
+Burner = '󱨛'
+Cylinder = '󰙇'
+Station = '󰊘'
+
+[gas.station]
+Off = '󱐉'
+Outline = '󰺸'
+
+[gas.station.off]
+Outline = '󱐊'
+
+[gate]
+Alert = '󱟸'
+And = '󰣡'
+Nand = '󰣢'
+Nor = '󰣣'
+Not = '󰣤'
+Open = '󱅪'
+Or = '󰣥'
+Xnor = '󰣦'
+Xor = '󰣧'
+
+[gate.arrow]
+Left = '󱟷'
+Right = '󱅩'
+
+[gauge]
+Empty = '󰡳'
+Full = '󰡴'
+Low = '󰡵'
+
+[gender]
+Female = '󰊜'
+Male = '󰊝'
+Transgender = '󰊟'
+
+[gender.male]
+Female = '󰊞'
+
+[gender.male.female]
+Variant = '󱄿'
+
+[gender.non]
+Binary = '󱅀'
+
+[gesture]
+Pinch = '󰪽'
+Spread = '󰪾'
+Swipe = '󰵶'
+Tap = '󰝁'
+
+[gesture.double]
+Tap = '󰜼'
+
+[gesture.swipe]
+Down = '󰜽'
+Horizontal = '󰪿'
+Left = '󰜾'
+Right = '󰜿'
+Up = '󰝀'
+Vertical = '󰫀'
+
+[gesture.tap]
+Box = '󱊩'
+Button = '󱊨'
+Hold = '󰵷'
+
+[gesture.two]
+Tap = '󰝃'
+
+[gesture.two.double]
+Tap = '󰝂'
+
+[ghost]
+Off = '󰧵'
+Outline = '󱙝'
+
+[ghost.off]
+Outline = '󱙜'
+
+[gift]
+Off = '󱛯'
+Open = '󱛱'
+Outline = '󰊡'
+
+[gift.off]
+Outline = '󱛰'
+
+[gift.open]
+Outline = '󱛲'
+
+[glass]
+Cocktail = '󰍖'
+Flute = '󰊥'
+Fragile = '󱡳'
+Mug = '󰊦'
+Stange = '󰊧'
+Tulip = '󰊨'
+Wine = '󰡶'
+
+[glass.cocktail]
+Off = '󱗦'
+
+[glass.mug]
+Off = '󱗧'
+Variant = '󱄖'
+
+[glass.mug.variant]
+Off = '󱗨'
+
+[glass.pint]
+Outline = '󱌍'
+
+[globe]
+Light = '󱋗'
+Model = '󰣩'
+
+[go]
+Kart = '󰵹'
+
+[go.kart]
+Track = '󰵺'
+
+[golf]
+Cart = '󱆤'
+Tee = '󱂃'
+
+[google]
+Ads = '󰲇'
+Analytics = '󰟌'
+Assistant = '󰟍'
+Cardboard = '󰊮'
+Chrome = '󰊯'
+Circles = '󰊰'
+Classroom = '󰋀'
+Cloud = '󱇶'
+Controller = '󰊴'
+Downasaur = '󱍢'
+Drive = '󰊶'
+Earth = '󰊷'
+Fit = '󰥬'
+Glass = '󰊸'
+Hangouts = '󰋉'
+Home = '󰠤'
+Keep = '󰛜'
+Lens = '󰧶'
+Maps = '󰗵'
+Nearby = '󰊹'
+Play = '󰊼'
+Plus = '󰊽'
+Podcast = '󰺹'
+Spreadsheet = '󰧷'
+Translate = '󰊿'
+
+[google.circles]
+Communities = '󰊱'
+Extended = '󰊲'
+Group = '󰊳'
+
+[google.controller]
+Off = '󰊵'
+
+[google.my]
+Business = '󱁈'
+
+[google.street]
+View = '󰲈'
+
+[gradient]
+Horizontal = '󱝊'
+Vertical = '󰚠'
+
+[graph]
+Outline = '󱁊'
+
+[grave]
+Stone = '󰮢'
+
+[grease]
+Pencil = '󰙈'
+
+[greater]
+Than = '󰥭'
+[greater.than.or]
+Equal = '󰥮'
+
+[grid]
+Large = '󰝘'
+Off = '󰋂'
+
+[grill]
+Outline = '󱆊'
+
+[guitar]
+Acoustic = '󰝱'
+Electric = '󰋄'
+Pick = '󰋅'
+
+[guitar.pick]
+Outline = '󰋆'
+[guy.fawkes]
+Mask = '󰠥'
+
+[hair]
+Dryer = '󱃯'
+
+[hair.dryer]
+Outline = '󱃰'
+
+[hamburger]
+Check = '󱝶'
+Minus = '󱝷'
+Off = '󱝸'
+Plus = '󱝹'
+Remove = '󱝺'
+
+[hammer]
+Screwdriver = '󱌢'
+Sickle = '󱢇'
+Wrench = '󱌣'
+
+[hand]
+Clap = '󱥋'
+Coin = '󱢏'
+Extended = '󱢶'
+Heart = '󱃱'
+Okay = '󰩐'
+Peace = '󰩑'
+Saw = '󰹈'
+Wash = '󱕿'
+Water = '󱎟'
+Wave = '󱠡'
+
+[hand.back]
+Left = '󰹆'
+Right = '󰹇'
+
+[hand.back.left]
+Off = '󱠰'
+Outline = '󱠬'
+
+[hand.back.left.off]
+Outline = '󱠲'
+
+[hand.back.right]
+Off = '󱠱'
+Outline = '󱠭'
+
+[hand.back.right.off]
+Outline = '󱠳'
+
+[hand.clap]
+Off = '󱩂'
+
+[hand.coin]
+Outline = '󱢐'
+
+[hand.extended]
+Outline = '󱢷'
+
+[hand.front]
+Left = '󱠫'
+Right = '󰩏'
+
+[hand.front.left]
+Outline = '󱠮'
+
+[hand.front.right]
+Outline = '󱠯'
+
+[hand.heart]
+Outline = '󱕾'
+
+[hand.peace]
+Variant = '󰩒'
+
+[hand.pointing]
+Down = '󰩓'
+Left = '󰩔'
+Right = '󰋇'
+Up = '󰩕'
+
+[hand.wash]
+Outline = '󱖀'
+
+[hand.wave]
+Outline = '󱠢'
+
+[hands]
+Pray = '󰕹'
+
+[handshake]
+Outline = '󱖡'
+
+[hard]
+Hat = '󰥯'
+
+[harddisk]
+Plus = '󱁋'
+Remove = '󱁌'
+
+[hat]
+Fedora = '󰮤'
+
+[hazard]
+Lights = '󰲉'
+
+[hdr]
+Off = '󰵾'
+
+[head]
+Alert = '󱌸'
+Check = '󱌺'
+Cog = '󱌼'
+Flash = '󱍀'
+Heart = '󱍂'
+Lightbulb = '󱍄'
+Minus = '󱍆'
+Outline = '󱍟'
+Plus = '󱍈'
+Question = '󱍊'
+Remove = '󱍌'
+Snowflake = '󱍎'
+Sync = '󱍐'
+
+[head.alert]
+Outline = '󱌹'
+
+[head.check]
+Outline = '󱌻'
+
+[head.cog]
+Outline = '󱌽'
+
+[head.dots]
+Horizontal = '󱌾'
+
+[head.dots.horizontal]
+Outline = '󱌿'
+
+[head.flash]
+Outline = '󱍁'
+
+[head.heart]
+Outline = '󱍃'
+
+[head.lightbulb]
+Outline = '󱍅'
+
+[head.minus]
+Outline = '󱍇'
+
+[head.plus]
+Outline = '󱍉'
+
+[head.question]
+Outline = '󱍋'
+
+[head.remove]
+Outline = '󱍍'
+
+[head.snowflake]
+Outline = '󱍏'
+
+[head.sync]
+Outline = '󱍑'
+
+[headphones]
+Bluetooth = '󰥰'
+Box = '󰋌'
+Off = '󰟎'
+Settings = '󰋍'
+
+[headset]
+Dock = '󰋏'
+Off = '󰋐'
+
+[heart]
+Box = '󰋒'
+Broken = '󰋔'
+Circle = '󰥱'
+Cog = '󱙣'
+Flash = '󰻹'
+Half = '󰛟'
+Minus = '󱐯'
+Multiple = '󰩖'
+Off = '󰝙'
+Outline = '󰋕'
+Plus = '󱐮'
+Pulse = '󰗶'
+Remove = '󱐰'
+Settings = '󱙥'
+
+[heart.box]
+Outline = '󰋓'
+
+[heart.broken]
+Outline = '󰴔'
+
+[heart.circle]
+Outline = '󰥲'
+
+[heart.cog]
+Outline = '󱙤'
+
+[heart.half]
+Full = '󰛞'
+Outline = '󰛠'
+
+[heart.minus]
+Outline = '󱐲'
+
+[heart.multiple]
+Outline = '󰩗'
+
+[heart.off]
+Outline = '󱐴'
+
+[heart.plus]
+Outline = '󱐱'
+
+[heart.remove]
+Outline = '󱐳'
+
+[heart.settings]
+Outline = '󱙦'
+
+[heat]
+Pump = '󱩃'
+Wave = '󱩅'
+
+[heat.pump]
+Outline = '󱩄'
+
+[heating]
+Coil = '󱪯'
+
+[help]
+Box = '󰞋'
+Circle = '󰋗'
+Network = '󰛵'
+Rhombus = '󰮥'
+
+[help.circle]
+Outline = '󰘥'
+
+[help.network]
+Outline = '󰲊'
+
+[help.rhombus]
+Outline = '󰮦'
+
+[hexagon]
+Multiple = '󰛡'
+Outline = '󰋙'
+
+[hexagon.multiple]
+Outline = '󱃲'
+
+[hexagon.slice]
+1 = '󰫃'
+2 = '󰫄'
+3 = '󰫅'
+4 = '󰫆'
+5 = '󰫇'
+6 = '󰫈'
+
+[hexagram]
+Outline = '󰫊'
+
+[high]
+Definition = '󰟏'
+
+[high.definition]
+Box = '󰡸'
+
+[hockey]
+Puck = '󰡹'
+Sticks = '󰡺'
+
+[home]
+Account = '󰠦'
+Alert = '󰡻'
+Analytics = '󰺺'
+Assistant = '󰟐'
+Automation = '󰟑'
+Battery = '󱤁'
+Circle = '󰟒'
+City = '󰴕'
+Clock = '󱨒'
+Edit = '󱅙'
+Flood = '󰻺'
+Group = '󰷔'
+Heart = '󰠧'
+Lightbulb = '󱉑'
+Lock = '󰣫'
+Minus = '󰥴'
+Modern = '󰋝'
+Off = '󱩆'
+Outline = '󰚡'
+Plus = '󰥵'
+Remove = '󱉇'
+Roof = '󱄫'
+Search = '󱎰'
+Switch = '󱞔'
+Thermometer = '󰽔'
+Variant = '󰋞'
+
+[home.alert]
+Outline = '󱗐'
+
+[home.battery]
+Outline = '󱤂'
+
+[home.circle]
+Outline = '󱁍'
+
+[home.city]
+Outline = '󰴖'
+
+[home.clock]
+Outline = '󱨓'
+
+[home.edit]
+Outline = '󱅚'
+
+[home.export]
+Outline = '󰾛'
+
+[home.floor]
+0 = '󰷒'
+1 = '󰶀'
+2 = '󰶁'
+3 = '󰶂'
+A = '󰶃'
+B = '󰶄'
+G = '󰶅'
+L = '󰶆'
+
+[home.floor.negative]
+1 = '󰷓'
+
+[home.group]
+Minus = '󱧁'
+Plus = '󱧀'
+Remove = '󱧂'
+
+[home.import]
+Outline = '󰾜'
+
+[home.lightbulb]
+Outline = '󱉒'
+
+[home.lightning]
+Bolt = '󱤃'
+
+[home.lightning.bolt]
+Outline = '󱤄'
+
+[home.lock]
+Open = '󰣬'
+
+[home.map]
+Marker = '󰗸'
+
+[home.minus]
+Outline = '󱏕'
+
+[home.off]
+Outline = '󱩇'
+
+[home.plus]
+Outline = '󱏖'
+
+[home.remove]
+Outline = '󱏗'
+
+[home.search]
+Outline = '󱎱'
+
+[home.switch]
+Outline = '󱞕'
+
+[home.thermometer]
+Outline = '󰽕'
+
+[home.variant]
+Outline = '󰮧'
+
+[hook]
+Off = '󰛣'
+
+[hoop]
+House = '󰹖'
+[horizontal.rotate]
+Clockwise = '󱃳'
+Counterclockwise = '󱃴'
+
+[horse]
+Human = '󱗀'
+Variant = '󱗁'
+
+[horse.variant]
+Fast = '󱡮'
+
+[hospital]
+Box = '󰋠'
+Building = '󰋡'
+Marker = '󰋢'
+
+[hospital.box]
+Outline = '󰿷'
+
+[hot]
+Tub = '󰠨'
+
+[hours]
+24 = '󱑸'
+
+[human]
+Cane = '󱖁'
+Child = '󰋧'
+Dolly = '󱦀'
+Edit = '󱓨'
+Female = '󰙉'
+Greeting = '󱟄'
+Handsdown = '󰙋'
+Handsup = '󰙌'
+Male = '󰙍'
+Pregnant = '󰗏'
+Queue = '󱕱'
+Scooter = '󱇩'
+Wheelchair = '󱎍'
+[human.baby.changing]
+Table = '󱎋'
+
+[human.capacity]
+Decrease = '󱖛'
+Increase = '󱖜'
+
+[human.female]
+Boy = '󰩙'
+Dance = '󱗉'
+Female = '󰩚'
+Girl = '󰩛'
+
+[human.greeting]
+Proximity = '󱖝'
+Variant = '󰙊'
+
+[human.male]
+Board = '󰢐'
+Boy = '󰩜'
+Child = '󱎌'
+Female = '󰋨'
+Girl = '󰩝'
+Height = '󰻻'
+Male = '󰩞'
+
+[human.male.board]
+Poll = '󰡆'
+
+[human.male.female]
+Child = '󱠣'
+
+[human.male.height]
+Variant = '󰻼'
+
+[human.non]
+Binary = '󱡈'
+
+[human.white]
+Cane = '󱦁'
+
+[humble]
+Bundle = '󰝄'
+
+[hvac]
+Off = '󱖞'
+[hydraulic.oil]
+Level = '󱌤'
+Temperature = '󱌥'
+
+[hydro]
+Power = '󱋥'
+
+[hydrogen]
+Station = '󱢔'
+
+[ice]
+Cream = '󰠪'
+Pop = '󰻽'
+
+[ice.cream]
+Off = '󰹒'
+
+[id]
+Card = '󰿀'
+
+[ideogram]
+Cjk = '󱌱'
+
+[ideogram.cjk]
+Variant = '󱌲'
+
+[image]
+Album = '󰋪'
+Area = '󰋫'
+Broken = '󰋭'
+Edit = '󱇣'
+Frame = '󰹉'
+Lock = '󱪰'
+Marker = '󱝻'
+Minus = '󱐙'
+Move = '󰧸'
+Multiple = '󰋹'
+Off = '󰠫'
+Outline = '󰥶'
+Plus = '󰡼'
+Refresh = '󱧾'
+Remove = '󱐘'
+Search = '󰥷'
+Sync = '󱨀'
+Text = '󱘍'
+
+[image.area]
+Close = '󰋬'
+
+[image.auto]
+Adjust = '󰿁'
+
+[image.broken]
+Variant = '󰋮'
+
+[image.edit]
+Outline = '󱇤'
+
+[image.filter]
+Drama = '󰋳'
+Frames = '󰋴'
+Hdr = '󰋵'
+None = '󰋶'
+Vintage = '󰋸'
+
+[image.filter.black]
+White = '󰋰'
+
+[image.filter.center]
+Focus = '󰋱'
+
+[image.filter.center.focus]
+Strong = '󰻿'
+Weak = '󰋲'
+
+[image.filter.center.focus.strong]
+Outline = '󰼀'
+
+[image.filter.tilt]
+Shift = '󰋷'
+
+[image.lock]
+Outline = '󱪱'
+
+[image.marker]
+Outline = '󱝼'
+
+[image.multiple]
+Outline = '󰋯'
+
+[image.off]
+Outline = '󱇑'
+
+[image.refresh]
+Outline = '󱧿'
+
+[image.search]
+Outline = '󰥸'
+[image.size.select]
+Actual = '󰲍'
+Large = '󰲎'
+Small = '󰲏'
+
+[image.sync]
+Outline = '󱨁'
+
+[inbox]
+Full = '󱉲'
+Multiple = '󰢰'
+Outline = '󱉴'
+Remove = '󱖟'
+
+[inbox.arrow]
+Down = '󰋻'
+Up = '󰏑'
+
+[inbox.arrow.down]
+Outline = '󱉰'
+
+[inbox.arrow.up]
+Outline = '󱉱'
+
+[inbox.full]
+Outline = '󱉳'
+
+[inbox.multiple]
+Outline = '󰮨'
+
+[inbox.remove]
+Outline = '󱖠'
+
+[incognito]
+Circle = '󱐡'
+Off = '󰁵'
+
+[incognito.circle]
+Off = '󱐢'
+
+[information]
+Off = '󱞌'
+Outline = '󰋽'
+Variant = '󰙎'
+
+[information.off]
+Outline = '󱞍'
+
+[instrument]
+Triangle = '󱁎'
+[integrated.circuit]
+Chip = '󱤓'
+
+[invert]
+Colors = '󰌁'
+
+[invert.colors]
+Off = '󰹊'
+
+[ip]
+Network = '󰩠'
+Outline = '󱦂'
+
+[ip.network]
+Outline = '󰲐'
+
+[iron]
+Board = '󱠸'
+Outline = '󱠥'
+
+[iv]
+Bag = '󱂹'
+
+[jellyfish]
+Outline = '󰼂'
+
+[jump]
+Rope = '󱋿'
+
+[kettle]
+Alert = '󱌗'
+Off = '󱌛'
+Outline = '󰽖'
+Steam = '󱌙'
+
+[kettle.alert]
+Outline = '󱌘'
+
+[kettle.off]
+Outline = '󱌜'
+
+[kettle.pour]
+Over = '󱜼'
+
+[kettle.steam]
+Outline = '󱌚'
+
+[key]
+Alert = '󱦃'
+Chain = '󱕴'
+Change = '󰌇'
+Link = '󱆟'
+Minus = '󰌈'
+Outline = '󰷖'
+Plus = '󰌉'
+Remove = '󰌊'
+Star = '󱆞'
+Variant = '󰌋'
+Wireless = '󰿂'
+
+[key.alert]
+Outline = '󱦄'
+
+[key.arrow]
+Right = '󱌒'
+
+[key.chain]
+Variant = '󱕵'
+
+[keyboard]
+Backspace = '󰌍'
+Caps = '󰌎'
+Close = '󰌏'
+Esc = '󱊷'
+F1 = '󱊫'
+F10 = '󱊴'
+F11 = '󱊵'
+F12 = '󱊶'
+F2 = '󱊬'
+F3 = '󱊭'
+F4 = '󱊮'
+F5 = '󱊯'
+F6 = '󱊰'
+F7 = '󱊱'
+F8 = '󱊲'
+F9 = '󱊳'
+Off = '󰌐'
+Outline = '󰥻'
+Return = '󰌑'
+Settings = '󰧹'
+Space = '󱁐'
+Tab = '󰌒'
+Variant = '󰌓'
+
+[keyboard.off]
+Outline = '󰹋'
+
+[keyboard.settings]
+Outline = '󰧺'
+
+[keyboard.tab]
+Reverse = '󰌥'
+
+[kite]
+Outline = '󱦆'
+
+[knife]
+Military = '󰧼'
+
+[label]
+Multiple = '󱍵'
+Off = '󰫋'
+Outline = '󰌖'
+Percent = '󱋪'
+Variant = '󰫍'
+
+[label.multiple]
+Outline = '󱍶'
+
+[label.off]
+Outline = '󰫌'
+
+[label.percent]
+Outline = '󱋫'
+
+[label.variant]
+Outline = '󰫎'
+
+[lamp]
+Outline = '󱟐'
+
+[lamps]
+Outline = '󱟑'
+
+[lan]
+Check = '󱊪'
+Connect = '󰌘'
+Disconnect = '󰌙'
+Pending = '󰌚'
+
+[land]
+Fields = '󱪲'
+Plots = '󱪳'
+
+[land.plots]
+Circle = '󱪴'
+
+[land.plots.circle]
+Variant = '󱪵'
+
+[land.rows]
+Horizontal = '󱪶'
+Vertical = '󱪷'
+
+[landslide]
+Outline = '󱩉'
+
+[language]
+C = '󰙱'
+Cpp = '󰙲'
+Csharp = '󰌛'
+Css3 = '󰌜'
+Fortran = '󱈚'
+Go = '󰟓'
+Haskell = '󰲒'
+Html5 = '󰌝'
+Java = '󰬷'
+Javascript = '󰌞'
+Kotlin = '󱈙'
+Lua = '󰢱'
+Markdown = '󰍔'
+Php = '󰌟'
+Python = '󰌠'
+R = '󰟔'
+Ruby = '󰴭'
+Rust = '󱘗'
+Swift = '󰛥'
+Typescript = '󰛦'
+Xaml = '󰙳'
+
+[language.markdown]
+Outline = '󰽛'
+[language.ruby.on]
+Rails = '󰫏'
+
+[laptop]
+Account = '󱩊'
+Off = '󰛧'
+
+[laser]
+Pointer = '󱒄'
+
+[lava]
+Lamp = '󰟕'
+
+[layers]
+Edit = '󱢒'
+Minus = '󰹌'
+Off = '󰌩'
+Outline = '󰧾'
+Plus = '󰹍'
+Remove = '󰹎'
+Search = '󱈆'
+Triple = '󰽘'
+
+[layers.off]
+Outline = '󰧽'
+
+[layers.search]
+Outline = '󱈇'
+
+[layers.triple]
+Outline = '󰽙'
+
+[lead]
+Pencil = '󰙏'
+
+[leaf]
+Circle = '󱤅'
+Maple = '󰲓'
+Off = '󱋙'
+
+[leaf.circle]
+Outline = '󱤆'
+
+[leaf.maple]
+Off = '󱋚'
+
+[leak]
+Off = '󰷘'
+
+[led]
+Off = '󰌫'
+On = '󰌬'
+Outline = '󰌭'
+Strip = '󰟖'
+
+[led.strip]
+Variant = '󱁑'
+
+[led.strip.variant]
+Off = '󱩋'
+
+[led.variant]
+Off = '󰌮'
+On = '󰌯'
+Outline = '󰌰'
+
+[less]
+Than = '󰥼'
+[less.than.or]
+Equal = '󰥽'
+
+[library]
+Outline = '󱨢'
+Shelves = '󰮩'
+
+[light]
+Recessed = '󱞛'
+Switch = '󰥾'
+
+[light.flood]
+Down = '󱦇'
+Up = '󱦈'
+
+[light.switch]
+Off = '󱨤'
+
+[lightbulb]
+Alert = '󱧡'
+Auto = '󱠀'
+Cfl = '󱈈'
+Group = '󱉓'
+Multiple = '󱉕'
+Night = '󱩌'
+Off = '󰹏'
+On = '󰛨'
+Outline = '󰌶'
+Question = '󱧣'
+Spot = '󱟴'
+Variant = '󱠂'
+
+[lightbulb.alert]
+Outline = '󱧢'
+
+[lightbulb.auto]
+Outline = '󱠁'
+
+[lightbulb.cfl]
+Off = '󱈉'
+Spiral = '󱉵'
+
+[lightbulb.cfl.spiral]
+Off = '󱋃'
+
+[lightbulb.fluorescent]
+Tube = '󱠄'
+
+[lightbulb.fluorescent.tube]
+Outline = '󱠅'
+
+[lightbulb.group]
+Off = '󱋍'
+Outline = '󱉔'
+
+[lightbulb.group.off]
+Outline = '󱋎'
+
+[lightbulb.multiple]
+Off = '󱋏'
+Outline = '󱉖'
+
+[lightbulb.multiple.off]
+Outline = '󱋐'
+
+[lightbulb.night]
+Outline = '󱩍'
+
+[lightbulb.off]
+Outline = '󰹐'
+
+[lightbulb.on]
+10 = '󱩎'
+20 = '󱩏'
+30 = '󱩐'
+40 = '󱩑'
+50 = '󱩒'
+60 = '󱩓'
+70 = '󱩔'
+80 = '󱩕'
+90 = '󱩖'
+Outline = '󰛩'
+
+[lightbulb.question]
+Outline = '󱧤'
+
+[lightbulb.spot]
+Off = '󱟵'
+
+[lightbulb.variant]
+Outline = '󱠃'
+
+[lighthouse]
+On = '󰨀'
+
+[lightning]
+Bolt = '󱐋'
+
+[lightning.bolt]
+Circle = '󰠠'
+Outline = '󱐌'
+
+[line]
+Scan = '󰘤'
+
+[link]
+Box = '󰴚'
+Lock = '󱂺'
+Off = '󰌸'
+Plus = '󰲔'
+Variant = '󰌹'
+
+[link.box]
+Outline = '󰴛'
+Variant = '󰴜'
+
+[link.box.variant]
+Outline = '󰴝'
+
+[link.variant]
+Minus = '󱃿'
+Off = '󰌺'
+Plus = '󱄀'
+Remove = '󱄁'
+
+[linux]
+Mint = '󰣭'
+
+[liquid]
+Spot = '󱠦'
+
+[list]
+Status = '󱖫'
+
+[location]
+Enter = '󰿄'
+Exit = '󰿅'
+
+[lock]
+Alert = '󰣮'
+Check = '󱎚'
+Clock = '󰥿'
+Minus = '󱚩'
+Off = '󱙱'
+Open = '󰌿'
+Outline = '󰍁'
+Pattern = '󰛪'
+Plus = '󰗻'
+Question = '󰣯'
+Remove = '󱚳'
+Reset = '󰝳'
+Smart = '󰢲'
+
+[lock.alert]
+Outline = '󱗑'
+
+[lock.check]
+Outline = '󱚨'
+
+[lock.minus]
+Outline = '󱚪'
+
+[lock.off]
+Outline = '󱙲'
+
+[lock.open]
+Alert = '󱎛'
+Check = '󱎜'
+Minus = '󱚬'
+Outline = '󰍀'
+Plus = '󱚮'
+Remove = '󱚰'
+Variant = '󰿆'
+
+[lock.open.alert]
+Outline = '󱗒'
+
+[lock.open.check]
+Outline = '󱚫'
+
+[lock.open.minus]
+Outline = '󱚭'
+
+[lock.open.plus]
+Outline = '󱚯'
+
+[lock.open.remove]
+Outline = '󱚱'
+
+[lock.open.variant]
+Outline = '󰿇'
+
+[lock.plus]
+Outline = '󱚲'
+
+[lock.remove]
+Outline = '󱚴'
+
+[locker]
+Multiple = '󰟘'
+
+[logout]
+Variant = '󰗽'
+
+[lotion]
+Outline = '󱖃'
+Plus = '󱖄'
+
+[lotion.plus]
+Outline = '󱖅'
+
+[magazine]
+Pistol = '󰌤'
+Rifle = '󰌣'
+
+[magic]
+Staff = '󱡄'
+
+[magnet]
+On = '󰍈'
+
+[magnify]
+Close = '󰦀'
+Expand = '󱡴'
+Minus = '󰍊'
+Plus = '󰍋'
+Scan = '󱉶'
+
+[magnify.minus]
+Cursor = '󰩢'
+Outline = '󰛬'
+
+[magnify.plus]
+Cursor = '󰩣'
+Outline = '󰛭'
+
+[magnify.remove]
+Cursor = '󱈌'
+Outline = '󱈍'
+
+[mailbox]
+Open = '󰶈'
+Outline = '󰶌'
+Up = '󰶍'
+
+[mailbox.open]
+Outline = '󰶉'
+Up = '󰶊'
+
+[mailbox.open.up]
+Outline = '󰶋'
+
+[mailbox.up]
+Outline = '󰶎'
+
+[map]
+Check = '󰺼'
+Clock = '󰴞'
+Legend = '󰨁'
+Marker = '󰍎'
+Minus = '󰦁'
+Outline = '󰦂'
+Plus = '󰦃'
+Search = '󰦄'
+
+[map.check]
+Outline = '󰺽'
+
+[map.clock]
+Outline = '󰴟'
+
+[map.marker]
+Account = '󱣣'
+Alert = '󰼅'
+Check = '󰲕'
+Circle = '󰍏'
+Distance = '󰣰'
+Down = '󱄂'
+Left = '󱋛'
+Minus = '󰙐'
+Multiple = '󰍐'
+Off = '󰍑'
+Outline = '󰟙'
+Path = '󰴠'
+Plus = '󰙑'
+Question = '󰼇'
+Radius = '󰍒'
+Remove = '󰼉'
+Right = '󱋜'
+Star = '󱘈'
+Up = '󱄃'
+
+[map.marker.account]
+Outline = '󱣤'
+
+[map.marker.alert]
+Outline = '󰼆'
+
+[map.marker.check]
+Outline = '󱋻'
+
+[map.marker.left]
+Outline = '󱋝'
+
+[map.marker.minus]
+Outline = '󱋹'
+
+[map.marker.multiple]
+Outline = '󱉷'
+
+[map.marker.off]
+Outline = '󱋽'
+
+[map.marker.plus]
+Outline = '󱋸'
+
+[map.marker.question]
+Outline = '󰼈'
+
+[map.marker.radius]
+Outline = '󱋼'
+
+[map.marker.remove]
+Outline = '󱋺'
+Variant = '󰼊'
+
+[map.marker.right]
+Outline = '󱋞'
+
+[map.marker.star]
+Outline = '󱘉'
+
+[map.search]
+Outline = '󰦅'
+
+[marker]
+Cancel = '󰷙'
+Check = '󰍕'
+
+[material]
+Design = '󰦆'
+Ui = '󰍗'
+
+[math]
+Compass = '󰍘'
+Cos = '󰲖'
+Integral = '󰿈'
+Log = '󱂅'
+Norm = '󰿊'
+Sin = '󰲗'
+Tan = '󰲘'
+
+[math.integral]
+Box = '󰿉'
+
+[math.norm]
+Box = '󰿋'
+
+[medal]
+Outline = '󱌦'
+
+[medical]
+Bag = '󰛯'
+
+[medical.cotton]
+Swab = '󱪸'
+
+[menorah]
+Fire = '󱟕'
+
+[menu]
+Down = '󰍝'
+Left = '󰍞'
+Open = '󰮫'
+Right = '󰍟'
+Swap = '󰩤'
+Up = '󰍠'
+
+[menu.down]
+Outline = '󰚶'
+
+[menu.left]
+Outline = '󰨂'
+
+[menu.right]
+Outline = '󰨃'
+
+[menu.swap]
+Outline = '󰩥'
+
+[menu.up]
+Outline = '󰚷'
+
+[message]
+Alert = '󰍢'
+Badge = '󱥁'
+Bookmark = '󱖬'
+Bulleted = '󰚢'
+Cog = '󰛱'
+Draw = '󰍣'
+Fast = '󱧌'
+Flash = '󱖩'
+Image = '󰍤'
+Lock = '󰿌'
+Minus = '󱅮'
+Off = '󱙍'
+Outline = '󰍥'
+Plus = '󰙓'
+Processing = '󰍦'
+Question = '󱜺'
+Reply = '󰍧'
+Settings = '󰛰'
+Star = '󰚚'
+Text = '󰍩'
+Video = '󰍫'
+
+[message.alert]
+Outline = '󰨄'
+
+[message.arrow]
+Left = '󱋲'
+Right = '󱋴'
+
+[message.arrow.left]
+Outline = '󱋳'
+
+[message.arrow.right]
+Outline = '󱋵'
+
+[message.badge]
+Outline = '󱥂'
+
+[message.bookmark]
+Outline = '󱖭'
+
+[message.bulleted]
+Off = '󰚣'
+
+[message.cog]
+Outline = '󱅲'
+
+[message.fast]
+Outline = '󱧍'
+
+[message.flash]
+Outline = '󱖪'
+
+[message.image]
+Outline = '󱅬'
+
+[message.lock]
+Outline = '󱅭'
+
+[message.minus]
+Outline = '󱅯'
+
+[message.off]
+Outline = '󱙎'
+
+[message.plus]
+Outline = '󱂻'
+
+[message.processing]
+Outline = '󱅰'
+
+[message.question]
+Outline = '󱜻'
+
+[message.reply]
+Outline = '󱜽'
+Text = '󰍨'
+
+[message.reply.text]
+Outline = '󱜾'
+
+[message.settings]
+Outline = '󱅱'
+
+[message.star]
+Outline = '󱉐'
+
+[message.text]
+Clock = '󱅳'
+Fast = '󱧎'
+Lock = '󰿍'
+Outline = '󰍪'
+
+[message.text.clock]
+Outline = '󱅴'
+
+[message.text.fast]
+Outline = '󱧏'
+
+[message.text.lock]
+Outline = '󱅵'
+
+[meter]
+Electric = '󱩗'
+Gas = '󱩙'
+
+[meter.electric]
+Outline = '󱩘'
+
+[meter.gas]
+Outline = '󱩚'
+
+[metronome]
+Tick = '󰟛'
+
+[micro]
+Sd = '󰟜'
+
+[microphone]
+Minus = '󰢳'
+Off = '󰍭'
+Outline = '󰍮'
+Plus = '󰢴'
+Question = '󱦉'
+Settings = '󰍯'
+Variant = '󰍰'
+
+[microphone.question]
+Outline = '󱦊'
+
+[microphone.variant]
+Off = '󰍱'
+
+[microsoft]
+Access = '󱎎'
+Azure = '󰠅'
+Bing = '󰂤'
+Edge = '󰇩'
+Excel = '󱎏'
+Office = '󰏆'
+Onedrive = '󰏊'
+Onenote = '󰝇'
+Outlook = '󰴢'
+Powerpoint = '󱎐'
+Sharepoint = '󱎑'
+Teams = '󰊻'
+Windows = '󰖳'
+Word = '󱎒'
+Xbox = '󰖹'
+
+[microsoft.azure]
+Devops = '󰿕'
+
+[microsoft.dynamics]
+365 = '󰦈'
+
+[microsoft.internet]
+Explorer = '󰌀'
+
+[microsoft.visual]
+Studio = '󰘐'
+
+[microsoft.visual.studio]
+Code = '󰨞'
+
+[microsoft.windows]
+Classic = '󰨡'
+
+[microsoft.xbox]
+Controller = '󰖺'
+
+[microsoft.xbox.controller]
+Menu = '󰹯'
+Off = '󰖻'
+View = '󰹰'
+
+[microsoft.xbox.controller.battery]
+Alert = '󰝋'
+Charging = '󰨢'
+Empty = '󰝌'
+Full = '󰝍'
+Low = '󰝎'
+Medium = '󰝏'
+Unknown = '󰝐'
+
+[microwave]
+Off = '󱐣'
+
+[middleware]
+Outline = '󰽞'
+
+[midi]
+Port = '󰣲'
+
+[mini]
+Sd = '󰨅'
+
+[minus]
+Box = '󰍵'
+Circle = '󰍶'
+Network = '󰍸'
+Thick = '󱘹'
+
+[minus.box]
+Multiple = '󱅁'
+Outline = '󰛲'
+
+[minus.box.multiple]
+Outline = '󱅂'
+
+[minus.circle]
+Multiple = '󰍚'
+Off = '󱑙'
+Outline = '󰍷'
+
+[minus.circle.multiple]
+Outline = '󰫓'
+
+[minus.circle.off]
+Outline = '󱑚'
+
+[minus.network]
+Outline = '󰲚'
+
+[mirror]
+Rectangle = '󱞟'
+Variant = '󱞠'
+
+[mixed]
+Reality = '󰡿'
+
+[mixed.martial]
+Arts = '󰶏'
+
+[molecule]
+Co = '󱋾'
+Co2 = '󰟤'
+
+[monitor]
+Account = '󱩛'
+Cellphone = '󰦉'
+Dashboard = '󰨇'
+Edit = '󱋆'
+Eye = '󱎴'
+Lock = '󰷛'
+Multiple = '󰍺'
+Off = '󰶐'
+Screenshot = '󰹑'
+Share = '󱒃'
+Shimmer = '󱄄'
+Small = '󱡶'
+Speaker = '󰽟'
+Star = '󰷜'
+
+[monitor.arrow]
+Down = '󱧐'
+
+[monitor.arrow.down]
+Variant = '󱧑'
+
+[monitor.cellphone]
+Star = '󰦊'
+
+[monitor.speaker]
+Off = '󰽠'
+
+[moon]
+Full = '󰽢'
+New = '󰽤'
+
+[moon.first]
+Quarter = '󰽡'
+
+[moon.last]
+Quarter = '󰽣'
+
+[moon.waning]
+Crescent = '󰽥'
+Gibbous = '󰽦'
+
+[moon.waxing]
+Crescent = '󰽧'
+Gibbous = '󰽨'
+
+[moped]
+Electric = '󱖷'
+Outline = '󱖹'
+
+[moped.electric]
+Outline = '󱖸'
+
+[mortar]
+Pestle = '󱝈'
+
+[mortar.pestle]
+Plus = '󰏱'
+
+[mother]
+Heart = '󱌔'
+Nurse = '󰴡'
+
+[motion]
+Outline = '󱖳'
+Pause = '󱖐'
+Play = '󱖏'
+Sensor = '󰶑'
+
+[motion.pause]
+Outline = '󱖒'
+
+[motion.play]
+Outline = '󱖑'
+
+[motion.sensor]
+Off = '󱐵'
+
+[motorbike]
+Electric = '󱖺'
+
+[mouse]
+Bluetooth = '󰦋'
+Off = '󰍾'
+Variant = '󰍿'
+
+[mouse.move]
+Down = '󱕐'
+Up = '󱕑'
+Vertical = '󱕒'
+
+[mouse.variant]
+Off = '󰎀'
+
+[move]
+Resize = '󰙕'
+
+[move.resize]
+Variant = '󰙖'
+
+[movie]
+Check = '󱛳'
+Cog = '󱛵'
+Edit = '󱄢'
+Filter = '󱄤'
+Minus = '󱛷'
+Off = '󱛹'
+Open = '󰿎'
+Outline = '󰷝'
+Play = '󱜏'
+Plus = '󱜑'
+Remove = '󱜓'
+Roll = '󰟞'
+Search = '󱇒'
+Settings = '󱜕'
+Star = '󱜗'
+
+[movie.check]
+Outline = '󱛴'
+
+[movie.cog]
+Outline = '󱛶'
+
+[movie.edit]
+Outline = '󱄣'
+
+[movie.filter]
+Outline = '󱄥'
+
+[movie.minus]
+Outline = '󱛸'
+
+[movie.off]
+Outline = '󱛺'
+
+[movie.open]
+Check = '󱛻'
+Cog = '󱛽'
+Edit = '󱛿'
+Minus = '󱜁'
+Off = '󱜃'
+Outline = '󰿏'
+Play = '󱜅'
+Plus = '󱜇'
+Remove = '󱜉'
+Settings = '󱜋'
+Star = '󱜍'
+
+[movie.open.check]
+Outline = '󱛼'
+
+[movie.open.cog]
+Outline = '󱛾'
+
+[movie.open.edit]
+Outline = '󱜀'
+
+[movie.open.minus]
+Outline = '󱜂'
+
+[movie.open.off]
+Outline = '󱜄'
+
+[movie.open.play]
+Outline = '󱜆'
+
+[movie.open.plus]
+Outline = '󱜈'
+
+[movie.open.remove]
+Outline = '󱜊'
+
+[movie.open.settings]
+Outline = '󱜌'
+
+[movie.open.star]
+Outline = '󱜎'
+
+[movie.play]
+Outline = '󱜐'
+
+[movie.plus]
+Outline = '󱜒'
+
+[movie.remove]
+Outline = '󱜔'
+
+[movie.search]
+Outline = '󱇓'
+
+[movie.settings]
+Outline = '󱜖'
+
+[movie.star]
+Outline = '󱜘'
+
+[mower]
+Bag = '󱙰'
+
+[multiplication]
+Box = '󰎃'
+
+[mushroom]
+Off = '󱏺'
+Outline = '󰟠'
+
+[mushroom.off]
+Outline = '󱏻'
+
+[music]
+Box = '󰎄'
+Circle = '󰎆'
+Note = '󰎇'
+Off = '󰝛'
+
+[music.accidental]
+Flat = '󰽫'
+Natural = '󰽬'
+Sharp = '󰽭'
+
+[music.accidental.double]
+Flat = '󰽩'
+Sharp = '󰽪'
+
+[music.box]
+Multiple = '󰌳'
+Outline = '󰎅'
+
+[music.box.multiple]
+Outline = '󰼄'
+
+[music.circle]
+Outline = '󰫔'
+
+[music.clef]
+Alto = '󰽮'
+Bass = '󰽯'
+Treble = '󰽰'
+
+[music.note]
+Bluetooth = '󰗾'
+Half = '󰎉'
+Off = '󰎊'
+Outline = '󰽴'
+Plus = '󰷞'
+Quarter = '󰎋'
+Sixteenth = '󰎌'
+Whole = '󰎍'
+
+[music.note.bluetooth]
+Off = '󰗿'
+
+[music.note.eighth]
+Dotted = '󰽱'
+
+[music.note.half]
+Dotted = '󰽲'
+
+[music.note.off]
+Outline = '󰽳'
+
+[music.note.quarter]
+Dotted = '󰽵'
+
+[music.note.sixteenth]
+Dotted = '󰽶'
+
+[music.note.whole]
+Dotted = '󰽷'
+
+[music.rest]
+Eighth = '󰽸'
+Half = '󰽹'
+Quarter = '󰽺'
+Sixteenth = '󰽻'
+Whole = '󰽼'
+
+[nature]
+People = '󰎏'
+
+[navigation]
+Outline = '󱘇'
+
+[navigation.variant]
+Outline = '󱣱'
+
+[near]
+Me = '󰗍'
+
+[needle]
+Off = '󱧒'
+
+[network]
+Off = '󰲛'
+Outline = '󰲝'
+Pos = '󱫋'
+
+[network.off]
+Outline = '󰲜'
+
+[network.strength]
+Off = '󰣼'
+Outline = '󰣾'
+
+[network.strength.1]
+Alert = '󰣵'
+
+[network.strength.2]
+Alert = '󰣷'
+
+[network.strength.3]
+Alert = '󰣹'
+
+[network.strength.4]
+Alert = '󰣻'
+Cog = '󱤚'
+
+[network.strength.off]
+Outline = '󰣽'
+
+[new]
+Box = '󰎔'
+
+[newspaper]
+Check = '󱥃'
+Minus = '󰼌'
+Plus = '󰼍'
+Remove = '󱥄'
+Variant = '󱀁'
+
+[newspaper.variant]
+Multiple = '󱀂'
+Outline = '󱀄'
+
+[newspaper.variant.multiple]
+Outline = '󱀃'
+
+[nfc]
+Tap = '󰎗'
+Variant = '󰎘'
+
+[nfc.search]
+Variant = '󰹓'
+
+[nfc.variant]
+Off = '󰹔'
+
+[nintendo]
+Switch = '󰟡'
+Wii = '󰖫'
+Wiiu = '󰜭'
+
+[nintendo.game]
+Boy = '󱎓'
+
+[not]
+Equal = '󰦍'
+
+[not.equal]
+Variant = '󰦎'
+
+[note]
+Alert = '󱝽'
+Check = '󱝿'
+Edit = '󱞁'
+Minus = '󱙏'
+Multiple = '󰚸'
+Off = '󱞃'
+Outline = '󰎛'
+Plus = '󰎜'
+Remove = '󱙑'
+Search = '󱙓'
+Text = '󰎞'
+
+[note.alert]
+Outline = '󱝾'
+
+[note.check]
+Outline = '󱞀'
+
+[note.edit]
+Outline = '󱞂'
+
+[note.minus]
+Outline = '󱙐'
+
+[note.multiple]
+Outline = '󰚹'
+
+[note.off]
+Outline = '󱞄'
+
+[note.plus]
+Outline = '󰎝'
+
+[note.remove]
+Outline = '󱙒'
+
+[note.search]
+Outline = '󱙔'
+
+[note.text]
+Outline = '󱇗'
+
+[notebook]
+Check = '󱓵'
+Edit = '󱓧'
+Heart = '󱨋'
+Minus = '󱘐'
+Multiple = '󰹕'
+Outline = '󰺿'
+Plus = '󱘒'
+Remove = '󱘔'
+
+[notebook.check]
+Outline = '󱓶'
+
+[notebook.edit]
+Outline = '󱓩'
+
+[notebook.heart]
+Outline = '󱨌'
+
+[notebook.minus]
+Outline = '󱘑'
+
+[notebook.plus]
+Outline = '󱘓'
+
+[notebook.remove]
+Outline = '󱘕'
+[notification.clear]
+All = '󰎟'
+
+[numeric]
+Off = '󱧓'
+
+[numeric.0]
+Box = '󰎡'
+
+[numeric.0.box]
+Multiple = '󰼎'
+Outline = '󰎣'
+
+[numeric.0.box.multiple]
+Outline = '󰎢'
+
+[numeric.1]
+Box = '󰎤'
+Circle = '󰲠'
+
+[numeric.1.box]
+Multiple = '󰼏'
+Outline = '󰎦'
+
+[numeric.1.box.multiple]
+Outline = '󰎥'
+
+[numeric.1.circle]
+Outline = '󰲡'
+
+[numeric.10]
+Box = '󰽽'
+Circle = '󰿬'
+
+[numeric.10.box]
+Multiple = '󰿪'
+Outline = '󰽾'
+
+[numeric.10.box.multiple]
+Outline = '󰿫'
+
+[numeric.10.circle]
+Outline = '󰿭'
+
+[numeric.2]
+Box = '󰎧'
+Circle = '󰲢'
+
+[numeric.2.box]
+Multiple = '󰼐'
+Outline = '󰎩'
+
+[numeric.2.box.multiple]
+Outline = '󰎨'
+
+[numeric.2.circle]
+Outline = '󰲣'
+
+[numeric.3]
+Box = '󰎪'
+Circle = '󰲤'
+
+[numeric.3.box]
+Multiple = '󰼑'
+Outline = '󰎬'
+
+[numeric.3.box.multiple]
+Outline = '󰎫'
+
+[numeric.3.circle]
+Outline = '󰲥'
+
+[numeric.4]
+Box = '󰎭'
+Circle = '󰲦'
+
+[numeric.4.box]
+Multiple = '󰼒'
+Outline = '󰎮'
+
+[numeric.4.box.multiple]
+Outline = '󰎲'
+
+[numeric.4.circle]
+Outline = '󰲧'
+
+[numeric.5]
+Box = '󰎱'
+Circle = '󰲨'
+
+[numeric.5.box]
+Multiple = '󰼓'
+Outline = '󰎰'
+
+[numeric.5.box.multiple]
+Outline = '󰎯'
+
+[numeric.5.circle]
+Outline = '󰲩'
+
+[numeric.6]
+Box = '󰎳'
+Circle = '󰲪'
+
+[numeric.6.box]
+Multiple = '󰼔'
+Outline = '󰎵'
+
+[numeric.6.box.multiple]
+Outline = '󰎴'
+
+[numeric.6.circle]
+Outline = '󰲫'
+
+[numeric.7]
+Box = '󰎶'
+Circle = '󰲬'
+
+[numeric.7.box]
+Multiple = '󰼕'
+Outline = '󰎸'
+
+[numeric.7.box.multiple]
+Outline = '󰎷'
+
+[numeric.7.circle]
+Outline = '󰲭'
+
+[numeric.8]
+Box = '󰎹'
+Circle = '󰲮'
+
+[numeric.8.box]
+Multiple = '󰼖'
+Outline = '󰎻'
+
+[numeric.8.box.multiple]
+Outline = '󰎺'
+
+[numeric.8.circle]
+Outline = '󰲯'
+
+[numeric.9]
+Box = '󰎼'
+Circle = '󰲰'
+Plus = '󰿮'
+
+[numeric.9.box]
+Multiple = '󰼗'
+Outline = '󰎾'
+
+[numeric.9.box.multiple]
+Outline = '󰎽'
+
+[numeric.9.circle]
+Outline = '󰲱'
+
+[numeric.9.plus]
+Box = '󰎿'
+Circle = '󰲲'
+
+[numeric.9.plus.box]
+Multiple = '󰼘'
+Outline = '󰏁'
+
+[numeric.9.plus.box.multiple]
+Outline = '󰏀'
+
+[numeric.9.plus.circle]
+Outline = '󰲳'
+
+[numeric.negative]
+1 = '󱁒'
+
+[numeric.positive]
+1 = '󱗋'
+
+[octagon]
+Outline = '󰏄'
+
+[octagram]
+Outline = '󰝵'
+
+[octahedron]
+Off = '󱥑'
+
+[office]
+Building = '󰦑'
+
+[office.building]
+Cog = '󱥉'
+Marker = '󱔠'
+Outline = '󱔟'
+
+[office.building.cog]
+Outline = '󱥊'
+
+[office.building.marker]
+Outline = '󱔡'
+
+[oil]
+Lamp = '󰼙'
+Level = '󱁓'
+Temperature = '󰿸'
+
+[one]
+Up = '󰮭'
+[open.in]
+App = '󰏋'
+New = '󰏌'
+
+[open.source]
+Initiative = '󰮮'
+
+[orbit]
+Variant = '󱗛'
+[order.alphabetical]
+Ascending = '󰈍'
+Descending = '󰴇'
+
+[order.bool]
+Ascending = '󰊾'
+Descending = '󱎄'
+
+[order.bool.ascending]
+Variant = '󰦏'
+
+[order.bool.descending]
+Variant = '󰦐'
+
+[order.numeric]
+Ascending = '󰕅'
+Descending = '󰕆'
+
+[ornament]
+Variant = '󰏐'
+
+[outdoor]
+Lamp = '󱁔'
+
+[pac]
+Man = '󰮯'
+
+[package]
+Down = '󰏔'
+Up = '󰏕'
+Variant = '󰏖'
+
+[package.variant]
+Closed = '󰏗'
+Minus = '󱧗'
+Plus = '󱧘'
+Remove = '󱧙'
+
+[package.variant.closed]
+Minus = '󱧔'
+Plus = '󱧕'
+Remove = '󱧖'
+
+[page]
+First = '󰘀'
+Last = '󰘁'
+Next = '󰮰'
+Previous = '󰮲'
+
+[page.layout]
+Body = '󰛺'
+Footer = '󰛻'
+Header = '󰛼'
+
+[page.layout.header]
+Footer = '󰽿'
+
+[page.layout.sidebar]
+Left = '󰛽'
+Right = '󰛾'
+
+[page.next]
+Outline = '󰮱'
+
+[page.previous]
+Outline = '󰮳'
+
+[pail]
+Minus = '󱐷'
+Off = '󱐹'
+Outline = '󱐺'
+Plus = '󱐶'
+Remove = '󱐸'
+
+[pail.minus]
+Outline = '󱐼'
+
+[pail.off]
+Outline = '󱐾'
+
+[pail.plus]
+Outline = '󱐻'
+
+[pail.remove]
+Outline = '󱐽'
+
+[palette]
+Advanced = '󰏙'
+Outline = '󰸌'
+Swatch = '󰢵'
+
+[palette.swatch]
+Outline = '󱍜'
+Variant = '󱥚'
+
+[palm]
+Tree = '󱁕'
+
+[pan]
+Down = '󰮷'
+Horizontal = '󰮸'
+Left = '󰮹'
+Right = '󰮺'
+Up = '󰮽'
+Vertical = '󰮾'
+
+[pan.bottom]
+Left = '󰮵'
+Right = '󰮶'
+
+[pan.top]
+Left = '󰮻'
+Right = '󰮼'
+
+[panorama]
+Fisheye = '󰏝'
+Horizontal = '󱤨'
+Outline = '󱦌'
+Sphere = '󱦍'
+Variant = '󱦏'
+Vertical = '󱤩'
+
+[panorama.horizontal]
+Outline = '󰏞'
+
+[panorama.sphere]
+Outline = '󱦎'
+
+[panorama.variant]
+Outline = '󱦐'
+
+[panorama.vertical]
+Outline = '󰏟'
+
+[panorama.wide]
+Angle = '󱥟'
+
+[panorama.wide.angle]
+Outline = '󰏠'
+
+[paper]
+Roll = '󱅗'
+
+[paper.cut]
+Vertical = '󰏡'
+
+[paper.roll]
+Outline = '󱅘'
+
+[paperclip]
+Check = '󱫆'
+Lock = '󱧚'
+Minus = '󱫇'
+Off = '󱫈'
+Plus = '󱫉'
+Remove = '󱫊'
+
+[parachute]
+Outline = '󰲵'
+
+[party]
+Popper = '󱁖'
+
+[passport]
+Biometric = '󰷡'
+
+[patio]
+Heater = '󰾀'
+
+[pause]
+Circle = '󰏥'
+Octagon = '󰏧'
+
+[pause.circle]
+Outline = '󰏦'
+
+[pause.octagon]
+Outline = '󰏨'
+
+[paw]
+Off = '󰙗'
+Outline = '󱙵'
+
+[paw.off]
+Outline = '󱙶'
+
+[peanut]
+Off = '󰿽'
+Outline = '󰿾'
+
+[peanut.off]
+Outline = '󰿿'
+
+[pen]
+Lock = '󰷢'
+Minus = '󰷣'
+Off = '󰷤'
+Plus = '󰷥'
+Remove = '󰷦'
+
+[pencil]
+Box = '󰏬'
+Circle = '󰛿'
+Lock = '󰏮'
+Minus = '󰷨'
+Off = '󰏯'
+Outline = '󰲶'
+Plus = '󰷫'
+Remove = '󰷭'
+Ruler = '󱍓'
+
+[pencil.box]
+Multiple = '󱅄'
+Outline = '󰏭'
+
+[pencil.box.multiple]
+Outline = '󱅅'
+
+[pencil.circle]
+Outline = '󰝶'
+
+[pencil.lock]
+Outline = '󰷧'
+
+[pencil.minus]
+Outline = '󰷩'
+
+[pencil.off]
+Outline = '󰷪'
+
+[pencil.plus]
+Outline = '󰷬'
+
+[pencil.remove]
+Outline = '󰷮'
+
+[pentagon]
+Outline = '󰜀'
+
+[percent]
+Box = '󱨂'
+Circle = '󱨄'
+Outline = '󱉸'
+
+[percent.box]
+Outline = '󱨃'
+
+[percent.circle]
+Outline = '󱨅'
+
+[periodic]
+Table = '󰢶'
+
+[perspective]
+Less = '󰴣'
+More = '󰴤'
+
+[phone]
+Alert = '󰼚'
+Bluetooth = '󰏳'
+Cancel = '󱂼'
+Check = '󱆩'
+Classic = '󰘂'
+Clock = '󱧛'
+Dial = '󱕙'
+Forward = '󰏴'
+Hangup = '󰏵'
+Incoming = '󰏷'
+Lock = '󰏸'
+Log = '󰏹'
+Message = '󱆖'
+Minus = '󰙘'
+Missed = '󰏺'
+Off = '󰷯'
+Outgoing = '󰏻'
+Outline = '󰷰'
+Paused = '󰏼'
+Plus = '󰙙'
+Refresh = '󱦓'
+Remove = '󱔯'
+Return = '󰠯'
+Ring = '󱆫'
+Settings = '󰏽'
+Sync = '󱦕'
+Voip = '󰏾'
+
+[phone.alert]
+Outline = '󱆎'
+
+[phone.bluetooth]
+Outline = '󱆏'
+
+[phone.cancel]
+Outline = '󱆐'
+
+[phone.check]
+Outline = '󱆪'
+
+[phone.classic]
+Off = '󱉹'
+
+[phone.dial]
+Outline = '󱕚'
+
+[phone.forward]
+Outline = '󱆑'
+
+[phone.hangup]
+Outline = '󱆒'
+
+[phone.in]
+Talk = '󰏶'
+
+[phone.in.talk]
+Outline = '󱆂'
+
+[phone.incoming]
+Outline = '󱆓'
+
+[phone.lock]
+Outline = '󱆔'
+
+[phone.log]
+Outline = '󱆕'
+
+[phone.message]
+Outline = '󱆗'
+
+[phone.minus]
+Outline = '󱆘'
+
+[phone.missed]
+Outline = '󱆥'
+
+[phone.off]
+Outline = '󱆦'
+
+[phone.outgoing]
+Outline = '󱆙'
+
+[phone.paused]
+Outline = '󱆚'
+
+[phone.plus]
+Outline = '󱆛'
+
+[phone.refresh]
+Outline = '󱦔'
+
+[phone.remove]
+Outline = '󱔰'
+
+[phone.return]
+Outline = '󱆜'
+
+[phone.ring]
+Outline = '󱆬'
+
+[phone.rotate]
+Landscape = '󰢅'
+Portrait = '󰢆'
+
+[phone.settings]
+Outline = '󱆝'
+
+[phone.sync]
+Outline = '󱦖'
+
+[pi]
+Box = '󰐀'
+Hole = '󰷱'
+
+[piano]
+Off = '󰚘'
+[picture.in.picture.bottom]
+Right = '󰹗'
+
+[picture.in.picture.bottom.right]
+Outline = '󰹘'
+
+[picture.in.picture.top]
+Right = '󰹙'
+
+[picture.in.picture.top.right]
+Outline = '󰹚'
+
+[pier]
+Crane = '󰢈'
+
+[pig]
+Variant = '󱀆'
+
+[pig.variant]
+Outline = '󱙸'
+
+[piggy]
+Bank = '󱀇'
+
+[piggy.bank]
+Outline = '󱙹'
+
+[pill]
+Off = '󱩜'
+
+[pin]
+Off = '󰐄'
+Outline = '󰤱'
+
+[pin.off]
+Outline = '󰤰'
+
+[pine]
+Tree = '󰐅'
+
+[pine.tree]
+Box = '󰐆'
+Fire = '󱐚'
+
+[pinwheel]
+Outline = '󰫖'
+
+[pipe]
+Disconnected = '󰟦'
+Leak = '󰢉'
+Valve = '󱡍'
+Wrench = '󱍔'
+
+[play]
+Box = '󱉺'
+Circle = '󰐌'
+Network = '󰢋'
+Outline = '󰼛'
+Pause = '󰐎'
+Speed = '󰣿'
+
+[play.box]
+Lock = '󱨖'
+Multiple = '󰴙'
+Outline = '󰐋'
+
+[play.box.lock]
+Open = '󱨗'
+Outline = '󱨙'
+
+[play.box.lock.open]
+Outline = '󱨘'
+
+[play.box.multiple]
+Outline = '󱏦'
+
+[play.circle]
+Outline = '󰐍'
+
+[play.network]
+Outline = '󰲷'
+
+[play.protected]
+Content = '󰐏'
+
+[playlist]
+Check = '󰗇'
+Edit = '󰤀'
+Minus = '󰐐'
+Music = '󰲸'
+Play = '󰐑'
+Plus = '󰐒'
+Remove = '󰐓'
+Star = '󰷲'
+
+[playlist.music]
+Outline = '󰲹'
+
+[plus]
+Box = '󰐖'
+Circle = '󰐗'
+Lock = '󱩝'
+Minus = '󰦒'
+Network = '󰐚'
+Outline = '󰜅'
+Thick = '󱇬'
+
+[plus.box]
+Multiple = '󰌴'
+Outline = '󰜄'
+
+[plus.box.multiple]
+Outline = '󱅃'
+
+[plus.circle]
+Multiple = '󰍌'
+Outline = '󰐙'
+
+[plus.circle.multiple]
+Outline = '󰐘'
+
+[plus.lock]
+Open = '󱩞'
+
+[plus.minus]
+Box = '󰦓'
+Variant = '󱓉'
+
+[plus.network]
+Outline = '󰲺'
+
+[podium]
+Bronze = '󰴦'
+Gold = '󰴧'
+Silver = '󰴨'
+[point.of]
+Sale = '󰶒'
+
+[pokemon]
+Go = '󰨉'
+
+[poker]
+Chip = '󰠰'
+
+[police]
+Badge = '󱅧'
+Station = '󱠹'
+
+[police.badge]
+Outline = '󱅨'
+
+[pool]
+Thermometer = '󱩟'
+
+[post]
+Lamp = '󱩠'
+Outline = '󱀉'
+
+[postage]
+Stamp = '󰲻'
+
+[pot]
+Mix = '󰙛'
+Outline = '󰋿'
+Steam = '󰙚'
+
+[pot.mix]
+Outline = '󰙷'
+
+[pot.steam]
+Outline = '󰌦'
+
+[pound]
+Box = '󰐤'
+
+[pound.box]
+Outline = '󱅿'
+
+[power]
+Cycle = '󰤁'
+Off = '󰤂'
+On = '󰤃'
+Plug = '󰚥'
+Settings = '󰐦'
+Sleep = '󰤄'
+Socket = '󰐧'
+Standby = '󰤆'
+
+[power.plug]
+Off = '󰚦'
+Outline = '󱐥'
+
+[power.plug.off]
+Outline = '󱐤'
+
+[power.socket]
+Au = '󰤅'
+Ch = '󰾳'
+De = '󱄇'
+Eu = '󰟧'
+Fr = '󱄈'
+It = '󱓿'
+Jp = '󱄉'
+Uk = '󰟨'
+Us = '󰟩'
+
+[presentation]
+Play = '󰐩'
+
+[printer]
+Alert = '󰐬'
+Check = '󱅆'
+Eye = '󱑘'
+Off = '󰹝'
+Outline = '󱞆'
+Pos = '󱁗'
+Search = '󱑗'
+Settings = '󰜇'
+Wireless = '󰨋'
+
+[printer.3d]
+Nozzle = '󰹛'
+
+[printer.3d.nozzle]
+Alert = '󱇀'
+Heat = '󱢸'
+Outline = '󰹜'
+
+[printer.3d.nozzle.alert]
+Outline = '󱇁'
+
+[printer.3d.nozzle.heat]
+Outline = '󱢹'
+
+[printer.off]
+Outline = '󱞅'
+
+[priority]
+High = '󰘃'
+Low = '󰘄'
+
+[professional]
+Hexagon = '󰐭'
+
+[progress]
+Alert = '󰲼'
+Check = '󰦕'
+Clock = '󰦖'
+Close = '󱄊'
+Download = '󰦗'
+Pencil = '󱞇'
+Question = '󱔢'
+Star = '󱞈'
+Upload = '󰦘'
+Wrench = '󰲽'
+
+[projector]
+Off = '󱨣'
+Screen = '󰐯'
+
+[projector.screen]
+Off = '󱠍'
+Outline = '󱜤'
+Variant = '󱠏'
+
+[projector.screen.off]
+Outline = '󱠎'
+
+[projector.screen.variant]
+Off = '󱠐'
+Outline = '󱠒'
+
+[projector.screen.variant.off]
+Outline = '󱠑'
+
+[propane]
+Tank = '󱍗'
+
+[propane.tank]
+Outline = '󱍘'
+
+[publish]
+Off = '󱥅'
+
+[purse]
+Outline = '󰼝'
+
+[puzzle]
+Check = '󱐦'
+Edit = '󱓓'
+Heart = '󱓔'
+Minus = '󱓑'
+Outline = '󰩦'
+Plus = '󱓐'
+Remove = '󱓒'
+Star = '󱓕'
+
+[puzzle.check]
+Outline = '󱐧'
+
+[puzzle.edit]
+Outline = '󱓙'
+
+[puzzle.heart]
+Outline = '󱓚'
+
+[puzzle.minus]
+Outline = '󱓗'
+
+[puzzle.plus]
+Outline = '󱓖'
+
+[puzzle.remove]
+Outline = '󱓘'
+
+[puzzle.star]
+Outline = '󱓛'
+
+[pyramid]
+Off = '󱥓'
+
+[qrcode]
+Edit = '󰢸'
+Minus = '󱆌'
+Plus = '󱆋'
+Remove = '󱆍'
+Scan = '󰐳'
+
+[quality]
+High = '󰐵'
+Low = '󰨌'
+Medium = '󰨍'
+
+[rabbit]
+Variant = '󱩡'
+
+[rabbit.variant]
+Outline = '󱩢'
+
+[racing]
+Helmet = '󰶓'
+
+[radiator]
+Disabled = '󰫗'
+Off = '󰫘'
+
+[radio]
+Am = '󰲾'
+Fm = '󰲿'
+Handheld = '󰐺'
+Off = '󱈜'
+Tower = '󰐻'
+
+[radioactive]
+Circle = '󱡝'
+Off = '󰻁'
+
+[radioactive.circle]
+Outline = '󱡞'
+
+[radiobox]
+Marked = '󰐾'
+
+[radiology]
+Box = '󱓅'
+
+[radiology.box]
+Outline = '󱓆'
+
+[radius]
+Outline = '󰳁'
+
+[railroad]
+Light = '󰼞'
+
+[raspberry]
+Pi = '󰐿'
+
+[raw]
+Off = '󱨐'
+
+[ray]
+End = '󰑀'
+Start = '󰑂'
+Vertex = '󰑅'
+
+[ray.end]
+Arrow = '󰑁'
+
+[ray.start]
+Arrow = '󰑃'
+End = '󰑄'
+
+[ray.start.vertex]
+End = '󱗘'
+[razor.double]
+Edge = '󱦗'
+
+[razor.single]
+Edge = '󱦘'
+
+[receipt]
+Outline = '󱧜'
+
+[receipt.text]
+Check = '󱩣'
+Minus = '󱩥'
+Plus = '󱩧'
+Remove = '󱩩'
+
+[receipt.text.check]
+Outline = '󱩤'
+
+[receipt.text.minus]
+Outline = '󱩦'
+
+[receipt.text.plus]
+Outline = '󱩨'
+
+[receipt.text.remove]
+Outline = '󱩪'
+
+[record]
+Circle = '󰻂'
+Player = '󰦚'
+Rec = '󰑋'
+
+[record.circle]
+Outline = '󰻃'
+
+[rectangle]
+Outline = '󰹟'
+
+[recycle]
+Variant = '󱎝'
+
+[redo]
+Variant = '󰑏'
+
+[reflect]
+Horizontal = '󰨎'
+Vertical = '󰨏'
+
+[refresh]
+Auto = '󱣲'
+Circle = '󱍷'
+
+[registered]
+Trademark = '󰩧'
+[relation.many.to]
+Many = '󱒖'
+One = '󱒗'
+[relation.many.to.one.or]
+Many = '󱒘'
+
+[relation.many.to.only]
+One = '󱒙'
+[relation.many.to.zero.or]
+Many = '󱒚'
+One = '󱒛'
+[relation.one.or.many.to]
+Many = '󱒜'
+One = '󱒝'
+[relation.one.or.many.to.one.or]
+Many = '󱒞'
+
+[relation.one.or.many.to.only]
+One = '󱒟'
+[relation.one.or.many.to.zero.or]
+Many = '󱒠'
+One = '󱒡'
+
+[relation.one.to]
+Many = '󱒢'
+One = '󱒣'
+[relation.one.to.one.or]
+Many = '󱒤'
+
+[relation.one.to.only]
+One = '󱒥'
+[relation.one.to.zero.or]
+Many = '󱒦'
+One = '󱒧'
+[relation.only.one.to]
+Many = '󱒨'
+One = '󱒩'
+[relation.only.one.to.one.or]
+Many = '󱒪'
+
+[relation.only.one.to.only]
+One = '󱒫'
+[relation.only.one.to.zero.or]
+Many = '󱒬'
+One = '󱒭'
+[relation.zero.or.many.to]
+Many = '󱒮'
+One = '󱒯'
+[relation.zero.or.many.to.one.or]
+Many = '󱒰'
+
+[relation.zero.or.many.to.only]
+One = '󱒱'
+[relation.zero.or.many.to.zero.or]
+Many = '󱒲'
+One = '󱒳'
+[relation.zero.or.one.to]
+Many = '󱒴'
+One = '󱒵'
+[relation.zero.or.one.to.one.or]
+Many = '󱒶'
+
+[relation.zero.or.one.to.only]
+One = '󱒷'
+[relation.zero.or.one.to.zero.or]
+Many = '󱒸'
+One = '󱒹'
+
+[relative]
+Scale = '󰑒'
+
+[reload]
+Alert = '󱄋'
+
+[remote]
+Desktop = '󰢹'
+Off = '󰻄'
+Tv = '󰻅'
+
+[remote.tv]
+Off = '󰻆'
+
+[rename]
+Box = '󰑕'
+
+[reorder]
+Horizontal = '󰚈'
+Vertical = '󰚉'
+
+[repeat]
+Off = '󰑗'
+Once = '󰑘'
+Variant = '󰕇'
+
+[reply]
+All = '󰑛'
+Circle = '󱆮'
+Outline = '󰼠'
+
+[reply.all]
+Outline = '󰼟'
+
+[resistor]
+Nodes = '󰭅'
+[resize.bottom]
+Right = '󰑝'
+
+[restart]
+Alert = '󱄌'
+Off = '󰶕'
+
+[restore]
+Alert = '󱄍'
+
+[rewind]
+10 = '󰴪'
+15 = '󱥆'
+30 = '󰶖'
+5 = '󱇹'
+60 = '󱘌'
+Outline = '󰜊'
+
+[rhombus]
+Medium = '󰨐'
+Outline = '󰜌'
+Split = '󰨑'
+
+[rhombus.medium]
+Outline = '󱓜'
+
+[rhombus.split]
+Outline = '󱓝'
+
+[rickshaw]
+Electric = '󱖼'
+
+[road]
+Variant = '󰑢'
+
+[robot]
+Angry = '󱚝'
+Confused = '󱚟'
+Dead = '󱚡'
+Excited = '󱚣'
+Happy = '󱜙'
+Industrial = '󰭆'
+Love = '󱚥'
+Mower = '󱇷'
+Off = '󱚧'
+Outline = '󱙺'
+Vacuum = '󰜍'
+
+[robot.angry]
+Outline = '󱚞'
+
+[robot.confused]
+Outline = '󱚠'
+
+[robot.dead]
+Outline = '󱚢'
+
+[robot.excited]
+Outline = '󱚤'
+
+[robot.happy]
+Outline = '󱜚'
+
+[robot.industrial]
+Outline = '󱨚'
+
+[robot.love]
+Outline = '󱚦'
+
+[robot.mower]
+Outline = '󱇳'
+
+[robot.off]
+Outline = '󱙻'
+
+[robot.vacuum]
+Variant = '󰤈'
+
+[rocket]
+Launch = '󱓞'
+Outline = '󱎯'
+
+[rocket.launch]
+Outline = '󱓟'
+
+[roller]
+Shade = '󱩫'
+Skate = '󰴫'
+
+[roller.shade]
+Closed = '󱩬'
+
+[roller.skate]
+Off = '󰅅'
+
+[rollerblade]
+Off = '󰀮'
+
+[rolodex]
+Outline = '󱪺'
+[roman.numeral]
+2 = '󱂉'
+3 = '󱂊'
+4 = '󱂋'
+6 = '󱂍'
+7 = '󱂎'
+8 = '󱂏'
+9 = '󱂐'
+
+[room]
+Service = '󰢍'
+
+[room.service]
+Outline = '󰶗'
+
+[rotate]
+360 = '󱦙'
+Left = '󰑥'
+Orbit = '󰶘'
+Right = '󰑧'
+
+[rotate.3d]
+Variant = '󰑤'
+
+[rotate.left]
+Variant = '󰑦'
+
+[rotate.right]
+Variant = '󰑨'
+
+[rounded]
+Corner = '󰘇'
+
+[router]
+Network = '󱂇'
+Wireless = '󰑩'
+
+[router.wireless]
+Off = '󱖣'
+Settings = '󰩩'
+
+[routes]
+Clock = '󱁙'
+
+[rss]
+Box = '󰑬'
+Off = '󰼡'
+
+[ruler]
+Square = '󰳂'
+
+[ruler.square]
+Compass = '󰺾'
+
+[run]
+Fast = '󰑮'
+
+[rv]
+Truck = '󱇔'
+
+[sack]
+Percent = '󰴯'
+
+[safe]
+Square = '󱉼'
+
+[safe.square]
+Outline = '󱉽'
+
+[safety]
+Goggles = '󰴰'
+
+[sail]
+Boat = '󰻈'
+
+[sail.boat]
+Sink = '󱫯'
+
+[sale]
+Outline = '󱨆'
+
+[satellite]
+Uplink = '󰤉'
+Variant = '󰑱'
+
+[sausage]
+Off = '󱞉'
+
+[saw]
+Blade = '󰹡'
+
+[sawtooth]
+Wave = '󱑺'
+
+[scale]
+Balance = '󰗑'
+Bathroom = '󰑳'
+Off = '󱁚'
+Unbalanced = '󱦸'
+
+[scan]
+Helper = '󱏘'
+
+[scanner]
+Off = '󰤊'
+
+[scatter]
+Plot = '󰻉'
+
+[scatter.plot]
+Outline = '󰻊'
+
+[scent]
+Off = '󱥙'
+
+[school]
+Outline = '󱆀'
+
+[scissors]
+Cutting = '󰩫'
+
+[scooter]
+Electric = '󱖾'
+
+[scoreboard]
+Outline = '󱉿'
+
+[screen]
+Rotation = '󰑵'
+
+[screen.rotation]
+Lock = '󰑸'
+
+[screw]
+Lag = '󰷴'
+
+[screw.flat]
+Top = '󰷳'
+[screw.machine.flat]
+Top = '󰷵'
+
+[screw.machine.round]
+Top = '󰷶'
+
+[screw.round]
+Top = '󰷷'
+
+[script]
+Outline = '󰑷'
+Text = '󰯂'
+
+[script.text]
+Key = '󱜥'
+Outline = '󰯃'
+Play = '󱜧'
+
+[script.text.key]
+Outline = '󱜦'
+
+[script.text.play]
+Outline = '󱜨'
+
+[seal]
+Variant = '󰿙'
+
+[search]
+Web = '󰜏'
+
+[seat]
+Flat = '󰑻'
+Outline = '󰳄'
+Passenger = '󱉉'
+
+[seat.flat]
+Angled = '󰑼'
+
+[seat.individual]
+Suite = '󰑽'
+
+[seat.legroom]
+Extra = '󰑾'
+Normal = '󰑿'
+Reduced = '󰒀'
+
+[seat.recline]
+Extra = '󰒁'
+Normal = '󰒂'
+
+[security]
+Network = '󰒄'
+
+[seed]
+Off = '󱏽'
+Outline = '󰹣'
+Plus = '󱩭'
+
+[seed.off]
+Outline = '󱏾'
+
+[seed.plus]
+Outline = '󱩮'
+
+[select]
+All = '󰒆'
+Color = '󰴱'
+Compare = '󰫙'
+Drag = '󰩬'
+Group = '󰾂'
+Inverse = '󰒇'
+Marker = '󱊀'
+Multiple = '󱊁'
+Off = '󰒈'
+Place = '󰿚'
+Remove = '󱟁'
+Search = '󱈄'
+
+[select.multiple]
+Marker = '󱊂'
+
+[selection]
+Drag = '󰩭'
+Ellipse = '󰴲'
+Marker = '󱊃'
+Multiple = '󱊅'
+Off = '󰝷'
+Remove = '󱟃'
+Search = '󱈅'
+
+[selection.ellipse]
+Remove = '󱟂'
+
+[selection.ellipse.arrow]
+Inside = '󰼢'
+
+[selection.multiple]
+Marker = '󱊄'
+
+[semantic]
+Web = '󱌖'
+
+[send]
+Check = '󱅡'
+Circle = '󰷸'
+Clock = '󱅣'
+Lock = '󰟭'
+Outline = '󱅥'
+
+[send.check]
+Outline = '󱅢'
+
+[send.circle]
+Outline = '󰷹'
+
+[send.clock]
+Outline = '󱅤'
+
+[send.lock]
+Outline = '󱅦'
+
+[serial]
+Port = '󰙜'
+
+[server]
+Minus = '󰒌'
+Network = '󰒍'
+Off = '󰒏'
+Plus = '󰒐'
+Remove = '󰒑'
+Security = '󰒒'
+
+[server.network]
+Off = '󰒎'
+
+[set]
+All = '󰝸'
+Center = '󰝹'
+Left = '󰝻'
+Merge = '󱓠'
+None = '󰝾'
+Right = '󰝿'
+Split = '󱓡'
+Square = '󱑝'
+
+[set.center]
+Right = '󰝺'
+
+[set.left]
+Center = '󰝼'
+Right = '󰝽'
+
+[set.top]
+Box = '󰦟'
+
+[settings]
+Helper = '󰩮'
+
+[shaker]
+Outline = '󱄏'
+
+[shape]
+Outline = '󰠲'
+Plus = '󰒕'
+
+[shape.circle]
+Plus = '󰙝'
+
+[shape.oval]
+Plus = '󱇺'
+
+[shape.polygon]
+Plus = '󰙞'
+
+[shape.rectangle]
+Plus = '󰙟'
+
+[shape.square]
+Plus = '󰙠'
+
+[shape.square.rounded]
+Plus = '󱓺'
+
+[share]
+All = '󱇴'
+Circle = '󱆭'
+Off = '󰼣'
+Outline = '󰤲'
+Variant = '󰒗'
+
+[share.all]
+Outline = '󱇵'
+
+[share.off]
+Outline = '󰼤'
+
+[share.variant]
+Outline = '󱔔'
+
+[shark]
+Fin = '󱙳'
+Off = '󱢻'
+
+[shark.fin]
+Outline = '󱙴'
+
+[shield]
+Account = '󰢏'
+Airplane = '󰚻'
+Alert = '󰻌'
+Bug = '󱏚'
+Car = '󰾃'
+Check = '󰕥'
+Cross = '󰳉'
+Crown = '󱢼'
+Edit = '󱆠'
+Half = '󱍠'
+Home = '󰚊'
+Key = '󰯄'
+Lock = '󰦝'
+Moon = '󱠨'
+Off = '󰦞'
+Outline = '󰒙'
+Plus = '󰫚'
+Refresh = '󰂪'
+Remove = '󰫜'
+Search = '󰶚'
+Star = '󱄻'
+Sun = '󱁝'
+Sword = '󱢾'
+Sync = '󱆢'
+
+[shield.account]
+Outline = '󰨒'
+Variant = '󱖧'
+
+[shield.account.variant]
+Outline = '󱖨'
+
+[shield.airplane]
+Outline = '󰳇'
+
+[shield.alert]
+Outline = '󰻍'
+
+[shield.bug]
+Outline = '󱏛'
+
+[shield.check]
+Outline = '󰳈'
+
+[shield.cross]
+Outline = '󰳊'
+
+[shield.crown]
+Outline = '󱢽'
+
+[shield.edit]
+Outline = '󱆡'
+
+[shield.half]
+Full = '󰞀'
+
+[shield.home]
+Outline = '󰳋'
+
+[shield.key]
+Outline = '󰯅'
+
+[shield.link]
+Variant = '󰴳'
+
+[shield.link.variant]
+Outline = '󰴴'
+
+[shield.lock]
+Open = '󱦚'
+Outline = '󰳌'
+
+[shield.lock.open]
+Outline = '󱦛'
+
+[shield.moon]
+Outline = '󱠩'
+
+[shield.off]
+Outline = '󰦜'
+
+[shield.plus]
+Outline = '󰫛'
+
+[shield.refresh]
+Outline = '󰇠'
+
+[shield.remove]
+Outline = '󰫝'
+
+[shield.star]
+Outline = '󱄼'
+
+[shield.sun]
+Outline = '󱁞'
+
+[shield.sword]
+Outline = '󱢿'
+
+[shield.sync]
+Outline = '󱆣'
+
+[ship]
+Wheel = '󰠳'
+
+[shipping]
+Pallet = '󱡎'
+
+[shoe]
+Ballet = '󱗊'
+Cleat = '󱗇'
+Formal = '󰭇'
+Heel = '󰭈'
+Print = '󰷺'
+Sneaker = '󱗈'
+
+[shopping]
+Music = '󰒛'
+Outline = '󱇕'
+Search = '󰾄'
+
+[shopping.search]
+Outline = '󱩯'
+
+[shovel]
+Off = '󰜑'
+
+[shower]
+Head = '󰦡'
+
+[shuffle]
+Disabled = '󰒞'
+Variant = '󰒟'
+
+[sigma]
+Lower = '󰘫'
+
+[sign]
+Caution = '󰒡'
+Direction = '󰞁'
+Pole = '󱓸'
+Text = '󰞂'
+
+[sign.direction]
+Minus = '󱀀'
+Plus = '󰿜'
+Remove = '󰿝'
+
+[sign.real]
+Estate = '󱄘'
+
+[signal]
+2g = '󰜒'
+3g = '󰜓'
+4g = '󰜔'
+5g = '󰩯'
+Hspa = '󰜕'
+Off = '󰞃'
+Variant = '󰘊'
+
+[signal.cellular]
+1 = '󰢼'
+2 = '󰢽'
+3 = '󰢾'
+Outline = '󰢿'
+
+[signal.distance]
+Variant = '󰹤'
+
+[signal.hspa]
+Plus = '󰜖'
+
+[signature]
+Freehand = '󰷼'
+Image = '󰷽'
+Text = '󰷾'
+
+[silverware]
+Clean = '󰿞'
+Fork = '󰒤'
+Spoon = '󰒥'
+Variant = '󰒦'
+
+[silverware.fork]
+Knife = '󰩰'
+
+[sim]
+Alert = '󰒨'
+Off = '󰒩'
+Outline = '󱗕'
+
+[sim.alert]
+Outline = '󱗓'
+
+[sim.off]
+Outline = '󱗔'
+
+[simple]
+Icons = '󱌝'
+
+[sina]
+Weibo = '󰫟'
+
+[sine]
+Wave = '󰥛'
+
+[sitemap]
+Outline = '󱦜'
+
+[size]
+M = '󱎥'
+S = '󱎤'
+Xl = '󱎧'
+Xs = '󱎣'
+Xxl = '󱎨'
+Xxs = '󱎢'
+Xxxl = '󱎩'
+
+[skate]
+Off = '󰚙'
+
+[skew]
+Less = '󰴶'
+More = '󰴷'
+
+[ski]
+Water = '󱌆'
+
+[ski.cross]
+Country = '󱌅'
+
+[skip]
+Backward = '󰒫'
+Forward = '󰒬'
+Next = '󰒭'
+Previous = '󰒮'
+
+[skip.backward]
+Outline = '󰼥'
+
+[skip.forward]
+Outline = '󰼦'
+
+[skip.next]
+Circle = '󰙡'
+Outline = '󰼧'
+
+[skip.next.circle]
+Outline = '󰙢'
+
+[skip.previous]
+Circle = '󰙣'
+Outline = '󰼨'
+
+[skip.previous.circle]
+Outline = '󰙤'
+
+[skull]
+Crossbones = '󰯆'
+Outline = '󰯈'
+Scan = '󱓇'
+
+[skull.crossbones]
+Outline = '󰯇'
+
+[skull.scan]
+Outline = '󱓈'
+
+[skype]
+Business = '󰒰'
+
+[slash]
+Forward = '󰿟'
+
+[slash.forward]
+Box = '󰿠'
+
+[sleep]
+Off = '󰒳'
+
+[slope]
+Downhill = '󰷿'
+Uphill = '󰸀'
+
+[slot]
+Machine = '󱄔'
+
+[slot.machine]
+Outline = '󱄕'
+
+[smart]
+Card = '󱂽'
+
+[smart.card]
+Off = '󱣷'
+Outline = '󱂾'
+Reader = '󱂿'
+
+[smart.card.off]
+Outline = '󱣸'
+
+[smart.card.reader]
+Outline = '󱃀'
+
+[smoke]
+Detector = '󰎒'
+
+[smoke.detector]
+Alert = '󱤮'
+Off = '󱠉'
+Outline = '󱠈'
+Variant = '󱠋'
+
+[smoke.detector.alert]
+Outline = '󱤯'
+
+[smoke.detector.off]
+Outline = '󱠊'
+
+[smoke.detector.variant]
+Alert = '󱤰'
+Off = '󱠌'
+
+[smoking]
+Off = '󰒵'
+Pipe = '󱐍'
+
+[smoking.pipe]
+Off = '󱐨'
+
+[snowflake]
+Alert = '󰼩'
+Check = '󱩰'
+Melt = '󱋋'
+Off = '󱓣'
+Thermometer = '󱩱'
+Variant = '󰼪'
+
+[soccer]
+Field = '󰠴'
+[social.distance.2]
+Meters = '󱕹'
+
+[social.distance.6]
+Feet = '󱕺'
+
+[sofa]
+Outline = '󱕭'
+Single = '󱕮'
+
+[sofa.single]
+Outline = '󱕯'
+
+[solar]
+Panel = '󰶛'
+Power = '󰩲'
+
+[solar.panel]
+Large = '󰶜'
+
+[solar.power]
+Variant = '󱩳'
+
+[solar.power.variant]
+Outline = '󱩴'
+
+[soldering]
+Iron = '󱂒'
+
+[sony]
+Playstation = '󰐔'
+
+[sort]
+Ascending = '󰒼'
+Descending = '󰒽'
+Variant = '󰒿'
+
+[sort.alphabetical]
+Ascending = '󰖽'
+Descending = '󰖿'
+Variant = '󰒻'
+
+[sort.alphabetical.ascending]
+Variant = '󱅈'
+
+[sort.alphabetical.descending]
+Variant = '󱅉'
+
+[sort.bool]
+Ascending = '󱎅'
+Descending = '󱎇'
+
+[sort.bool.ascending]
+Variant = '󱎆'
+
+[sort.bool.descending]
+Variant = '󱎈'
+
+[sort.calendar]
+Ascending = '󱕇'
+Descending = '󱕈'
+
+[sort.clock]
+Ascending = '󱕉'
+Descending = '󱕋'
+
+[sort.clock.ascending]
+Outline = '󱕊'
+
+[sort.clock.descending]
+Outline = '󱕌'
+
+[sort.numeric]
+Ascending = '󱎉'
+Descending = '󱎊'
+Variant = '󰒾'
+
+[sort.numeric.ascending]
+Variant = '󰤍'
+
+[sort.numeric.descending]
+Variant = '󰫒'
+
+[sort.reverse]
+Variant = '󰌼'
+
+[sort.variant]
+Lock = '󰳍'
+Off = '󱪻'
+Remove = '󱅇'
+
+[sort.variant.lock]
+Open = '󰳎'
+
+[source]
+Branch = '󰘬'
+Commit = '󰜘'
+Fork = '󰓁'
+Merge = '󰘭'
+Pull = '󰓂'
+Repository = '󰳏'
+
+[source.branch]
+Check = '󱓏'
+Minus = '󱓋'
+Plus = '󱓊'
+Refresh = '󱓍'
+Remove = '󱓌'
+Sync = '󱓎'
+
+[source.commit]
+End = '󰜙'
+Local = '󰜛'
+Start = '󰜝'
+
+[source.commit.end]
+Local = '󰜚'
+
+[source.commit.next]
+Local = '󰜜'
+[source.commit.start.next]
+Local = '󰜞'
+
+[source.repository]
+Multiple = '󰳐'
+
+[soy]
+Sauce = '󰟮'
+
+[soy.sauce]
+Off = '󱏼'
+
+[spa]
+Outline = '󰳒'
+
+[space]
+Invaders = '󰯉'
+Station = '󱎃'
+
+[speaker]
+Bluetooth = '󰦢'
+Multiple = '󰴸'
+Off = '󰓄'
+Wireless = '󰜟'
+
+[speedometer]
+Medium = '󰾅'
+Slow = '󰾆'
+
+[sphere]
+Off = '󱥕'
+
+[spider]
+Thread = '󱇫'
+Web = '󰯊'
+
+[spirit]
+Level = '󱓱'
+
+[spoon]
+Sugar = '󱐩'
+
+[spotlight]
+Beam = '󰓉'
+
+[spray]
+Bottle = '󰫠'
+
+[sprinkler]
+Fire = '󱦝'
+Variant = '󱁠'
+
+[sprout]
+Outline = '󰹧'
+
+[square]
+Circle = '󱔀'
+Medium = '󰨓'
+Off = '󱋮'
+Opacity = '󱡔'
+Outline = '󰝣'
+Root = '󰞄'
+Rounded = '󱓻'
+Small = '󰨕'
+Wave = '󱑻'
+
+[square.edit]
+Outline = '󰤌'
+
+[square.medium]
+Outline = '󰨔'
+
+[square.off]
+Outline = '󱋯'
+
+[square.root]
+Box = '󰦣'
+
+[square.rounded]
+Badge = '󱨇'
+Outline = '󱓼'
+
+[square.rounded.badge]
+Outline = '󱨈'
+
+[stack]
+Exchange = '󰘋'
+Overflow = '󰓌'
+
+[stadium]
+Variant = '󰜠'
+
+[stairs]
+Box = '󱎞'
+Down = '󱊾'
+Up = '󱊽'
+
+[standard]
+Definition = '󰟯'
+
+[star]
+Box = '󰩳'
+Check = '󱕦'
+Circle = '󰓏'
+Cog = '󱙨'
+Crescent = '󰥹'
+David = '󰥺'
+Face = '󰦥'
+Half = '󰉆'
+Minus = '󱕤'
+Off = '󰓑'
+Outline = '󰓒'
+Plus = '󱕣'
+Remove = '󱕥'
+Settings = '󱙪'
+Shooting = '󱝁'
+
+[star.box]
+Multiple = '󱊆'
+Outline = '󰩴'
+
+[star.box.multiple]
+Outline = '󱊇'
+
+[star.check]
+Outline = '󱕪'
+
+[star.circle]
+Outline = '󰦤'
+
+[star.cog]
+Outline = '󱙩'
+
+[star.four]
+Points = '󰫢'
+
+[star.four.points]
+Outline = '󰫣'
+
+[star.half]
+Full = '󰓐'
+
+[star.minus]
+Outline = '󱕨'
+
+[star.off]
+Outline = '󱕛'
+
+[star.plus]
+Outline = '󱕧'
+
+[star.remove]
+Outline = '󱕩'
+
+[star.settings]
+Outline = '󱙫'
+
+[star.shooting]
+Outline = '󱝂'
+
+[star.three]
+Points = '󰫤'
+
+[star.three.points]
+Outline = '󰫥'
+
+[state]
+Machine = '󱇯'
+
+[steering]
+Off = '󰤎'
+
+[step]
+Backward = '󰓕'
+Forward = '󰓗'
+
+[step.backward]
+2 = '󰓖'
+
+[step.forward]
+2 = '󰓘'
+
+[sticker]
+Alert = '󱍥'
+Check = '󱍧'
+Emoji = '󰞅'
+Minus = '󱍩'
+Outline = '󱍫'
+Plus = '󱍬'
+Remove = '󱍮'
+Text = '󱞎'
+
+[sticker.alert]
+Outline = '󱍦'
+
+[sticker.check]
+Outline = '󱍨'
+
+[sticker.circle]
+Outline = '󰗐'
+
+[sticker.minus]
+Outline = '󱍪'
+
+[sticker.plus]
+Outline = '󱍭'
+
+[sticker.remove]
+Outline = '󱍯'
+
+[sticker.text]
+Outline = '󱞏'
+
+[stool]
+Outline = '󱥞'
+
+[stop]
+Circle = '󰙦'
+
+[stop.circle]
+Outline = '󰙧'
+
+[storage]
+Tank = '󱩵'
+
+[storage.tank]
+Outline = '󱩶'
+
+[store]
+Alert = '󱣁'
+Check = '󱣃'
+Clock = '󱣅'
+Cog = '󱣇'
+Edit = '󱣉'
+Marker = '󱣋'
+Minus = '󱙞'
+Off = '󱣎'
+Outline = '󱍡'
+Plus = '󱙟'
+Remove = '󱙠'
+Search = '󱣒'
+Settings = '󱣔'
+
+[store.24]
+Hour = '󰓝'
+
+[store.alert]
+Outline = '󱣂'
+
+[store.check]
+Outline = '󱣄'
+
+[store.clock]
+Outline = '󱣆'
+
+[store.cog]
+Outline = '󱣈'
+
+[store.edit]
+Outline = '󱣊'
+
+[store.marker]
+Outline = '󱣌'
+
+[store.minus]
+Outline = '󱣍'
+
+[store.off]
+Outline = '󱣏'
+
+[store.plus]
+Outline = '󱣐'
+
+[store.remove]
+Outline = '󱣑'
+
+[store.search]
+Outline = '󱣓'
+
+[store.settings]
+Outline = '󱣕'
+
+[storefront]
+Outline = '󱃁'
+[stretch.to]
+Page = '󰼫'
+
+[stretch.to.page]
+Outline = '󰼬'
+
+[string]
+Lights = '󱊺'
+
+[string.lights]
+Off = '󱊻'
+[subdirectory.arrow]
+Left = '󰘌'
+Right = '󰘍'
+
+[subtitles]
+Outline = '󰨗'
+
+[subway]
+Variant = '󰓟'
+
+[subway.alert]
+Variant = '󰶝'
+
+[sun]
+Clock = '󱩷'
+Compass = '󱦥'
+Snowflake = '󱞖'
+Thermometer = '󱣖'
+Wireless = '󱟾'
+
+[sun.clock]
+Outline = '󱩸'
+
+[sun.snowflake]
+Variant = '󱩹'
+
+[sun.thermometer]
+Outline = '󱣗'
+
+[sun.wireless]
+Outline = '󱟿'
+
+[surround]
+Sound = '󰗅'
+[surround.sound.2]
+0 = '󰟰'
+1 = '󱜩'
+
+[surround.sound.3]
+1 = '󰟱'
+[surround.sound.5.1]
+2 = '󱜪'
+
+[surround.sound.7]
+1 = '󰟳'
+
+[swap]
+Horizontal = '󰓡'
+Vertical = '󰓢'
+
+[swap.horizontal]
+Bold = '󰯍'
+Circle = '󰿡'
+Variant = '󰣁'
+
+[swap.horizontal.circle]
+Outline = '󰿢'
+
+[swap.vertical]
+Bold = '󰯎'
+Circle = '󰿣'
+Variant = '󰣂'
+
+[swap.vertical.circle]
+Outline = '󰿤'
+
+[sword]
+Cross = '󰞇'
+
+[syllabary]
+Hangul = '󱌳'
+Hiragana = '󱌴'
+Katakana = '󱌵'
+
+[syllabary.katakana]
+Halfwidth = '󱌶'
+
+[sync]
+Alert = '󰓧'
+Circle = '󱍸'
+Off = '󰓨'
+
+[tab]
+Minus = '󰭋'
+Plus = '󰝜'
+Remove = '󰭌'
+Search = '󱦞'
+Unselected = '󰓪'
+
+[table]
+Account = '󱎹'
+Alert = '󱎺'
+Border = '󰨘'
+Cancel = '󱎿'
+Chair = '󱁡'
+Check = '󱏀'
+Clock = '󱏁'
+Cog = '󱏂'
+Column = '󰠵'
+Edit = '󰓰'
+Eye = '󱂔'
+Furniture = '󰖼'
+Heart = '󱏄'
+Key = '󱏅'
+Large = '󰓱'
+Lock = '󱏆'
+Minus = '󱏇'
+Multiple = '󱏈'
+Network = '󱏉'
+Off = '󱏊'
+Picnic = '󱝃'
+Pivot = '󱠼'
+Plus = '󰩵'
+Refresh = '󱎠'
+Remove = '󰩶'
+Row = '󰠷'
+Search = '󰤏'
+Settings = '󰠸'
+Star = '󱏋'
+Sync = '󱎡'
+Tennis = '󰹨'
+
+[table.arrow]
+Down = '󱎻'
+Left = '󱎼'
+Right = '󱎽'
+Up = '󱎾'
+
+[table.column]
+Remove = '󰓮'
+Width = '󰓯'
+
+[table.column.plus]
+After = '󰓬'
+Before = '󰓭'
+
+[table.eye]
+Off = '󱏃'
+
+[table.headers]
+Eye = '󱈝'
+
+[table.headers.eye]
+Off = '󱈞'
+
+[table.large]
+Plus = '󰾇'
+Remove = '󰾈'
+
+[table.merge]
+Cells = '󰦦'
+
+[table.of]
+Contents = '󰠶'
+
+[table.row]
+Height = '󰓲'
+Remove = '󰓵'
+
+[table.row.plus]
+After = '󰓳'
+Before = '󰓴'
+
+[table.split]
+Cell = '󱐪'
+
+[tablet]
+Android = '󰓷'
+Cellphone = '󰦧'
+Dashboard = '󰻎'
+
+[tag]
+Check = '󱩺'
+Faces = '󰓺'
+Heart = '󰚋'
+Minus = '󰤐'
+Multiple = '󰓻'
+Off = '󱈠'
+Outline = '󰓼'
+Plus = '󰜢'
+Remove = '󰜣'
+Search = '󱤇'
+Text = '󱈤'
+
+[tag.arrow]
+Down = '󱜫'
+Left = '󱜭'
+Right = '󱜯'
+Up = '󱜱'
+
+[tag.arrow.down]
+Outline = '󱜬'
+
+[tag.arrow.left]
+Outline = '󱜮'
+
+[tag.arrow.right]
+Outline = '󱜰'
+
+[tag.arrow.up]
+Outline = '󱜲'
+
+[tag.check]
+Outline = '󱩻'
+
+[tag.heart]
+Outline = '󰯏'
+
+[tag.minus]
+Outline = '󱈟'
+
+[tag.multiple]
+Outline = '󱋷'
+
+[tag.off]
+Outline = '󱈡'
+
+[tag.plus]
+Outline = '󱈢'
+
+[tag.remove]
+Outline = '󱈣'
+
+[tag.search]
+Outline = '󱤈'
+
+[tag.text]
+Outline = '󰓽'
+[tally.mark]
+1 = '󱪼'
+2 = '󱪽'
+3 = '󱪾'
+4 = '󱪿'
+5 = '󱫀'
+
+[tanker]
+Truck = '󰿥'
+
+[tape]
+Drive = '󱛟'
+Measure = '󰭍'
+
+[target]
+Account = '󰯐'
+Variant = '󰩷'
+
+[tea]
+Outline = '󰶟'
+
+[teddy]
+Bear = '󱣻'
+
+[television]
+Box = '󰠹'
+Classic = '󰟴'
+Guide = '󰔃'
+Off = '󰠻'
+Pause = '󰾉'
+Play = '󰻏'
+Shimmer = '󱄐'
+Stop = '󰾊'
+
+[television.ambient]
+Light = '󱍖'
+
+[television.classic]
+Off = '󰠺'
+
+[temperature]
+Celsius = '󰔄'
+Fahrenheit = '󰔅'
+Kelvin = '󰔆'
+
+[tennis]
+Ball = '󰔇'
+
+[test]
+Tube = '󰙨'
+
+[test.tube]
+Empty = '󰤑'
+Off = '󰤒'
+
+[text]
+Account = '󱕰'
+Box = '󰈚'
+Long = '󰦪'
+Recognition = '󱄽'
+Search = '󱎸'
+Shadow = '󰙩'
+Short = '󰦩'
+
+[text.box]
+Check = '󰺦'
+Edit = '󱩼'
+Minus = '󰺨'
+Multiple = '󰪷'
+Outline = '󰧭'
+Plus = '󰺪'
+Remove = '󰺬'
+Search = '󰺮'
+
+[text.box.check]
+Outline = '󰺧'
+
+[text.box.edit]
+Outline = '󱩽'
+
+[text.box.minus]
+Outline = '󰺩'
+
+[text.box.multiple]
+Outline = '󰪸'
+
+[text.box.plus]
+Outline = '󰺫'
+
+[text.box.remove]
+Outline = '󰺭'
+
+[text.box.search]
+Outline = '󰺯'
+
+[text.search]
+Variant = '󱩾'
+
+[text.to]
+Speech = '󰔊'
+
+[text.to.speech]
+Off = '󰔋'
+
+[texture]
+Box = '󰿦'
+[theme.light]
+Dark = '󰔎'
+
+[thermometer]
+Alert = '󰸁'
+Bluetooth = '󱢕'
+Check = '󱩿'
+High = '󱃂'
+Lines = '󰔐'
+Low = '󱃃'
+Minus = '󰸄'
+Off = '󱔱'
+Plus = '󰸅'
+Water = '󱪀'
+
+[thermometer.chevron]
+Down = '󰸂'
+Up = '󰸃'
+
+[thermostat]
+Box = '󰢑'
+
+[thought]
+Bubble = '󰟶'
+
+[thought.bubble]
+Outline = '󰟷'
+
+[thumb]
+Down = '󰔑'
+Up = '󰔓'
+
+[thumb.down]
+Outline = '󰔒'
+
+[thumb.up]
+Outline = '󰔔'
+[thumbs.up]
+Down = '󰔕'
+
+[thumbs.up.down]
+Outline = '󱤔'
+
+[ticket]
+Account = '󰔗'
+Confirmation = '󰔘'
+Outline = '󰤓'
+Percent = '󰜤'
+
+[ticket.confirmation]
+Outline = '󱎪'
+
+[ticket.percent]
+Outline = '󱐫'
+
+[tilde]
+Off = '󱣳'
+
+[timeline]
+Alert = '󰾕'
+Check = '󱔲'
+Clock = '󱇻'
+Help = '󰾙'
+Minus = '󱔴'
+Outline = '󰯒'
+Plus = '󰾖'
+Remove = '󱔶'
+Text = '󰯓'
+
+[timeline.alert]
+Outline = '󰾘'
+
+[timeline.check]
+Outline = '󱔳'
+
+[timeline.clock]
+Outline = '󱇼'
+
+[timeline.help]
+Outline = '󰾚'
+
+[timeline.minus]
+Outline = '󱔵'
+
+[timeline.plus]
+Outline = '󰾗'
+
+[timeline.remove]
+Outline = '󱔷'
+
+[timeline.text]
+Outline = '󰯔'
+
+[timer]
+10 = '󰔜'
+3 = '󰔝'
+Alert = '󱫌'
+Cancel = '󱫎'
+Check = '󱫐'
+Cog = '󱤥'
+Edit = '󱫒'
+Lock = '󱫔'
+Marker = '󱫘'
+Minus = '󱫚'
+Music = '󱫜'
+Off = '󱎬'
+Outline = '󰔛'
+Pause = '󱫞'
+Play = '󱫠'
+Plus = '󱫢'
+Refresh = '󱫤'
+Remove = '󱫦'
+Sand = '󰔟'
+Settings = '󱤣'
+Star = '󱫨'
+Stop = '󱫪'
+Sync = '󱫬'
+
+[timer.alert]
+Outline = '󱫍'
+
+[timer.cancel]
+Outline = '󱫏'
+
+[timer.check]
+Outline = '󱫑'
+
+[timer.cog]
+Outline = '󱤦'
+
+[timer.edit]
+Outline = '󱫓'
+
+[timer.lock]
+Open = '󱫕'
+Outline = '󱫗'
+
+[timer.lock.open]
+Outline = '󱫖'
+
+[timer.marker]
+Outline = '󱫙'
+
+[timer.minus]
+Outline = '󱫛'
+
+[timer.music]
+Outline = '󱫝'
+
+[timer.off]
+Outline = '󰔞'
+
+[timer.pause]
+Outline = '󱫟'
+
+[timer.play]
+Outline = '󱫡'
+
+[timer.plus]
+Outline = '󱫣'
+
+[timer.refresh]
+Outline = '󱫥'
+
+[timer.remove]
+Outline = '󱫧'
+
+[timer.sand]
+Complete = '󱦟'
+Empty = '󰚭'
+Full = '󰞌'
+Paused = '󱦠'
+
+[timer.settings]
+Outline = '󱤤'
+
+[timer.star]
+Outline = '󱫩'
+
+[timer.stop]
+Outline = '󱫫'
+
+[timer.sync]
+Outline = '󱫭'
+
+[toaster]
+Off = '󱆷'
+Oven = '󰳓'
+
+[toggle]
+Switch = '󰔡'
+
+[toggle.switch]
+Off = '󰔢'
+Outline = '󰨚'
+Variant = '󱨥'
+
+[toggle.switch.off]
+Outline = '󰨙'
+
+[toggle.switch.variant]
+Off = '󱨦'
+
+[toolbox]
+Outline = '󰦭'
+
+[tooltip]
+Account = '󰀌'
+Cellphone = '󱠻'
+Check = '󱕜'
+Edit = '󰔤'
+Image = '󰔥'
+Minus = '󱕞'
+Outline = '󰔦'
+Plus = '󰯖'
+Remove = '󱕠'
+Text = '󰔨'
+
+[tooltip.check]
+Outline = '󱕝'
+
+[tooltip.edit]
+Outline = '󱋅'
+
+[tooltip.image]
+Outline = '󰯕'
+
+[tooltip.minus]
+Outline = '󱕟'
+
+[tooltip.plus]
+Outline = '󰔧'
+
+[tooltip.remove]
+Outline = '󱕡'
+
+[tooltip.text]
+Outline = '󰯗'
+
+[tooth]
+Outline = '󰔩'
+
+[toothbrush]
+Electric = '󱄬'
+Paste = '󱄪'
+
+[tow]
+Truck = '󰠼'
+
+[tower]
+Beach = '󰚁'
+Fire = '󰚂'
+
+[town]
+Hall = '󱡵'
+
+[toy]
+Brick = '󱊈'
+
+[toy.brick]
+Marker = '󱊉'
+Minus = '󱊋'
+Outline = '󱊍'
+Plus = '󱊎'
+Remove = '󱊐'
+Search = '󱊒'
+
+[toy.brick.marker]
+Outline = '󱊊'
+
+[toy.brick.minus]
+Outline = '󱊌'
+
+[toy.brick.plus]
+Outline = '󱊏'
+
+[toy.brick.remove]
+Outline = '󱊑'
+
+[toy.brick.search]
+Outline = '󱊓'
+
+[track]
+Light = '󰤔'
+
+[trackpad]
+Lock = '󰤳'
+
+[tractor]
+Variant = '󱓄'
+
+[traffic]
+Cone = '󱍼'
+Light = '󰔫'
+
+[traffic.light]
+Outline = '󱠪'
+
+[train]
+Car = '󰯘'
+Variant = '󰣄'
+
+[train.car]
+Passenger = '󱜳'
+
+[train.car.passenger]
+Door = '󱜴'
+Variant = '󱜶'
+
+[train.car.passenger.door]
+Open = '󱜵'
+
+[tram]
+Side = '󰿧'
+
+[transcribe]
+Close = '󰔯'
+
+[transfer]
+Down = '󰶡'
+Left = '󰶢'
+Right = '󰔰'
+Up = '󰶣'
+
+[transit]
+Connection = '󰴼'
+Detour = '󰾋'
+Skip = '󱔕'
+Transfer = '󰚮'
+
+[transit.connection]
+Horizontal = '󱕆'
+Variant = '󰴽'
+
+[transition]
+Masked = '󰤖'
+
+[translate]
+Off = '󰸆'
+
+[transmission]
+Tower = '󰴾'
+
+[transmission.tower]
+Export = '󱤬'
+Import = '󱤭'
+Off = '󱧝'
+
+[trash]
+Can = '󰩹'
+
+[trash.can]
+Outline = '󰩺'
+
+[tray]
+Alert = '󱊕'
+Full = '󱊖'
+Minus = '󱊗'
+Plus = '󱊘'
+Remove = '󱊙'
+
+[tray.arrow]
+Down = '󰄠'
+Up = '󰄝'
+
+[treasure]
+Chest = '󰜦'
+
+[tree]
+Outline = '󰹩'
+
+[trending]
+Down = '󰔳'
+Neutral = '󰔴'
+Up = '󰔵'
+
+[triangle]
+Outline = '󰔷'
+Wave = '󱑼'
+
+[triangle.small]
+Down = '󱨉'
+Up = '󱨊'
+
+[trophy]
+Award = '󰔹'
+Broken = '󰶤'
+Outline = '󰔺'
+Variant = '󰔻'
+
+[trophy.variant]
+Outline = '󰔼'
+
+[truck]
+Alert = '󱧞'
+Check = '󰳔'
+Delivery = '󰔾'
+Fast = '󰞈'
+Flatbed = '󱢑'
+Minus = '󱦮'
+Outline = '󱊝'
+Plus = '󱦭'
+Remove = '󱦯'
+Snowflake = '󱦦'
+Trailer = '󰜧'
+
+[truck.alert]
+Outline = '󱧟'
+
+[truck.cargo]
+Container = '󱣘'
+
+[truck.check]
+Outline = '󱊚'
+
+[truck.delivery]
+Outline = '󱊛'
+
+[truck.fast]
+Outline = '󱊜'
+
+[truck.minus]
+Outline = '󱦽'
+
+[truck.plus]
+Outline = '󱦼'
+
+[truck.remove]
+Outline = '󱦾'
+
+[tshirt]
+Crew = '󰩻'
+V = '󰩼'
+
+[tshirt.crew]
+Outline = '󰔿'
+
+[tshirt.v]
+Outline = '󰕀'
+
+[tumble]
+Dryer = '󰤗'
+
+[tumble.dryer]
+Alert = '󱆺'
+Off = '󱆻'
+
+[tune]
+Variant = '󱕂'
+Vertical = '󰙪'
+
+[tune.vertical]
+Variant = '󱕃'
+
+[tunnel]
+Outline = '󱠾'
+
+[turnstile]
+Outline = '󰳖'
+[two.factor]
+Authentication = '󰦯'
+
+[ufo]
+Outline = '󱃅'
+[ultra.high]
+Definition = '󰟹'
+
+[umbrella]
+Beach = '󱢊'
+Closed = '󰦰'
+Outline = '󰕋'
+
+[umbrella.beach]
+Outline = '󱢋'
+
+[umbrella.closed]
+Outline = '󱏢'
+Variant = '󱏡'
+
+[undo]
+Variant = '󰕍'
+[unfold.less]
+Horizontal = '󰕎'
+Vertical = '󰝠'
+
+[unfold.more]
+Horizontal = '󰕏'
+Vertical = '󰝡'
+
+[unicorn]
+Variant = '󱗃'
+
+[upload]
+Lock = '󱍳'
+Multiple = '󰠽'
+Network = '󰛶'
+Off = '󱃆'
+Outline = '󰸇'
+
+[upload.lock]
+Outline = '󱍴'
+
+[upload.network]
+Outline = '󰳘'
+
+[upload.off]
+Outline = '󱃇'
+
+[usb]
+Port = '󱇰'
+
+[usb.flash]
+Drive = '󱊞'
+
+[usb.flash.drive]
+Outline = '󱊟'
+
+[vacuum]
+Outline = '󱦢'
+
+[valve]
+Closed = '󱁧'
+Open = '󱁨'
+
+[van]
+Passenger = '󰟺'
+Utility = '󰟻'
+
+[vanish]
+Quarter = '󱕔'
+
+[vanity]
+Light = '󱇡'
+
+[variable]
+Box = '󱄑'
+
+[vector]
+Bezier = '󰫨'
+Circle = '󰕖'
+Combine = '󰕘'
+Curve = '󰕙'
+Difference = '󰕚'
+Ellipse = '󰢓'
+Intersection = '󰕝'
+Line = '󰕞'
+Link = '󰿨'
+Point = '󰕟'
+Polygon = '󰕠'
+Polyline = '󰕡'
+Radius = '󰝊'
+Rectangle = '󰗆'
+Selection = '󰕢'
+Square = '󰀁'
+Triangle = '󰕣'
+Union = '󰕤'
+
+[vector.arrange]
+Above = '󰕔'
+Below = '󰕕'
+
+[vector.circle]
+Variant = '󰕗'
+
+[vector.difference]
+Ab = '󰕛'
+Ba = '󰕜'
+
+[vector.polygon]
+Variant = '󱡖'
+
+[vector.polyline]
+Edit = '󱈥'
+Minus = '󱈦'
+Plus = '󱈧'
+Remove = '󱈨'
+
+[vector.square]
+Close = '󱡗'
+Edit = '󱣙'
+Minus = '󱣚'
+Open = '󱡘'
+Plus = '󱣛'
+Remove = '󱣜'
+
+[vibrate]
+Off = '󰳙'
+
+[video]
+2d = '󱨜'
+Account = '󰤙'
+Box = '󰃽'
+Check = '󱁩'
+Image = '󰤚'
+Marker = '󱦩'
+Minus = '󰦲'
+Off = '󰕨'
+Outline = '󰯜'
+Plus = '󰦳'
+Stabilization = '󰤛'
+Switch = '󰕩'
+Vintage = '󰨜'
+Wireless = '󰻒'
+
+[video.3d]
+Off = '󱏙'
+Variant = '󰻑'
+
+[video.4k]
+Box = '󰠾'
+
+[video.box]
+Off = '󰃾'
+
+[video.check]
+Outline = '󱁪'
+
+[video.high]
+Definition = '󱔮'
+
+[video.input]
+Antenna = '󰠿'
+Component = '󰡀'
+Hdmi = '󰡁'
+Scart = '󰾌'
+Svideo = '󰡂'
+
+[video.marker]
+Outline = '󱦪'
+
+[video.minus]
+Outline = '󰊺'
+
+[video.off]
+Outline = '󰯛'
+
+[video.plus]
+Outline = '󰇓'
+
+[video.switch]
+Outline = '󰞐'
+
+[video.wireless]
+Outline = '󰻓'
+
+[view]
+Agenda = '󰕪'
+Array = '󰕫'
+Carousel = '󰕬'
+Column = '󰕭'
+Comfy = '󰹪'
+Compact = '󰹫'
+Dashboard = '󰕮'
+Day = '󰕯'
+Gallery = '󱢈'
+Grid = '󰕰'
+Headline = '󰕱'
+List = '󰕲'
+Module = '󰕳'
+Parallel = '󰜨'
+Quilt = '󰕴'
+Sequential = '󰜩'
+Stream = '󰕵'
+Week = '󰕶'
+
+[view.agenda]
+Outline = '󱇘'
+
+[view.array]
+Outline = '󱒅'
+
+[view.carousel]
+Outline = '󱒆'
+
+[view.column]
+Outline = '󱒇'
+
+[view.comfy]
+Outline = '󱒈'
+
+[view.compact]
+Outline = '󰹬'
+
+[view.dashboard]
+Edit = '󱥇'
+Outline = '󰨝'
+Variant = '󰡃'
+
+[view.dashboard.edit]
+Outline = '󱥈'
+
+[view.dashboard.variant]
+Outline = '󱒉'
+
+[view.day]
+Outline = '󱒊'
+
+[view.gallery]
+Outline = '󱢉'
+
+[view.grid]
+Outline = '󱇙'
+Plus = '󰾍'
+
+[view.grid.plus]
+Outline = '󱇚'
+
+[view.list]
+Outline = '󱒋'
+
+[view.module]
+Outline = '󱒌'
+
+[view.parallel]
+Outline = '󱒍'
+
+[view.quilt]
+Outline = '󱒎'
+
+[view.sequential]
+Outline = '󱒏'
+
+[view.split]
+Horizontal = '󰯋'
+Vertical = '󰯌'
+
+[view.stream]
+Outline = '󱒐'
+
+[view.week]
+Outline = '󱒑'
+
+[virtual]
+Reality = '󰢔'
+
+[virus]
+Off = '󱣡'
+Outline = '󱎷'
+
+[virus.off]
+Outline = '󱣢'
+
+[volcano]
+Outline = '󱪄'
+
+[volume]
+High = '󰕾'
+Low = '󰕿'
+Medium = '󰖀'
+Minus = '󰝞'
+Mute = '󰝟'
+Off = '󰖁'
+Plus = '󰝝'
+Source = '󱄠'
+Vibrate = '󱄡'
+
+[volume.variant]
+Off = '󰸈'
+
+[vote]
+Outline = '󰨠'
+
+[wall]
+Fire = '󱨑'
+Sconce = '󰤜'
+
+[wall.sconce]
+Flat = '󰤝'
+Outline = '󱟋'
+Round = '󰝈'
+
+[wall.sconce.flat]
+Outline = '󱟉'
+Variant = '󰐜'
+
+[wall.sconce.flat.variant]
+Outline = '󱟊'
+
+[wall.sconce.round]
+Outline = '󱟌'
+Variant = '󰤞'
+
+[wall.sconce.round.variant]
+Outline = '󱟍'
+
+[wallet]
+Giftcard = '󰖅'
+Membership = '󰖆'
+Outline = '󰯝'
+Plus = '󰾎'
+Travel = '󰖇'
+
+[wallet.plus]
+Outline = '󰾏'
+
+[wardrobe]
+Outline = '󰾑'
+
+[washing]
+Machine = '󰜪'
+
+[washing.machine]
+Alert = '󱆼'
+Off = '󱆽'
+
+[watch]
+Export = '󰖊'
+Import = '󰖋'
+Variant = '󰢗'
+Vibrate = '󰚱'
+
+[watch.export]
+Variant = '󰢕'
+
+[watch.import]
+Variant = '󰢖'
+
+[watch.vibrate]
+Off = '󰳚'
+
+[water]
+Alert = '󱔂'
+Boiler = '󰾒'
+Check = '󱔄'
+Circle = '󱠆'
+Minus = '󱔆'
+Off = '󰖍'
+Opacity = '󱡕'
+Outline = '󰸊'
+Percent = '󰖎'
+Plus = '󱔊'
+Polo = '󱊠'
+Pump = '󰖏'
+Remove = '󱔌'
+Sync = '󱟆'
+Thermometer = '󱪅'
+Well = '󱁫'
+
+[water.alert]
+Outline = '󱔃'
+
+[water.boiler]
+Alert = '󱆳'
+Off = '󱆴'
+
+[water.check]
+Outline = '󱔅'
+
+[water.minus]
+Outline = '󱔇'
+
+[water.off]
+Outline = '󱔈'
+
+[water.percent]
+Alert = '󱔉'
+
+[water.plus]
+Outline = '󱔋'
+
+[water.pump]
+Off = '󰾓'
+
+[water.remove]
+Outline = '󱔍'
+
+[water.thermometer]
+Outline = '󱪆'
+
+[water.well]
+Outline = '󱁬'
+
+[watering]
+Can = '󱒁'
+
+[watering.can]
+Outline = '󱒂'
+[waves.arrow]
+Left = '󱡙'
+Right = '󱡚'
+Up = '󱡛'
+
+[weather]
+Cloudy = '󰖐'
+Fog = '󰖑'
+Hail = '󰖒'
+Hazy = '󰼰'
+Hurricane = '󰢘'
+Lightning = '󰖓'
+Night = '󰖔'
+Pouring = '󰖖'
+Rainy = '󰖗'
+Snowy = '󰖘'
+Sunny = '󰖙'
+Sunset = '󰖚'
+Tornado = '󰼸'
+Windy = '󰖝'
+
+[weather.cloudy]
+Alert = '󰼯'
+Clock = '󱣶'
+
+[weather.cloudy.arrow]
+Right = '󰹮'
+
+[weather.lightning]
+Rainy = '󰙾'
+[weather.night.partly]
+Cloudy = '󰼱'
+
+[weather.partly]
+Cloudy = '󰖕'
+Lightning = '󰼲'
+Rainy = '󰼳'
+Snowy = '󰼴'
+
+[weather.partly.snowy]
+Rainy = '󰼵'
+
+[weather.snowy]
+Heavy = '󰼶'
+Rainy = '󰙿'
+
+[weather.sunny]
+Alert = '󰼷'
+Off = '󱓤'
+
+[weather.sunset]
+Down = '󰖛'
+Up = '󰖜'
+
+[weather.windy]
+Variant = '󰖞'
+
+[web]
+Box = '󰾔'
+Cancel = '󱞐'
+Check = '󰞉'
+Clock = '󱉊'
+Minus = '󱂠'
+Off = '󰪎'
+Plus = '󰀳'
+Refresh = '󱞑'
+Remove = '󰕑'
+Sync = '󱞒'
+
+[webcam]
+Off = '󱜷'
+
+[weight]
+Gram = '󰴿'
+Kilogram = '󰖢'
+Lifter = '󱅝'
+Pound = '󰦵'
+
+[wheel]
+Barrow = '󱓲'
+
+[wheelchair]
+Accessibility = '󰖤'
+
+[whistle]
+Outline = '󱊼'
+[white.balance]
+Auto = '󰖥'
+Incandescent = '󰖦'
+Iridescent = '󰖧'
+Sunny = '󰖨'
+
+[widgets]
+Outline = '󱍕'
+
+[wifi]
+Alert = '󱚵'
+Cancel = '󱚼'
+Check = '󱚽'
+Cog = '󱚾'
+Lock = '󱚿'
+Marker = '󱛁'
+Minus = '󱛂'
+Off = '󰖪'
+Plus = '󱛃'
+Refresh = '󱛄'
+Remove = '󱛅'
+Settings = '󱛆'
+Star = '󰸋'
+Sync = '󱛇'
+
+[wifi.arrow]
+Down = '󱚶'
+Left = '󱚷'
+Right = '󱚹'
+Up = '󱚺'
+
+[wifi.arrow.left]
+Right = '󱚸'
+
+[wifi.arrow.up]
+Down = '󱚻'
+
+[wifi.lock]
+Open = '󱛀'
+
+[wifi.strength]
+Off = '󰤭'
+Outline = '󰤯'
+
+[wifi.strength.1]
+Alert = '󰤠'
+Lock = '󰤡'
+
+[wifi.strength.1.lock]
+Open = '󱛋'
+
+[wifi.strength.2]
+Alert = '󰤣'
+Lock = '󰤤'
+
+[wifi.strength.2.lock]
+Open = '󱛌'
+
+[wifi.strength.3]
+Alert = '󰤦'
+Lock = '󰤧'
+
+[wifi.strength.3.lock]
+Open = '󱛍'
+
+[wifi.strength.4]
+Alert = '󰤩'
+Lock = '󰤪'
+
+[wifi.strength.4.lock]
+Open = '󱛎'
+
+[wifi.strength.alert]
+Outline = '󰤫'
+
+[wifi.strength.lock]
+Outline = '󰤬'
+
+[wifi.strength.lock.open]
+Outline = '󱛏'
+
+[wifi.strength.off]
+Outline = '󰤮'
+
+[wind]
+Power = '󱪈'
+Turbine = '󰶥'
+
+[wind.power]
+Outline = '󱪉'
+
+[wind.turbine]
+Alert = '󱦫'
+Check = '󱦬'
+
+[window]
+Close = '󰖭'
+Closed = '󰖮'
+Maximize = '󰖯'
+Minimize = '󰖰'
+Open = '󰖱'
+Restore = '󰖲'
+Shutter = '󱄜'
+
+[window.closed]
+Variant = '󱇛'
+
+[window.open]
+Variant = '󱇜'
+
+[window.shutter]
+Alert = '󱄝'
+Cog = '󱪊'
+Open = '󱄞'
+Settings = '󱪋'
+
+[wiper]
+Wash = '󰶦'
+
+[wiper.wash]
+Alert = '󱣟'
+
+[wizard]
+Hat = '󱑷'
+
+[wrap]
+Disabled = '󰯟'
+
+[wrench]
+Clock = '󱦣'
+Outline = '󰯠'
+
+[yin]
+Yang = '󰚀'
+
+[youtube]
+Gaming = '󰡈'
+Studio = '󰡇'
+Subscription = '󰵀'
+Tv = '󰑈'
+
+[z]
+Wave = '󰫪'
+
+[zip]
+Box = '󰗄'
+Disk = '󰨣'
+
+[zip.box]
+Outline = '󰿺'
+
+[zodiac]
+Aquarius = '󰩽'
+Aries = '󰩾'
+Cancer = '󰩿'
+Capricorn = '󰪀'
+Gemini = '󰪁'
+Leo = '󰪂'
+Libra = '󰪃'
+Pisces = '󰪄'
+Sagittarius = '󰪅'
+Scorpio = '󰪆'
+Taurus = '󰪇'
+Virgo = '󰪈'

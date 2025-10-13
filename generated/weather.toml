@@ -1,0 +1,341 @@
+Alien = ''
+Aliens = ''
+Barometer = ''
+Celsius = ''
+Cloud = ''
+Cloudy = ''
+Degrees = ''
+Dust = ''
+Earthquake = ''
+Fahrenheit = ''
+Fire = ''
+Flood = ''
+Fog = ''
+Hail = ''
+Horizon = ''
+Hot = ''
+Humidity = ''
+Hurricane = ''
+Lightning = ''
+Meteor = ''
+Moonrise = ''
+Moonset = ''
+Na = ''
+Rain = ''
+Raindrop = ''
+Raindrops = ''
+Refresh = ''
+Sandstorm = ''
+Showers = ''
+Sleet = ''
+Smog = ''
+Smoke = ''
+Snow = ''
+Sprinkle = ''
+Stars = ''
+Sunrise = ''
+Sunset = ''
+Thermometer = ''
+Thunderstorm = ''
+Tornado = ''
+Train = ''
+Tsunami = ''
+Umbrella = ''
+Volcano = ''
+Windy = ''
+
+[cloud]
+Down = ''
+Refresh = ''
+Up = ''
+
+[cloudy]
+Gusts = ''
+Windy = ''
+
+[day]
+Cloudy = ''
+Fog = ''
+Hail = ''
+Haze = ''
+Lightning = ''
+Rain = ''
+Showers = ''
+Sleet = ''
+Snow = ''
+Sprinkle = ''
+Sunny = ''
+Thunderstorm = ''
+Windy = ''
+
+[day.cloudy]
+Gusts = ''
+High = ''
+Windy = ''
+
+[day.light]
+Wind = ''
+
+[day.rain]
+Mix = ''
+Wind = ''
+
+[day.sleet]
+Storm = ''
+
+[day.snow]
+Thunderstorm = ''
+Wind = ''
+
+[day.storm]
+Showers = ''
+
+[day.sunny]
+Overcast = ''
+
+[direction]
+Down = ''
+Left = ''
+Right = ''
+Up = ''
+
+[direction.down]
+Left = ''
+Right = ''
+
+[direction.up]
+Left = ''
+Right = ''
+
+[gale]
+Warning = ''
+
+[horizon]
+Alt = ''
+
+[hurricane]
+Warning = ''
+
+[lunar]
+Eclipse = ''
+
+[moon]
+Full = ''
+New = ''
+
+[moon.alt]
+Full = ''
+New = ''
+
+[moon.alt.first]
+Quarter = ''
+
+[moon.alt.third]
+Quarter = ''
+[moon.alt.waning.crescent]
+1 = ''
+2 = ''
+3 = ''
+4 = ''
+5 = ''
+6 = ''
+
+[moon.alt.waning.gibbous]
+1 = ''
+2 = ''
+3 = ''
+4 = ''
+5 = ''
+6 = ''
+[moon.alt.waxing.crescent]
+1 = ''
+2 = ''
+3 = ''
+4 = ''
+5 = ''
+6 = ''
+
+[moon.alt.waxing.gibbous]
+1 = ''
+2 = ''
+3 = ''
+4 = ''
+5 = ''
+6 = ''
+
+[moon.first]
+Quarter = ''
+
+[moon.third]
+Quarter = ''
+[moon.waning.crescent]
+1 = ''
+2 = ''
+3 = ''
+4 = ''
+5 = ''
+6 = ''
+
+[moon.waning.gibbous]
+1 = ''
+2 = ''
+3 = ''
+4 = ''
+5 = ''
+6 = ''
+[moon.waxing.crescent]
+1 = ''
+2 = ''
+3 = ''
+4 = ''
+5 = ''
+6 = ''
+
+[moon.waxing.gibbous]
+1 = ''
+2 = ''
+3 = ''
+4 = ''
+5 = ''
+6 = ''
+
+[night]
+Clear = ''
+Cloudy = ''
+Fog = ''
+Hail = ''
+Lightning = ''
+Rain = ''
+Showers = ''
+Sleet = ''
+Snow = ''
+Sprinkle = ''
+Thunderstorm = ''
+
+[night.alt]
+Cloudy = ''
+Hail = ''
+Lightning = ''
+Rain = ''
+Showers = ''
+Sleet = ''
+Snow = ''
+Sprinkle = ''
+Thunderstorm = ''
+
+[night.alt.cloudy]
+Gusts = ''
+High = ''
+Windy = ''
+
+[night.alt.partly]
+Cloudy = ''
+
+[night.alt.rain]
+Mix = ''
+Wind = ''
+
+[night.alt.sleet]
+Storm = ''
+
+[night.alt.snow]
+Thunderstorm = ''
+Wind = ''
+
+[night.alt.storm]
+Showers = ''
+
+[night.cloudy]
+Gusts = ''
+High = ''
+Windy = ''
+
+[night.partly]
+Cloudy = ''
+
+[night.rain]
+Mix = ''
+Wind = ''
+
+[night.sleet]
+Storm = ''
+
+[night.snow]
+Thunderstorm = ''
+Wind = ''
+
+[night.storm]
+Showers = ''
+
+[rain]
+Mix = ''
+Wind = ''
+
+[refresh]
+Alt = ''
+[small.craft]
+Advisory = ''
+
+[snow]
+Wind = ''
+
+[snowflake]
+Cold = ''
+
+[solar]
+Eclipse = ''
+
+[storm]
+Showers = ''
+Warning = ''
+
+[strong]
+Wind = ''
+
+[thermometer]
+Exterior = ''
+Internal = ''
+
+[time]
+1 = ''
+10 = ''
+11 = ''
+12 = ''
+2 = ''
+3 = ''
+4 = ''
+5 = ''
+6 = ''
+7 = ''
+8 = ''
+9 = ''
+
+[wind]
+Direction = ''
+East = ''
+North = ''
+South = ''
+West = ''
+
+[wind.beaufort]
+0 = ''
+1 = ''
+10 = ''
+11 = ''
+12 = ''
+2 = ''
+3 = ''
+4 = ''
+5 = ''
+6 = ''
+7 = ''
+8 = ''
+9 = ''
+
+[wind.north]
+East = ''
+West = ''
+
+[wind.south]
+East = ''
+West = ''

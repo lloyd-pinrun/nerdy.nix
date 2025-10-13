@@ -1,5 +1,8 @@
 {inputs, ...}: {
-  imports = [inputs.devenv.flakeModule];
+  imports = [
+    inputs.devenv.flakeModule
+    ./icons
+  ];
 
   perSystem = {
     config,
@@ -55,7 +58,10 @@
               statix
             ];
           };
-          typos.enable = true;
+          typos = {
+            enable = true;
+            settings.exclude = ["generated"];
+          };
           # keep-sorted end
 
           # -- nix --
